@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.ipynb_checkpoints
+processed_data/
+output_maps/
+tl_2025_us_county/
