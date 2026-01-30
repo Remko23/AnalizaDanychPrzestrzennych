@@ -1,0 +1,8 @@
+./shp2pgsql -I -s 4267 "C:\Users\rtome\Documents\Studia\5-Semestr\DPrzestrzenne\PD1\ice_cream_data\ice_cream_data\cities.shp" public.Cities | ./psql -U postgres -d PD1
+
+./shp2pgsql -I -s 4267 "C:\Users\rtome\Documents\Studia\5-Semestr\DPrzestrzenne\PD1\ice_cream_data\ice_cream_data\counties.shp" public.Counties | ./psql -U postgres -d PD1
+
+
+./shp2pgsql -I -s 4267 "C:\Users\rtome\Documents\Studia\5-Semestr\DPrzestrzenne\PD1\ice_cream_data\ice_cream_data\interstates.shp" public.Interstates | ./psql -U postgres -d PD1
+
+./shp2pgsql -I -s 4267 "C:\Users\rtome\Documents\Studia\5-Semestr\DPrzestrzenne\PD1\ice_cream_data\ice_cream_data\recareas.shp" public.Recareas | ./psql -U postgres -d PD1
