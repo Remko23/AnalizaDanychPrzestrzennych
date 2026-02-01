@@ -195,7 +195,7 @@ html_poverty = get_top10_html(gdf_clean, 'Poverty_Rate_Pct', 'Ubóstwo %', ascen
 html_unemployment = get_top10_html(gdf_clean, 'Unemployment_Rate_Pct', 'Bezrobocie %', ascending=True)
 html_schools = get_top10_html(gdf_clean, 'School_Density', 'Szkoły/1k mieszk.', ascending=False)
 
-m = folium.Map(location=[37.0902, -95.7129], zoom_start=4, tiles=None)
+m = folium.Map(location=[37.0902, -95.7129], zoom_start=4, tiles=None, zoom_control=True)
 folium.TileLayer('CartoDB dark_matter', name="Dark Mode", control=True).add_to(m)
 folium.TileLayer('OpenStreetMap', name="Light Mode", control=True).add_to(m)
 
@@ -230,7 +230,7 @@ folium.plugins.GroupedLayerControl(
         'Wybierz Wskaźnik': [cp_qol, cp_income, cp_housing, cp_poverty, cp_unemployment, cp_education, cp_safety, cp_schools]
     },
     exclusive_groups=True,
-    collapsed=False
+    collapsed=True
 ).add_to(m)
 
 floating_panel_html = f'''
@@ -301,7 +301,7 @@ floating_panel_html = f'''
 
 m.get_root().html.add_child(folium.Element(floating_panel_html))
 
-plugins.Search(layer=cp_qol.geojson, geom_type='Polygon', placeholder='Szukaj hrabstwa', collapsed=True, search_label='NAME', weight=3).add_to(m)
+plugins.Search(layer=cp_qol.geojson, geom_type='Polygon', placeholder='Szukaj hrabstwa', collapsed=True, search_label='NAME', weight=3, position='bottomleft').add_to(m)
 plugins.MiniMap(toggle_display=True).add_to(m)
 
 m.save('output_maps/final_map_usa.html')
