@@ -1,0 +1,2417 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate
+	"Baldwin County, AL"	"01003"	"2018"	"2018"	10	218022	Unreliable
+	"Baldwin County, AL"	"01003"	"2021"	"2021"	10	239294	Unreliable
+	"Baldwin County, AL"	"01003"	"2022"	"2022"	13	246435	Unreliable
+	"Baldwin County, AL"	"01003"	"2023 "	"2023"	21	253507	8.3
+	"Calhoun County, AL"	"01015"	"2018"	"2018"	15	114277	Unreliable
+	"Calhoun County, AL"	"01015"	"2019"	"2019"	11	113605	Unreliable
+	"Calhoun County, AL"	"01015"	"2021"	"2021"	10	115972	Unreliable
+	"Calhoun County, AL"	"01015"	"2022"	"2022"	11	115788	Unreliable
+	"Calhoun County, AL"	"01015"	"2023 "	"2023"	16	116429	Unreliable
+	"Dallas County, AL"	"01047"	"2018"	"2018"	18	38310	Unreliable
+	"Dallas County, AL"	"01047"	"2020"	"2020"	11	36098	Unreliable
+	"Dallas County, AL"	"01047"	"2021"	"2021"	25	37619	66.5
+	"Dallas County, AL"	"01047"	"2022"	"2022"	17	36767	Unreliable
+	"Dallas County, AL"	"01047"	"2023 "	"2023"	24	36165	66.4
+	"Elmore County, AL"	"01051"	"2018"	"2018"	10	81887	Unreliable
+	"Etowah County, AL"	"01055"	"2022"	"2022"	10	103088	Unreliable
+	"Houston County, AL"	"01069"	"2018"	"2018"	11	104722	Unreliable
+	"Houston County, AL"	"01069"	"2019"	"2019"	10	105882	Unreliable
+	"Houston County, AL"	"01069"	"2021"	"2021"	13	107458	Unreliable
+	"Houston County, AL"	"01069"	"2022"	"2022"	14	108079	Unreliable
+	"Jefferson County, AL"	"01073"	"2018"	"2018"	161	659300	24.4
+	"Jefferson County, AL"	"01073"	"2019"	"2019"	162	658573	24.6
+	"Jefferson County, AL"	"01073"	"2020"	"2020"	175	655342	26.7
+	"Jefferson County, AL"	"01073"	"2021"	"2021"	211	667820	31.6
+	"Jefferson County, AL"	"01073"	"2022"	"2022"	192	665409	28.9
+	"Jefferson County, AL"	"01073"	"2023 "	"2023"	186	662895	28.1
+	"Lee County, AL"	"01081"	"2018"	"2018"	12	163941	Unreliable
+	"Lee County, AL"	"01081"	"2019"	"2019"	14	164542	Unreliable
+	"Lee County, AL"	"01081"	"2020"	"2020"	12	166831	Unreliable
+	"Lee County, AL"	"01081"	"2021"	"2021"	13	177218	Unreliable
+	"Lee County, AL"	"01081"	"2022"	"2022"	15	180773	Unreliable
+	"Lee County, AL"	"01081"	"2023 "	"2023"	12	183215	Unreliable
+	"Limestone County, AL"	"01083"	"2018"	"2018"	11	96174	Unreliable
+	"Limestone County, AL"	"01083"	"2019"	"2019"	10	98915	Unreliable
+	"Macon County, AL"	"01087"	"2019"	"2019"	12	18068	Unreliable
+	"Macon County, AL"	"01087"	"2022"	"2022"	10	18516	Unreliable
+	"Madison County, AL"	"01089"	"2018"	"2018"	37	366519	10.1
+	"Madison County, AL"	"01089"	"2019"	"2019"	31	372909	8.3
+	"Madison County, AL"	"01089"	"2020"	"2020"	23	379453	6.1
+	"Madison County, AL"	"01089"	"2021"	"2021"	35	395211	8.9
+	"Madison County, AL"	"01089"	"2022"	"2022"	34	403565	8.4
+	"Madison County, AL"	"01089"	"2023 "	"2023"	36	412600	8.7
+	"Mobile County, AL"	"01097"	"2018"	"2018"	57	413757	13.8
+	"Mobile County, AL"	"01097"	"2019"	"2019"	61	413210	14.8
+	"Mobile County, AL"	"01097"	"2020"	"2020"	79	412716	19.1
+	"Mobile County, AL"	"01097"	"2021"	"2021"	84	413073	20.3
+	"Mobile County, AL"	"01097"	"2022"	"2022"	77	411411	18.7
+	"Mobile County, AL"	"01097"	"2023 "	"2023"	78	411640	18.9
+	"Montgomery County, AL"	"01101"	"2018"	"2018"	44	225763	19.5
+	"Montgomery County, AL"	"01101"	"2019"	"2019"	42	226486	18.5
+	"Montgomery County, AL"	"01101"	"2020"	"2020"	69	224639	30.7
+	"Montgomery County, AL"	"01101"	"2021"	"2021"	86	227434	37.8
+	"Montgomery County, AL"	"01101"	"2022"	"2022"	77	226361	34.0
+	"Montgomery County, AL"	"01101"	"2023 "	"2023"	78	224980	34.7
+	"Morgan County, AL"	"01103"	"2018"	"2018"	10	119089	Unreliable
+	"Morgan County, AL"	"01103"	"2019"	"2019"	13	119679	Unreliable
+	"Morgan County, AL"	"01103"	"2020"	"2020"	22	119883	18.4
+	"Morgan County, AL"	"01103"	"2021"	"2021"	17	123668	Unreliable
+	"Morgan County, AL"	"01103"	"2022"	"2022"	12	124211	Unreliable
+	"Russell County, AL"	"01113"	"2018"	"2018"	10	57781	Unreliable
+	"Russell County, AL"	"01113"	"2019"	"2019"	15	57961	Unreliable
+	"Russell County, AL"	"01113"	"2021"	"2021"	16	58722	Unreliable
+	"Russell County, AL"	"01113"	"2022"	"2022"	11	58555	Unreliable
+	"Russell County, AL"	"01113"	"2023 "	"2023"	19	58744	Unreliable
+	"Shelby County, AL"	"01117"	"2018"	"2018"	10	215707	Unreliable
+	"Shelby County, AL"	"01117"	"2021"	"2021"	12	226902	Unreliable
+	"Shelby County, AL"	"01117"	"2022"	"2022"	12	230115	Unreliable
+	"Talladega County, AL"	"01121"	"2019"	"2019"	12	79978	Unreliable
+	"Talladega County, AL"	"01121"	"2020"	"2020"	23	79985	28.8
+	"Talladega County, AL"	"01121"	"2021"	"2021"	20	81524	24.5
+	"Talladega County, AL"	"01121"	"2022"	"2022"	16	80704	Unreliable
+	"Talladega County, AL"	"01121"	"2023 "	"2023"	10	81132	Unreliable
+	"Tuscaloosa County, AL"	"01125"	"2018"	"2018"	13	208911	Unreliable
+	"Tuscaloosa County, AL"	"01125"	"2019"	"2019"	19	209355	Unreliable
+	"Tuscaloosa County, AL"	"01125"	"2020"	"2020"	22	210758	10.4
+	"Tuscaloosa County, AL"	"01125"	"2021"	"2021"	22	227007	9.7
+	"Tuscaloosa County, AL"	"01125"	"2022"	"2022"	22	236780	9.3
+	"Tuscaloosa County, AL"	"01125"	"2023 "	"2023"	22	237373	9.3
+	"Anchorage Borough, AK"	"02020"	"2018"	"2018"	28	291538	9.6
+	"Anchorage Borough, AK"	"02020"	"2019"	"2019"	31	288000	10.8
+	"Anchorage Borough, AK"	"02020"	"2020"	"2020"	19	287095	Unreliable
+	"Anchorage Borough, AK"	"02020"	"2021"	"2021"	19	288121	Unreliable
+	"Anchorage Borough, AK"	"02020"	"2022"	"2022"	23	287145	8.0
+	"Anchorage Borough, AK"	"02020"	"2023 "	"2023"	24	286075	8.4
+	"Bethel Census Area, AK"	"02050"	"2022"	"2022"	10	18257	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"2019"	"2019"	10	96849	Unreliable
+	"Fairbanks North Star Borough, AK"	"02090"	"2022"	"2022"	21	95356	22.0
+	"Matanuska-Susitna Borough, AK"	"02170"	"2019"	"2019"	11	108317	Unreliable
+	"Apache County, AZ"	"04001"	"2020"	"2020"	14	71875	Unreliable
+	"Apache County, AZ"	"04001"	"2021"	"2021"	17	65623	Unreliable
+	"Apache County, AZ"	"04001"	"2022"	"2022"	15	65432	Unreliable
+	"Coconino County, AZ"	"04005"	"2018"	"2018"	14	142854	Unreliable
+	"Coconino County, AZ"	"04005"	"2023 "	"2023"	11	144472	Unreliable
+	"Maricopa County, AZ"	"04013"	"2018"	"2018"	243	4410824	5.5
+	"Maricopa County, AZ"	"04013"	"2019"	"2019"	254	4485414	5.7
+	"Maricopa County, AZ"	"04013"	"2020"	"2020"	317	4579081	6.9
+	"Maricopa County, AZ"	"04013"	"2021"	"2021"	338	4496588	7.5
+	"Maricopa County, AZ"	"04013"	"2022"	"2022"	377	4551524	8.3
+	"Maricopa County, AZ"	"04013"	"2023 "	"2023"	331	4585871	7.2
+	"Mohave County, AZ"	"04015"	"2020"	"2020"	15	217206	Unreliable
+	"Mohave County, AZ"	"04015"	"2021"	"2021"	16	217692	Unreliable
+	"Mohave County, AZ"	"04015"	"2022"	"2022"	18	220816	Unreliable
+	"Mohave County, AZ"	"04015"	"2023 "	"2023"	14	223682	Unreliable
+	"Navajo County, AZ"	"04017"	"2018"	"2018"	11	110445	Unreliable
+	"Navajo County, AZ"	"04017"	"2019"	"2019"	15	110924	Unreliable
+	"Navajo County, AZ"	"04017"	"2020"	"2020"	29	112112	25.9
+	"Navajo County, AZ"	"04017"	"2021"	"2021"	12	108147	Unreliable
+	"Navajo County, AZ"	"04017"	"2022"	"2022"	18	108650	Unreliable
+	"Navajo County, AZ"	"04017"	"2023 "	"2023"	12	109175	Unreliable
+	"Pima County, AZ"	"04019"	"2018"	"2018"	73	1039073	7.0
+	"Pima County, AZ"	"04019"	"2019"	"2019"	67	1047279	6.4
+	"Pima County, AZ"	"04019"	"2020"	"2020"	75	1061175	7.1
+	"Pima County, AZ"	"04019"	"2021"	"2021"	96	1052030	9.1
+	"Pima County, AZ"	"04019"	"2022"	"2022"	97	1057597	9.2
+	"Pima County, AZ"	"04019"	"2023 "	"2023"	75	1063162	7.1
+	"Pinal County, AZ"	"04021"	"2018"	"2018"	22	447138	4.9
+	"Pinal County, AZ"	"04021"	"2019"	"2019"	25	462789	5.4
+	"Pinal County, AZ"	"04021"	"2020"	"2020"	28	480828	5.8
+	"Pinal County, AZ"	"04021"	"2021"	"2021"	35	449557	7.8
+	"Pinal County, AZ"	"04021"	"2022"	"2022"	34	464154	7.3
+	"Pinal County, AZ"	"04021"	"2023 "	"2023"	27	484239	5.6
+	"Yavapai County, AZ"	"04025"	"2022"	"2022"	13	246191	Unreliable
+	"Yuma County, AZ"	"04027"	"2018"	"2018"	13	212128	Unreliable
+	"Yuma County, AZ"	"04027"	"2021"	"2021"	11	206990	Unreliable
+	"Yuma County, AZ"	"04027"	"2022"	"2022"	15	207842	Unreliable
+	"Yuma County, AZ"	"04027"	"2023 "	"2023"	15	213221	Unreliable
+	"Benton County, AR"	"05007"	"2021"	"2021"	12	293692	Unreliable
+	"Craighead County, AR"	"05031"	"2019"	"2019"	12	110332	Unreliable
+	"Craighead County, AR"	"05031"	"2020"	"2020"	12	112245	Unreliable
+	"Craighead County, AR"	"05031"	"2022"	"2022"	10	113017	Unreliable
+	"Crittenden County, AR"	"05035"	"2018"	"2018"	17	48342	Unreliable
+	"Crittenden County, AR"	"05035"	"2019"	"2019"	10	47955	Unreliable
+	"Crittenden County, AR"	"05035"	"2020"	"2020"	12	47616	Unreliable
+	"Crittenden County, AR"	"05035"	"2021"	"2021"	18	47525	Unreliable
+	"Crittenden County, AR"	"05035"	"2022"	"2022"	15	47061	Unreliable
+	"Crittenden County, AR"	"05035"	"2023 "	"2023"	11	47139	Unreliable
+	"Faulkner County, AR"	"05045"	"2022"	"2022"	11	127665	Unreliable
+	"Garland County, AR"	"05051"	"2019"	"2019"	10	99386	Unreliable
+	"Garland County, AR"	"05051"	"2020"	"2020"	22	99789	22.0
+	"Garland County, AR"	"05051"	"2021"	"2021"	11	100330	Unreliable
+	"Garland County, AR"	"05051"	"2023 "	"2023"	17	99784	Unreliable
+	"Jefferson County, AR"	"05069"	"2018"	"2018"	21	68114	30.8
+	"Jefferson County, AR"	"05069"	"2019"	"2019"	29	66824	43.4
+	"Jefferson County, AR"	"05069"	"2020"	"2020"	27	65377	41.3
+	"Jefferson County, AR"	"05069"	"2021"	"2021"	32	65861	48.6
+	"Jefferson County, AR"	"05069"	"2022"	"2022"	24	64246	37.4
+	"Jefferson County, AR"	"05069"	"2023 "	"2023"	31	63661	48.7
+	"Mississippi County, AR"	"05093"	"2019"	"2019"	15	40651	Unreliable
+	"Mississippi County, AR"	"05093"	"2020"	"2020"	16	40066	Unreliable
+	"Mississippi County, AR"	"05093"	"2021"	"2021"	12	39661	Unreliable
+	"Mississippi County, AR"	"05093"	"2023 "	"2023"	10	38663	Unreliable
+	"Phillips County, AR"	"05107"	"2018"	"2018"	11	18029	Unreliable
+	"Phillips County, AR"	"05107"	"2019"	"2019"	13	17782	Unreliable
+	"Phillips County, AR"	"05107"	"2020"	"2020"	15	17299	Unreliable
+	"Phillips County, AR"	"05107"	"2022"	"2022"	11	15304	Unreliable
+	"Pope County, AR"	"05115"	"2020"	"2020"	10	64334	Unreliable
+	"Pulaski County, AR"	"05119"	"2018"	"2018"	62	392680	15.8
+	"Pulaski County, AR"	"05119"	"2019"	"2019"	63	391911	16.1
+	"Pulaski County, AR"	"05119"	"2020"	"2020"	94	392980	23.9
+	"Pulaski County, AR"	"05119"	"2021"	"2021"	81	397821	20.4
+	"Pulaski County, AR"	"05119"	"2022"	"2022"	100	399145	25.1
+	"Pulaski County, AR"	"05119"	"2023 "	"2023"	97	400009	24.2
+	"St. Francis County, AR"	"05123"	"2021"	"2021"	11	22739	Unreliable
+	"St. Francis County, AR"	"05123"	"2022"	"2022"	11	22451	Unreliable
+	"Saline County, AR"	"05125"	"2022"	"2022"	11	127357	Unreliable
+	"Sebastian County, AR"	"05131"	"2021"	"2021"	12	128400	Unreliable
+	"Washington County, AR"	"05143"	"2023 "	"2023"	10	261549	Unreliable
+	"White County, AR"	"05145"	"2020"	"2020"	10	78729	Unreliable
+	"Alameda County, CA"	"06001"	"2018"	"2018"	72	1666753	4.3
+	"Alameda County, CA"	"06001"	"2019"	"2019"	84	1671329	5.0
+	"Alameda County, CA"	"06001"	"2020"	"2020"	138	1662323	8.3
+	"Alameda County, CA"	"06001"	"2021"	"2021"	141	1648556	8.6
+	"Alameda County, CA"	"06001"	"2022"	"2022"	135	1628997	8.3
+	"Alameda County, CA"	"06001"	"2023 "	"2023"	133	1622188	8.2
+	"Butte County, CA"	"06007"	"2020"	"2020"	11	212744	Unreliable
+	"Butte County, CA"	"06007"	"2021"	"2021"	10	208309	Unreliable
+	"Contra Costa County, CA"	"06013"	"2018"	"2018"	57	1150215	5.0
+	"Contra Costa County, CA"	"06013"	"2019"	"2019"	57	1153526	4.9
+	"Contra Costa County, CA"	"06013"	"2020"	"2020"	71	1152333	6.2
+	"Contra Costa County, CA"	"06013"	"2021"	"2021"	73	1161413	6.3
+	"Contra Costa County, CA"	"06013"	"2022"	"2022"	64	1156966	5.5
+	"Contra Costa County, CA"	"06013"	"2023 "	"2023"	55	1155025	4.8
+	"Fresno County, CA"	"06019"	"2018"	"2018"	62	994400	6.2
+	"Fresno County, CA"	"06019"	"2019"	"2019"	72	999101	7.2
+	"Fresno County, CA"	"06019"	"2020"	"2020"	100	1000918	10.0
+	"Fresno County, CA"	"06019"	"2021"	"2021"	114	1013581	11.2
+	"Fresno County, CA"	"06019"	"2022"	"2022"	95	1015190	9.4
+	"Fresno County, CA"	"06019"	"2023 "	"2023"	68	1017162	6.7
+	"Humboldt County, CA"	"06023"	"2018"	"2018"	14	136373	Unreliable
+	"Humboldt County, CA"	"06023"	"2020"	"2020"	14	134977	Unreliable
+	"Humboldt County, CA"	"06023"	"2021"	"2021"	13	136310	Unreliable
+	"Humboldt County, CA"	"06023"	"2023 "	"2023"	10	133985	Unreliable
+	"Imperial County, CA"	"06025"	"2019"	"2019"	11	181215	Unreliable
+	"Imperial County, CA"	"06025"	"2021"	"2021"	13	179851	Unreliable
+	"Imperial County, CA"	"06025"	"2022"	"2022"	13	178713	Unreliable
+	"Kern County, CA"	"06029"	"2018"	"2018"	116	896764	12.9
+	"Kern County, CA"	"06029"	"2019"	"2019"	85	900202	9.4
+	"Kern County, CA"	"06029"	"2020"	"2020"	128	901362	14.2
+	"Kern County, CA"	"06029"	"2021"	"2021"	133	917673	14.5
+	"Kern County, CA"	"06029"	"2022"	"2022"	108	916108	11.8
+	"Kern County, CA"	"06029"	"2023 "	"2023"	75	913820	8.2
+	"Kings County, CA"	"06031"	"2020"	"2020"	16	152692	Unreliable
+	"Kings County, CA"	"06031"	"2022"	"2022"	12	152981	Unreliable
+	"Kings County, CA"	"06031"	"2023 "	"2023"	11	152682	Unreliable
+	"Los Angeles County, CA"	"06037"	"2018"	"2018"	577	10105518	5.7
+	"Los Angeles County, CA"	"06037"	"2019"	"2019"	511	10039107	5.1
+	"Los Angeles County, CA"	"06037"	"2020"	"2020"	689	9943046	6.9
+	"Los Angeles County, CA"	"06037"	"2021"	"2021"	791	9829544	8.0
+	"Los Angeles County, CA"	"06037"	"2022"	"2022"	693	9721138	7.1
+	"Los Angeles County, CA"	"06037"	"2023 "	"2023"	647	9663345	6.7
+	"Madera County, CA"	"06039"	"2018"	"2018"	14	157672	Unreliable
+	"Madera County, CA"	"06039"	"2019"	"2019"	10	157327	Unreliable
+	"Madera County, CA"	"06039"	"2020"	"2020"	18	157761	Unreliable
+	"Madera County, CA"	"06039"	"2021"	"2021"	12	159410	Unreliable
+	"Madera County, CA"	"06039"	"2022"	"2022"	10	160256	Unreliable
+	"Madera County, CA"	"06039"	"2023 "	"2023"	13	162858	Unreliable
+	"Mendocino County, CA"	"06045"	"2020"	"2020"	10	86061	Unreliable
+	"Merced County, CA"	"06047"	"2018"	"2018"	13	274765	Unreliable
+	"Merced County, CA"	"06047"	"2019"	"2019"	21	277680	7.6
+	"Merced County, CA"	"06047"	"2020"	"2020"	30	279252	10.7
+	"Merced County, CA"	"06047"	"2021"	"2021"	25	286461	8.7
+	"Merced County, CA"	"06047"	"2022"	"2022"	27	290014	9.3
+	"Merced County, CA"	"06047"	"2023 "	"2023"	21	291920	7.2
+	"Monterey County, CA"	"06053"	"2018"	"2018"	28	435594	6.4
+	"Monterey County, CA"	"06053"	"2019"	"2019"	14	434061	Unreliable
+	"Monterey County, CA"	"06053"	"2020"	"2020"	19	430906	Unreliable
+	"Monterey County, CA"	"06053"	"2021"	"2021"	37	437325	8.5
+	"Monterey County, CA"	"06053"	"2022"	"2022"	27	432858	6.2
+	"Monterey County, CA"	"06053"	"2023 "	"2023"	20	430723	4.6
+	"Orange County, CA"	"06059"	"2018"	"2018"	63	3185968	2.0
+	"Orange County, CA"	"06059"	"2019"	"2019"	58	3175692	1.8
+	"Orange County, CA"	"06059"	"2020"	"2020"	67	3166857	2.1
+	"Orange County, CA"	"06059"	"2021"	"2021"	93	3167809	2.9
+	"Orange County, CA"	"06059"	"2022"	"2022"	79	3151184	2.5
+	"Orange County, CA"	"06059"	"2023 "	"2023"	70	3135755	2.2
+	"Placer County, CA"	"06061"	"2018"	"2018"	10	393149	Unreliable
+	"Placer County, CA"	"06061"	"2019"	"2019"	12	398329	Unreliable
+	"Riverside County, CA"	"06065"	"2018"	"2018"	115	2450758	4.7
+	"Riverside County, CA"	"06065"	"2019"	"2019"	117	2470546	4.7
+	"Riverside County, CA"	"06065"	"2020"	"2020"	142	2489188	5.7
+	"Riverside County, CA"	"06065"	"2021"	"2021"	121	2458395	4.9
+	"Riverside County, CA"	"06065"	"2022"	"2022"	114	2473902	4.6
+	"Riverside County, CA"	"06065"	"2023 "	"2023"	89	2492442	3.6
+	"Sacramento County, CA"	"06067"	"2018"	"2018"	80	1540975	5.2
+	"Sacramento County, CA"	"06067"	"2019"	"2019"	81	1552058	5.2
+	"Sacramento County, CA"	"06067"	"2020"	"2020"	121	1559146	7.8
+	"Sacramento County, CA"	"06067"	"2021"	"2021"	116	1588921	7.3
+	"Sacramento County, CA"	"06067"	"2022"	"2022"	105	1584169	6.6
+	"Sacramento County, CA"	"06067"	"2023 "	"2023"	84	1584288	5.3
+	"San Bernardino County, CA"	"06071"	"2018"	"2018"	137	2171603	6.3
+	"San Bernardino County, CA"	"06071"	"2019"	"2019"	159	2180085	7.3
+	"San Bernardino County, CA"	"06071"	"2020"	"2020"	183	2189183	8.4
+	"San Bernardino County, CA"	"06071"	"2021"	"2021"	187	2194710	8.5
+	"San Bernardino County, CA"	"06071"	"2022"	"2022"	193	2193656	8.8
+	"San Bernardino County, CA"	"06071"	"2023 "	"2023"	126	2195611	5.7
+	"San Diego County, CA"	"06073"	"2018"	"2018"	87	3343364	2.6
+	"San Diego County, CA"	"06073"	"2019"	"2019"	82	3338330	2.5
+	"San Diego County, CA"	"06073"	"2020"	"2020"	115	3332427	3.5
+	"San Diego County, CA"	"06073"	"2021"	"2021"	114	3286069	3.5
+	"San Diego County, CA"	"06073"	"2022"	"2022"	105	3276208	3.2
+	"San Diego County, CA"	"06073"	"2023 "	"2023"	83	3269973	2.5
+	"San Francisco County, CA"	"06075"	"2018"	"2018"	40	883305	4.5
+	"San Francisco County, CA"	"06075"	"2019"	"2019"	34	881549	3.9
+	"San Francisco County, CA"	"06075"	"2020"	"2020"	46	866606	5.3
+	"San Francisco County, CA"	"06075"	"2021"	"2021"	40	815201	4.9
+	"San Francisco County, CA"	"06075"	"2022"	"2022"	49	808437	6.1
+	"San Francisco County, CA"	"06075"	"2023 "	"2023"	39	808988	4.8
+	"San Joaquin County, CA"	"06077"	"2018"	"2018"	68	752660	9.0
+	"San Joaquin County, CA"	"06077"	"2019"	"2019"	60	762148	7.9
+	"San Joaquin County, CA"	"06077"	"2020"	"2020"	84	767967	10.9
+	"San Joaquin County, CA"	"06077"	"2021"	"2021"	72	789410	9.1
+	"San Joaquin County, CA"	"06077"	"2022"	"2022"	76	793229	9.6
+	"San Joaquin County, CA"	"06077"	"2023 "	"2023"	77	800965	9.6
+	"San Mateo County, CA"	"06081"	"2018"	"2018"	12	769545	Unreliable
+	"San Mateo County, CA"	"06081"	"2019"	"2019"	14	766573	Unreliable
+	"San Mateo County, CA"	"06081"	"2020"	"2020"	14	758308	Unreliable
+	"San Mateo County, CA"	"06081"	"2021"	"2021"	27	737888	3.7
+	"San Mateo County, CA"	"06081"	"2022"	"2022"	14	729181	Unreliable
+	"San Mateo County, CA"	"06081"	"2023 "	"2023"	20	726353	2.8
+	"Santa Barbara County, CA"	"06083"	"2018"	"2018"	11	446527	Unreliable
+	"Santa Barbara County, CA"	"06083"	"2019"	"2019"	25	446499	5.6
+	"Santa Barbara County, CA"	"06083"	"2020"	"2020"	13	444766	Unreliable
+	"Santa Barbara County, CA"	"06083"	"2021"	"2021"	23	446475	5.2
+	"Santa Barbara County, CA"	"06083"	"2022"	"2022"	17	443837	Unreliable
+	"Santa Barbara County, CA"	"06083"	"2023 "	"2023"	15	441257	Unreliable
+	"Santa Clara County, CA"	"06085"	"2018"	"2018"	33	1937570	1.7
+	"Santa Clara County, CA"	"06085"	"2019"	"2019"	45	1927852	2.3
+	"Santa Clara County, CA"	"06085"	"2020"	"2020"	53	1907105	2.8
+	"Santa Clara County, CA"	"06085"	"2021"	"2021"	50	1885508	2.7
+	"Santa Clara County, CA"	"06085"	"2022"	"2022"	39	1870945	2.1
+	"Santa Clara County, CA"	"06085"	"2023 "	"2023"	44	1877592	2.3
+	"Santa Cruz County, CA"	"06087"	"2020"	"2020"	14	269925	Unreliable
+	"Santa Cruz County, CA"	"06087"	"2021"	"2021"	15	267792	Unreliable
+	"Santa Cruz County, CA"	"06087"	"2023 "	"2023"	10	261547	Unreliable
+	"Shasta County, CA"	"06089"	"2018"	"2018"	11	180040	Unreliable
+	"Shasta County, CA"	"06089"	"2020"	"2020"	10	179027	Unreliable
+	"Shasta County, CA"	"06089"	"2021"	"2021"	13	182139	Unreliable
+	"Shasta County, CA"	"06089"	"2022"	"2022"	13	180930	Unreliable
+	"Solano County, CA"	"06095"	"2018"	"2018"	26	446610	5.8
+	"Solano County, CA"	"06095"	"2019"	"2019"	31	447643	6.9
+	"Solano County, CA"	"06095"	"2020"	"2020"	37	446935	8.3
+	"Solano County, CA"	"06095"	"2021"	"2021"	41	451716	9.1
+	"Solano County, CA"	"06095"	"2022"	"2022"	43	448747	9.6
+	"Solano County, CA"	"06095"	"2023 "	"2023"	31	449218	6.9
+	"Sonoma County, CA"	"06097"	"2019"	"2019"	10	494336	Unreliable
+	"Sonoma County, CA"	"06097"	"2020"	"2020"	13	489819	Unreliable
+	"Sonoma County, CA"	"06097"	"2021"	"2021"	11	485887	Unreliable
+	"Sonoma County, CA"	"06097"	"2022"	"2022"	19	482650	Unreliable
+	"Sonoma County, CA"	"06097"	"2023 "	"2023"	13	481812	Unreliable
+	"Stanislaus County, CA"	"06099"	"2018"	"2018"	17	549815	Unreliable
+	"Stanislaus County, CA"	"06099"	"2019"	"2019"	12	550660	Unreliable
+	"Stanislaus County, CA"	"06099"	"2020"	"2020"	23	550081	4.2
+	"Stanislaus County, CA"	"06099"	"2021"	"2021"	13	552999	Unreliable
+	"Stanislaus County, CA"	"06099"	"2022"	"2022"	32	551275	5.8
+	"Stanislaus County, CA"	"06099"	"2023 "	"2023"	21	551430	3.8
+	"Tulare County, CA"	"06107"	"2018"	"2018"	33	465861	7.1
+	"Tulare County, CA"	"06107"	"2019"	"2019"	27	466195	5.8
+	"Tulare County, CA"	"06107"	"2020"	"2020"	39	468680	8.3
+	"Tulare County, CA"	"06107"	"2021"	"2021"	43	477054	9.0
+	"Tulare County, CA"	"06107"	"2022"	"2022"	41	477544	8.6
+	"Tulare County, CA"	"06107"	"2023 "	"2023"	36	479468	7.5
+	"Ventura County, CA"	"06111"	"2018"	"2018"	38	850967	4.5
+	"Ventura County, CA"	"06111"	"2019"	"2019"	26	846006	3.1
+	"Ventura County, CA"	"06111"	"2020"	"2020"	23	841387	2.7
+	"Ventura County, CA"	"06111"	"2021"	"2021"	24	839784	2.9
+	"Ventura County, CA"	"06111"	"2022"	"2022"	23	832605	2.8
+	"Ventura County, CA"	"06111"	"2023 "	"2023"	26	829590	3.1
+	"Adams County, CO"	"08001"	"2018"	"2018"	34	511868	6.6
+	"Adams County, CO"	"08001"	"2019"	"2019"	26	517421	5.0
+	"Adams County, CO"	"08001"	"2020"	"2020"	29	519883	5.6
+	"Adams County, CO"	"08001"	"2021"	"2021"	43	522140	8.2
+	"Adams County, CO"	"08001"	"2022"	"2022"	39	527575	7.4
+	"Adams County, CO"	"08001"	"2023 "	"2023"	35	533365	6.6
+	"Arapahoe County, CO"	"08005"	"2018"	"2018"	26	651215	4.0
+	"Arapahoe County, CO"	"08005"	"2019"	"2019"	36	656590	5.5
+	"Arapahoe County, CO"	"08005"	"2020"	"2020"	40	657452	6.1
+	"Arapahoe County, CO"	"08005"	"2021"	"2021"	41	654900	6.3
+	"Arapahoe County, CO"	"08005"	"2022"	"2022"	48	655808	7.3
+	"Arapahoe County, CO"	"08005"	"2023 "	"2023"	53	656061	8.1
+	"Boulder County, CO"	"08013"	"2021"	"2021"	18	329543	Unreliable
+	"Boulder County, CO"	"08013"	"2022"	"2022"	11	327468	Unreliable
+	"Boulder County, CO"	"08013"	"2023 "	"2023"	13	326831	Unreliable
+	"Denver County, CO"	"08031"	"2018"	"2018"	52	716492	7.3
+	"Denver County, CO"	"08031"	"2019"	"2019"	52	727211	7.2
+	"Denver County, CO"	"08031"	"2020"	"2020"	72	735538	9.8
+	"Denver County, CO"	"08031"	"2021"	"2021"	72	711463	10.1
+	"Denver County, CO"	"08031"	"2022"	"2022"	86	713252	12.1
+	"Denver County, CO"	"08031"	"2023 "	"2023"	76	716577	10.6
+	"Douglas County, CO"	"08035"	"2022"	"2022"	11	375988	Unreliable
+	"El Paso County, CO"	"08041"	"2018"	"2018"	57	713856	8.0
+	"El Paso County, CO"	"08041"	"2019"	"2019"	37	720403	5.1
+	"El Paso County, CO"	"08041"	"2020"	"2020"	67	728310	9.2
+	"El Paso County, CO"	"08041"	"2021"	"2021"	71	737867	9.6
+	"El Paso County, CO"	"08041"	"2022"	"2022"	77	740567	10.4
+	"El Paso County, CO"	"08041"	"2023 "	"2023"	55	744215	7.4
+	"Jefferson County, CO"	"08059"	"2018"	"2018"	13	580233	Unreliable
+	"Jefferson County, CO"	"08059"	"2019"	"2019"	18	582881	Unreliable
+	"Jefferson County, CO"	"08059"	"2020"	"2020"	30	583283	5.1
+	"Jefferson County, CO"	"08059"	"2021"	"2021"	26	579581	4.5
+	"Jefferson County, CO"	"08059"	"2022"	"2022"	22	576143	3.8
+	"Jefferson County, CO"	"08059"	"2023 "	"2023"	25	576366	4.3
+	"Larimer County, CO"	"08069"	"2022"	"2022"	12	366778	Unreliable
+	"Pueblo County, CO"	"08101"	"2018"	"2018"	11	167529	Unreliable
+	"Pueblo County, CO"	"08101"	"2019"	"2019"	19	168424	Unreliable
+	"Pueblo County, CO"	"08101"	"2020"	"2020"	21	169823	12.4
+	"Pueblo County, CO"	"08101"	"2021"	"2021"	24	169622	14.1
+	"Pueblo County, CO"	"08101"	"2022"	"2022"	35	169544	20.6
+	"Pueblo County, CO"	"08101"	"2023 "	"2023"	35	169422	20.7
+	"Weld County, CO"	"08123"	"2019"	"2019"	10	324492	Unreliable
+	"Weld County, CO"	"08123"	"2020"	"2020"	19	333983	Unreliable
+	"Weld County, CO"	"08123"	"2021"	"2021"	12	340036	Unreliable
+	"Weld County, CO"	"08123"	"2022"	"2022"	15	350176	Unreliable
+	"Weld County, CO"	"08123"	"2023 "	"2023"	12	359442	Unreliable
+	"Fairfield County, CT"	"09001"	"2018"	"2018"	16	943823	Unreliable
+	"Fairfield County, CT"	"09001"	"2019"	"2019"	25	943332	2.7
+	"Fairfield County, CT"	"09001"	"2020"	"2020"	44	942426	4.7
+	"Fairfield County, CT"	"09001"	"2021"	"2021"	37	959768	3.9
+	"Fairfield County, CT"	"09001"	"2022"	"2022"	25	Not Available	Not Available
+	"Fairfield County, CT"	"09001"	"2023 "	"2023"	26	Not Available	Not Available
+	"Hartford County, CT"	"09003"	"2018"	"2018"	29	892697	3.2
+	"Hartford County, CT"	"09003"	"2019"	"2019"	33	891720	3.7
+	"Hartford County, CT"	"09003"	"2020"	"2020"	42	889226	4.7
+	"Hartford County, CT"	"09003"	"2021"	"2021"	51	896854	5.7
+	"Hartford County, CT"	"09003"	"2022"	"2022"	57	Not Available	Not Available
+	"Hartford County, CT"	"09003"	"2023 "	"2023"	53	Not Available	Not Available
+	"New Haven County, CT"	"09009"	"2018"	"2018"	26	857620	3.0
+	"New Haven County, CT"	"09009"	"2019"	"2019"	31	854757	3.6
+	"New Haven County, CT"	"09009"	"2020"	"2020"	53	851948	6.2
+	"New Haven County, CT"	"09009"	"2021"	"2021"	55	863700	6.4
+	"New Haven County, CT"	"09009"	"2022"	"2022"	46	Not Available	Not Available
+	"New Haven County, CT"	"09009"	"2023 "	"2023"	55	Not Available	Not Available
+	"Kent County, DE"	"10001"	"2020"	"2020"	12	183643	Unreliable
+	"Kent County, DE"	"10001"	"2021"	"2021"	18	184149	Unreliable
+	"Kent County, DE"	"10001"	"2022"	"2022"	10	186946	Unreliable
+	"Kent County, DE"	"10001"	"2023 "	"2023"	11	189789	Unreliable
+	"New Castle County, DE"	"10003"	"2018"	"2018"	40	559335	7.2
+	"New Castle County, DE"	"10003"	"2019"	"2019"	41	558753	7.3
+	"New Castle County, DE"	"10003"	"2020"	"2020"	62	561531	11.0
+	"New Castle County, DE"	"10003"	"2021"	"2021"	74	571708	12.9
+	"New Castle County, DE"	"10003"	"2022"	"2022"	42	575494	7.3
+	"New Castle County, DE"	"10003"	"2023 "	"2023"	32	578592	5.5
+	"Sussex County, DE"	"10005"	"2020"	"2020"	11	241635	Unreliable
+	"Sussex County, DE"	"10005"	"2021"	"2021"	10	247527	Unreliable
+	"Sussex County, DE"	"10005"	"2022"	"2022"	11	255956	Unreliable
+	"Sussex County, DE"	"10005"	"2023 "	"2023"	11	263509	Unreliable
+	"District of Columbia, DC"	"11001"	"2018"	"2018"	141	702455	20.1
+	"District of Columbia, DC"	"11001"	"2019"	"2019"	161	705749	22.8
+	"District of Columbia, DC"	"11001"	"2020"	"2020"	185	712816	26.0
+	"District of Columbia, DC"	"11001"	"2021"	"2021"	217	670050	32.4
+	"District of Columbia, DC"	"11001"	"2022"	"2022"	167	671803	24.9
+	"District of Columbia, DC"	"11001"	"2023 "	"2023"	234	678972	34.5
+	"Alachua County, FL"	"12001"	"2018"	"2018"	17	269956	Unreliable
+	"Alachua County, FL"	"12001"	"2020"	"2020"	17	271218	Unreliable
+	"Alachua County, FL"	"12001"	"2021"	"2021"	27	279238	9.7
+	"Alachua County, FL"	"12001"	"2022"	"2022"	17	284030	Unreliable
+	"Alachua County, FL"	"12001"	"2023 "	"2023"	12	285994	Unreliable
+	"Bay County, FL"	"12005"	"2018"	"2018"	11	185287	Unreliable
+	"Bay County, FL"	"12005"	"2019"	"2019"	10	174705	Unreliable
+	"Bay County, FL"	"12005"	"2020"	"2020"	11	171322	Unreliable
+	"Bay County, FL"	"12005"	"2021"	"2021"	11	179168	Unreliable
+	"Bay County, FL"	"12005"	"2023 "	"2023"	13	190769	Unreliable
+	"Brevard County, FL"	"12009"	"2018"	"2018"	36	596849	6.0
+	"Brevard County, FL"	"12009"	"2019"	"2019"	35	601942	5.8
+	"Brevard County, FL"	"12009"	"2020"	"2020"	43	608459	7.1
+	"Brevard County, FL"	"12009"	"2021"	"2021"	39	616628	6.3
+	"Brevard County, FL"	"12009"	"2022"	"2022"	45	630693	7.1
+	"Brevard County, FL"	"12009"	"2023 "	"2023"	37	643979	5.7
+	"Broward County, FL"	"12011"	"2018"	"2018"	117	1951260	6.0
+	"Broward County, FL"	"12011"	"2019"	"2019"	137	1952778	7.0
+	"Broward County, FL"	"12011"	"2020"	"2020"	166	1958105	8.5
+	"Broward County, FL"	"12011"	"2021"	"2021"	141	1930983	7.3
+	"Broward County, FL"	"12011"	"2022"	"2022"	150	1947026	7.7
+	"Broward County, FL"	"12011"	"2023 "	"2023"	148	1962531	7.5
+	"Citrus County, FL"	"12017"	"2022"	"2022"	10	162529	Unreliable
+	"Clay County, FL"	"12019"	"2020"	"2020"	17	221770	Unreliable
+	"Clay County, FL"	"12019"	"2021"	"2021"	10	222361	Unreliable
+	"Clay County, FL"	"12019"	"2022"	"2022"	11	226589	Unreliable
+	"Collier County, FL"	"12021"	"2019"	"2019"	10	384902	Unreliable
+	"Collier County, FL"	"12021"	"2022"	"2022"	11	397994	Unreliable
+	"Duval County, FL"	"12031"	"2018"	"2018"	121	950181	12.7
+	"Duval County, FL"	"12031"	"2019"	"2019"	143	957755	14.9
+	"Duval County, FL"	"12031"	"2020"	"2020"	165	966728	17.1
+	"Duval County, FL"	"12031"	"2021"	"2021"	131	999935	13.1
+	"Duval County, FL"	"12031"	"2022"	"2022"	154	1016536	15.1
+	"Duval County, FL"	"12031"	"2023 "	"2023"	150	1030822	14.6
+	"Escambia County, FL"	"12033"	"2018"	"2018"	19	315534	Unreliable
+	"Escambia County, FL"	"12033"	"2019"	"2019"	27	318316	8.5
+	"Escambia County, FL"	"12033"	"2020"	"2020"	38	322364	11.8
+	"Escambia County, FL"	"12033"	"2021"	"2021"	37	322390	11.5
+	"Escambia County, FL"	"12033"	"2022"	"2022"	37	324878	11.4
+	"Escambia County, FL"	"12033"	"2023 "	"2023"	33	326928	10.1
+	"Gadsden County, FL"	"12039"	"2022"	"2022"	12	43403	Unreliable
+	"Hernando County, FL"	"12053"	"2018"	"2018"	10	190865	Unreliable
+	"Hernando County, FL"	"12053"	"2022"	"2022"	11	206896	Unreliable
+	"Hernando County, FL"	"12053"	"2023 "	"2023"	12	212807	Unreliable
+	"Highlands County, FL"	"12055"	"2023 "	"2023"	11	107614	Unreliable
+	"Hillsborough County, FL"	"12057"	"2018"	"2018"	73	1436888	5.1
+	"Hillsborough County, FL"	"12057"	"2019"	"2019"	75	1471968	5.1
+	"Hillsborough County, FL"	"12057"	"2020"	"2020"	92	1497957	6.1
+	"Hillsborough County, FL"	"12057"	"2021"	"2021"	104	1478194	7.0
+	"Hillsborough County, FL"	"12057"	"2022"	"2022"	103	1513301	6.8
+	"Hillsborough County, FL"	"12057"	"2023 "	"2023"	88	1535564	5.7
+	"Indian River County, FL"	"12061"	"2018"	"2018"	12	157413	Unreliable
+	"Lake County, FL"	"12069"	"2018"	"2018"	15	356495	Unreliable
+	"Lake County, FL"	"12069"	"2019"	"2019"	10	367118	Unreliable
+	"Lake County, FL"	"12069"	"2020"	"2020"	21	375492	5.6
+	"Lake County, FL"	"12069"	"2021"	"2021"	27	395804	6.8
+	"Lake County, FL"	"12069"	"2022"	"2022"	24	410139	5.9
+	"Lake County, FL"	"12069"	"2023 "	"2023"	15	424462	Unreliable
+	"Lee County, FL"	"12071"	"2018"	"2018"	38	754610	5.0
+	"Lee County, FL"	"12071"	"2019"	"2019"	29	770577	3.8
+	"Lee County, FL"	"12071"	"2020"	"2020"	46	790767	5.8
+	"Lee County, FL"	"12071"	"2021"	"2021"	36	787976	4.6
+	"Lee County, FL"	"12071"	"2022"	"2022"	39	822453	4.7
+	"Lee County, FL"	"12071"	"2023 "	"2023"	29	834573	3.5
+	"Leon County, FL"	"12073"	"2018"	"2018"	18	292502	Unreliable
+	"Leon County, FL"	"12073"	"2019"	"2019"	20	293582	6.8
+	"Leon County, FL"	"12073"	"2020"	"2020"	25	295460	8.5
+	"Leon County, FL"	"12073"	"2021"	"2021"	20	292817	6.8
+	"Leon County, FL"	"12073"	"2022"	"2022"	17	297369	Unreliable
+	"Leon County, FL"	"12073"	"2023 "	"2023"	25	296913	8.4
+	"Manatee County, FL"	"12081"	"2018"	"2018"	20	394855	5.1
+	"Manatee County, FL"	"12081"	"2019"	"2019"	20	403253	5.0
+	"Manatee County, FL"	"12081"	"2020"	"2020"	22	411219	5.3
+	"Manatee County, FL"	"12081"	"2021"	"2021"	16	412703	Unreliable
+	"Manatee County, FL"	"12081"	"2022"	"2022"	16	429125	Unreliable
+	"Manatee County, FL"	"12081"	"2023 "	"2023"	15	441095	Unreliable
+	"Marion County, FL"	"12083"	"2018"	"2018"	34	359977	9.4
+	"Marion County, FL"	"12083"	"2019"	"2019"	42	365579	11.5
+	"Marion County, FL"	"12083"	"2020"	"2020"	26	373513	7.0
+	"Marion County, FL"	"12083"	"2021"	"2021"	29	385915	7.5
+	"Marion County, FL"	"12083"	"2022"	"2022"	25	396415	6.3
+	"Marion County, FL"	"12083"	"2023 "	"2023"	34	409959	8.3
+	"Miami-Dade County, FL"	"12086"	"2018"	"2018"	199	2761581	7.2
+	"Miami-Dade County, FL"	"12086"	"2019"	"2019"	212	2716940	7.8
+	"Miami-Dade County, FL"	"12086"	"2020"	"2020"	243	2707303	9.0
+	"Miami-Dade County, FL"	"12086"	"2021"	"2021"	222	2662777	8.3
+	"Miami-Dade County, FL"	"12086"	"2022"	"2022"	227	2673837	8.5
+	"Miami-Dade County, FL"	"12086"	"2023 "	"2023"	173	2686867	6.4
+	"Okaloosa County, FL"	"12091"	"2019"	"2019"	12	210738	Unreliable
+	"Okaloosa County, FL"	"12091"	"2020"	"2020"	14	212820	Unreliable
+	"Okaloosa County, FL"	"12091"	"2021"	"2021"	16	213255	Unreliable
+	"Okaloosa County, FL"	"12091"	"2022"	"2022"	12	216482	Unreliable
+	"Orange County, FL"	"12095"	"2018"	"2018"	107	1380645	7.8
+	"Orange County, FL"	"12095"	"2019"	"2019"	96	1393452	6.9
+	"Orange County, FL"	"12095"	"2020"	"2020"	119	1404396	8.5
+	"Orange County, FL"	"12095"	"2021"	"2021"	98	1422746	6.9
+	"Orange County, FL"	"12095"	"2022"	"2022"	111	1452726	7.6
+	"Orange County, FL"	"12095"	"2023 "	"2023"	102	1471416	6.9
+	"Osceola County, FL"	"12097"	"2018"	"2018"	20	367990	5.4
+	"Osceola County, FL"	"12097"	"2019"	"2019"	11	375751	Unreliable
+	"Osceola County, FL"	"12097"	"2020"	"2020"	19	385315	Unreliable
+	"Osceola County, FL"	"12097"	"2021"	"2021"	17	403282	Unreliable
+	"Osceola County, FL"	"12097"	"2022"	"2022"	17	422545	Unreliable
+	"Osceola County, FL"	"12097"	"2023 "	"2023"	20	437784	4.6
+	"Palm Beach County, FL"	"12099"	"2018"	"2018"	93	1485941	6.3
+	"Palm Beach County, FL"	"12099"	"2019"	"2019"	98	1496770	6.5
+	"Palm Beach County, FL"	"12099"	"2020"	"2020"	90	1507600	6.0
+	"Palm Beach County, FL"	"12099"	"2021"	"2021"	102	1497987	6.8
+	"Palm Beach County, FL"	"12099"	"2022"	"2022"	92	1518477	6.1
+	"Palm Beach County, FL"	"12099"	"2023 "	"2023"	73	1533801	4.8
+	"Pasco County, FL"	"12101"	"2018"	"2018"	21	539630	3.9
+	"Pasco County, FL"	"12101"	"2019"	"2019"	16	553947	Unreliable
+	"Pasco County, FL"	"12101"	"2020"	"2020"	19	570412	Unreliable
+	"Pasco County, FL"	"12101"	"2021"	"2021"	14	584067	Unreliable
+	"Pasco County, FL"	"12101"	"2022"	"2022"	23	608794	3.8
+	"Pasco County, FL"	"12101"	"2023 "	"2023"	29	632996	4.6
+	"Pinellas County, FL"	"12103"	"2018"	"2018"	54	975280	5.5
+	"Pinellas County, FL"	"12103"	"2019"	"2019"	45	974996	4.6
+	"Pinellas County, FL"	"12103"	"2020"	"2020"	44	976802	4.5
+	"Pinellas County, FL"	"12103"	"2021"	"2021"	66	956615	6.9
+	"Pinellas County, FL"	"12103"	"2022"	"2022"	44	961739	4.6
+	"Pinellas County, FL"	"12103"	"2023 "	"2023"	35	961596	3.6
+	"Polk County, FL"	"12105"	"2018"	"2018"	31	708009	4.4
+	"Polk County, FL"	"12105"	"2019"	"2019"	42	724777	5.8
+	"Polk County, FL"	"12105"	"2020"	"2020"	45	744552	6.0
+	"Polk County, FL"	"12105"	"2021"	"2021"	50	753520	6.6
+	"Polk County, FL"	"12105"	"2022"	"2022"	33	787404	4.2
+	"Polk County, FL"	"12105"	"2023 "	"2023"	35	818330	4.3
+	"St. Johns County, FL"	"12109"	"2020"	"2020"	10	278715	Unreliable
+	"St. Johns County, FL"	"12109"	"2021"	"2021"	10	292466	Unreliable
+	"St. Johns County, FL"	"12109"	"2022"	"2022"	10	306841	Unreliable
+	"St. Lucie County, FL"	"12111"	"2018"	"2018"	23	321128	7.2
+	"St. Lucie County, FL"	"12111"	"2019"	"2019"	22	328297	6.7
+	"St. Lucie County, FL"	"12111"	"2020"	"2020"	27	337186	8.0
+	"St. Lucie County, FL"	"12111"	"2021"	"2021"	17	343579	Unreliable
+	"St. Lucie County, FL"	"12111"	"2022"	"2022"	27	358704	7.5
+	"St. Lucie County, FL"	"12111"	"2023 "	"2023"	25	373586	6.7
+	"Santa Rosa County, FL"	"12113"	"2021"	"2021"	10	193998	Unreliable
+	"Santa Rosa County, FL"	"12113"	"2023 "	"2023"	11	203162	Unreliable
+	"Sarasota County, FL"	"12115"	"2018"	"2018"	14	426718	Unreliable
+	"Sarasota County, FL"	"12115"	"2019"	"2019"	12	433742	Unreliable
+	"Sarasota County, FL"	"12115"	"2020"	"2020"	10	443465	Unreliable
+	"Sarasota County, FL"	"12115"	"2021"	"2021"	16	447057	Unreliable
+	"Sarasota County, FL"	"12115"	"2022"	"2022"	13	462286	Unreliable
+	"Sarasota County, FL"	"12115"	"2023 "	"2023"	12	469013	Unreliable
+	"Seminole County, FL"	"12117"	"2018"	"2018"	22	467832	4.7
+	"Seminole County, FL"	"12117"	"2019"	"2019"	16	471826	Unreliable
+	"Seminole County, FL"	"12117"	"2020"	"2020"	18	474171	Unreliable
+	"Seminole County, FL"	"12117"	"2021"	"2021"	19	470093	Unreliable
+	"Seminole County, FL"	"12117"	"2022"	"2022"	20	478772	4.2
+	"Seminole County, FL"	"12117"	"2023 "	"2023"	25	484271	5.2
+	"Volusia County, FL"	"12127"	"2018"	"2018"	31	547538	5.7
+	"Volusia County, FL"	"12127"	"2019"	"2019"	34	553284	6.1
+	"Volusia County, FL"	"12127"	"2020"	"2020"	33	561497	5.9
+	"Volusia County, FL"	"12127"	"2021"	"2021"	36	564412	6.4
+	"Volusia County, FL"	"12127"	"2022"	"2022"	33	579192	5.7
+	"Volusia County, FL"	"12127"	"2023 "	"2023"	26	590357	4.4
+	"Barrow County, GA"	"13013"	"2022"	"2022"	11	89299	Unreliable
+	"Bibb County, GA"	"13021"	"2018"	"2018"	36	153095	23.5
+	"Bibb County, GA"	"13021"	"2019"	"2019"	25	153159	16.3
+	"Bibb County, GA"	"13021"	"2020"	"2020"	47	152737	30.8
+	"Bibb County, GA"	"13021"	"2021"	"2021"	48	156762	30.6
+	"Bibb County, GA"	"13021"	"2022"	"2022"	59	156197	37.8
+	"Bibb County, GA"	"13021"	"2023 "	"2023"	33	156512	21.1
+	"Bulloch County, GA"	"13031"	"2020"	"2020"	10	80839	Unreliable
+	"Carroll County, GA"	"13045"	"2023 "	"2023"	11	127098	Unreliable
+	"Chatham County, GA"	"13051"	"2018"	"2018"	32	289195	11.1
+	"Chatham County, GA"	"13051"	"2019"	"2019"	32	289430	11.1
+	"Chatham County, GA"	"13051"	"2020"	"2020"	38	289463	13.1
+	"Chatham County, GA"	"13051"	"2021"	"2021"	36	296329	12.1
+	"Chatham County, GA"	"13051"	"2022"	"2022"	45	301107	14.9
+	"Chatham County, GA"	"13051"	"2023 "	"2023"	31	303655	10.2
+	"Cherokee County, GA"	"13057"	"2021"	"2021"	12	274615	Unreliable
+	"Clarke County, GA"	"13059"	"2018"	"2018"	10	127330	Unreliable
+	"Clarke County, GA"	"13059"	"2019"	"2019"	10	128331	Unreliable
+	"Clarke County, GA"	"13059"	"2023 "	"2023"	10	129933	Unreliable
+	"Clayton County, GA"	"13063"	"2018"	"2018"	50	289615	17.3
+	"Clayton County, GA"	"13063"	"2019"	"2019"	38	292256	13.0
+	"Clayton County, GA"	"13063"	"2020"	"2020"	52	292646	17.8
+	"Clayton County, GA"	"13063"	"2021"	"2021"	67	297100	22.6
+	"Clayton County, GA"	"13063"	"2022"	"2022"	75	296564	25.3
+	"Clayton County, GA"	"13063"	"2023 "	"2023"	53	298300	17.8
+	"Cobb County, GA"	"13067"	"2018"	"2018"	32	756865	4.2
+	"Cobb County, GA"	"13067"	"2019"	"2019"	22	760141	2.9
+	"Cobb County, GA"	"13067"	"2020"	"2020"	39	762944	5.1
+	"Cobb County, GA"	"13067"	"2021"	"2021"	48	766802	6.3
+	"Cobb County, GA"	"13067"	"2022"	"2022"	43	771952	5.6
+	"Cobb County, GA"	"13067"	"2023 "	"2023"	42	776743	5.4
+	"Coweta County, GA"	"13077"	"2020"	"2020"	12	150849	Unreliable
+	"Coweta County, GA"	"13077"	"2022"	"2022"	10	152882	Unreliable
+	"DeKalb County, GA"	"13089"	"2018"	"2018"	93	756558	12.3
+	"DeKalb County, GA"	"13089"	"2019"	"2019"	125	759297	16.5
+	"DeKalb County, GA"	"13089"	"2020"	"2020"	122	762009	16.0
+	"DeKalb County, GA"	"13089"	"2021"	"2021"	151	757718	19.9
+	"DeKalb County, GA"	"13089"	"2022"	"2022"	153	762820	20.1
+	"DeKalb County, GA"	"13089"	"2023 "	"2023"	137	762992	18.0
+	"Dougherty County, GA"	"13095"	"2018"	"2018"	11	91243	Unreliable
+	"Dougherty County, GA"	"13095"	"2019"	"2019"	14	87956	Unreliable
+	"Dougherty County, GA"	"13095"	"2020"	"2020"	24	86477	27.8
+	"Dougherty County, GA"	"13095"	"2021"	"2021"	19	84844	Unreliable
+	"Dougherty County, GA"	"13095"	"2022"	"2022"	15	82966	Unreliable
+	"Dougherty County, GA"	"13095"	"2023 "	"2023"	15	82645	Unreliable
+	"Douglas County, GA"	"13097"	"2020"	"2020"	10	147988	Unreliable
+	"Douglas County, GA"	"13097"	"2021"	"2021"	16	145814	Unreliable
+	"Douglas County, GA"	"13097"	"2022"	"2022"	11	147316	Unreliable
+	"Douglas County, GA"	"13097"	"2023 "	"2023"	16	149160	Unreliable
+	"Fulton County, GA"	"13121"	"2018"	"2018"	115	1050114	11.0
+	"Fulton County, GA"	"13121"	"2019"	"2019"	144	1063937	13.5
+	"Fulton County, GA"	"13121"	"2020"	"2020"	198	1077402	18.4
+	"Fulton County, GA"	"13121"	"2021"	"2021"	194	1065334	18.2
+	"Fulton County, GA"	"13121"	"2022"	"2022"	203	1074634	18.9
+	"Fulton County, GA"	"13121"	"2023 "	"2023"	175	1079105	16.2
+	"Gwinnett County, GA"	"13135"	"2018"	"2018"	45	927781	4.9
+	"Gwinnett County, GA"	"13135"	"2019"	"2019"	33	936250	3.5
+	"Gwinnett County, GA"	"13135"	"2020"	"2020"	65	942627	6.9
+	"Gwinnett County, GA"	"13135"	"2021"	"2021"	72	964546	7.5
+	"Gwinnett County, GA"	"13135"	"2022"	"2022"	58	975353	5.9
+	"Gwinnett County, GA"	"13135"	"2023 "	"2023"	51	983526	5.2
+	"Hall County, GA"	"13139"	"2021"	"2021"	15	207369	Unreliable
+	"Hall County, GA"	"13139"	"2022"	"2022"	14	212692	Unreliable
+	"Hall County, GA"	"13139"	"2023 "	"2023"	12	217267	Unreliable
+	"Henry County, GA"	"13151"	"2018"	"2018"	18	230220	Unreliable
+	"Henry County, GA"	"13151"	"2019"	"2019"	20	234561	8.5
+	"Henry County, GA"	"13151"	"2020"	"2020"	30	239139	12.5
+	"Henry County, GA"	"13151"	"2021"	"2021"	38	245235	15.5
+	"Henry County, GA"	"13151"	"2022"	"2022"	27	248364	10.9
+	"Henry County, GA"	"13151"	"2023 "	"2023"	29	254613	11.4
+	"Houston County, GA"	"13153"	"2018"	"2018"	10	155469	Unreliable
+	"Houston County, GA"	"13153"	"2021"	"2021"	13	166829	Unreliable
+	"Houston County, GA"	"13153"	"2022"	"2022"	21	169631	12.4
+	"Houston County, GA"	"13153"	"2023 "	"2023"	17	171974	Unreliable
+	"Laurens County, GA"	"13175"	"2020"	"2020"	16	47512	Unreliable
+	"Laurens County, GA"	"13175"	"2022"	"2022"	11	49660	Unreliable
+	"Liberty County, GA"	"13179"	"2021"	"2021"	11	65711	Unreliable
+	"Lowndes County, GA"	"13185"	"2020"	"2020"	13	118268	Unreliable
+	"Lowndes County, GA"	"13185"	"2021"	"2021"	10	119276	Unreliable
+	"Lowndes County, GA"	"13185"	"2022"	"2022"	16	119739	Unreliable
+	"Lowndes County, GA"	"13185"	"2023 "	"2023"	14	120712	Unreliable
+	"Muscogee County, GA"	"13215"	"2018"	"2018"	32	194160	16.5
+	"Muscogee County, GA"	"13215"	"2019"	"2019"	41	195769	20.9
+	"Muscogee County, GA"	"13215"	"2020"	"2020"	43	196442	21.9
+	"Muscogee County, GA"	"13215"	"2021"	"2021"	69	205617	33.6
+	"Muscogee County, GA"	"13215"	"2022"	"2022"	40	202616	19.7
+	"Muscogee County, GA"	"13215"	"2023 "	"2023"	46	201877	22.8
+	"Newton County, GA"	"13217"	"2019"	"2019"	16	111744	Unreliable
+	"Newton County, GA"	"13217"	"2020"	"2020"	16	113295	Unreliable
+	"Newton County, GA"	"13217"	"2021"	"2021"	16	115355	Unreliable
+	"Newton County, GA"	"13217"	"2022"	"2022"	10	117621	Unreliable
+	"Newton County, GA"	"13217"	"2023 "	"2023"	16	120135	Unreliable
+	"Paulding County, GA"	"13223"	"2019"	"2019"	10	168667	Unreliable
+	"Paulding County, GA"	"13223"	"2021"	"2021"	12	173780	Unreliable
+	"Paulding County, GA"	"13223"	"2022"	"2022"	19	178421	Unreliable
+	"Richmond County, GA"	"13245"	"2018"	"2018"	31	201554	15.4
+	"Richmond County, GA"	"13245"	"2019"	"2019"	40	202518	19.8
+	"Richmond County, GA"	"13245"	"2020"	"2020"	33	202079	16.3
+	"Richmond County, GA"	"13245"	"2021"	"2021"	32	205673	15.6
+	"Richmond County, GA"	"13245"	"2022"	"2022"	41	206640	19.8
+	"Richmond County, GA"	"13245"	"2023 "	"2023"	40	205414	19.5
+	"Rockdale County, GA"	"13247"	"2019"	"2019"	20	90896	22.0
+	"Rockdale County, GA"	"13247"	"2021"	"2021"	10	94082	Unreliable
+	"Rockdale County, GA"	"13247"	"2022"	"2022"	17	94984	Unreliable
+	"Rockdale County, GA"	"13247"	"2023 "	"2023"	21	95987	21.9
+	"Spalding County, GA"	"13255"	"2021"	"2021"	12	67909	Unreliable
+	"Spalding County, GA"	"13255"	"2023 "	"2023"	11	69946	Unreliable
+	"Tift County, GA"	"13277"	"2021"	"2021"	11	41212	Unreliable
+	"Troup County, GA"	"13285"	"2020"	"2020"	14	70214	Unreliable
+	"Troup County, GA"	"13285"	"2023 "	"2023"	13	70742	Unreliable
+	"Hawaii County, HI"	"15001"	"2020"	"2020"	12	203340	Unreliable
+	"Honolulu County, HI"	"15003"	"2018"	"2018"	23	980080	2.3
+	"Honolulu County, HI"	"15003"	"2019"	"2019"	27	974563	2.8
+	"Honolulu County, HI"	"15003"	"2020"	"2020"	29	963826	3.0
+	"Honolulu County, HI"	"15003"	"2021"	"2021"	31	1000890	3.1
+	"Honolulu County, HI"	"15003"	"2022"	"2022"	25	995638	2.5
+	"Honolulu County, HI"	"15003"	"2023 "	"2023"	28	989408	2.8
+	"Canyon County, ID"	"16027"	"2022"	"2022"	10	251065	Unreliable
+	"Champaign County, IL"	"17019"	"2018"	"2018"	10	209983	Unreliable
+	"Champaign County, IL"	"17019"	"2020"	"2020"	18	209192	Unreliable
+	"Champaign County, IL"	"17019"	"2021"	"2021"	23	205943	11.2
+	"Champaign County, IL"	"17019"	"2022"	"2022"	15	206542	Unreliable
+	"Champaign County, IL"	"17019"	"2023 "	"2023"	10	205644	Unreliable
+	"Cook County, IL"	"17031"	"2018"	"2018"	676	5180493	13.0
+	"Cook County, IL"	"17031"	"2019"	"2019"	641	5150233	12.4
+	"Cook County, IL"	"17031"	"2020"	"2020"	955	5108284	18.7
+	"Cook County, IL"	"17031"	"2021"	"2021"	1056	5173146	20.4
+	"Cook County, IL"	"17031"	"2022"	"2022"	910	5109292	17.8
+	"Cook County, IL"	"17031"	"2023 "	"2023"	787	5087072	15.5
+	"DuPage County, IL"	"17043"	"2018"	"2018"	18	928589	Unreliable
+	"DuPage County, IL"	"17043"	"2019"	"2019"	16	922921	Unreliable
+	"DuPage County, IL"	"17043"	"2020"	"2020"	24	917481	2.6
+	"DuPage County, IL"	"17043"	"2021"	"2021"	19	924885	Unreliable
+	"DuPage County, IL"	"17043"	"2022"	"2022"	10	920901	Unreliable
+	"DuPage County, IL"	"17043"	"2023 "	"2023"	10	921213	Unreliable
+	"Kane County, IL"	"17089"	"2019"	"2019"	17	532403	Unreliable
+	"Kane County, IL"	"17089"	"2020"	"2020"	21	531010	4.0
+	"Kane County, IL"	"17089"	"2021"	"2021"	26	515588	5.0
+	"Kane County, IL"	"17089"	"2022"	"2022"	16	514182	Unreliable
+	"Kane County, IL"	"17089"	"2023 "	"2023"	19	514982	Unreliable
+	"Kankakee County, IL"	"17091"	"2021"	"2021"	17	106601	Unreliable
+	"Lake County, IL"	"17097"	"2018"	"2018"	21	700832	3.0
+	"Lake County, IL"	"17097"	"2019"	"2019"	17	696535	Unreliable
+	"Lake County, IL"	"17097"	"2020"	"2020"	25	693593	3.6
+	"Lake County, IL"	"17097"	"2021"	"2021"	31	711239	4.4
+	"Lake County, IL"	"17097"	"2022"	"2022"	52	709150	7.3
+	"Lake County, IL"	"17097"	"2023 "	"2023"	28	708760	4.0
+	"McLean County, IL"	"17113"	"2018"	"2018"	11	172828	Unreliable
+	"Macon County, IL"	"17115"	"2019"	"2019"	11	104009	Unreliable
+	"Macon County, IL"	"17115"	"2020"	"2020"	17	103015	Unreliable
+	"Macon County, IL"	"17115"	"2021"	"2021"	13	102432	Unreliable
+	"Macon County, IL"	"17115"	"2022"	"2022"	16	101483	Unreliable
+	"Macon County, IL"	"17115"	"2023 "	"2023"	20	100591	19.9
+	"Madison County, IL"	"17119"	"2018"	"2018"	17	264461	Unreliable
+	"Madison County, IL"	"17119"	"2019"	"2019"	15	262966	Unreliable
+	"Madison County, IL"	"17119"	"2020"	"2020"	13	262635	Unreliable
+	"Madison County, IL"	"17119"	"2021"	"2021"	13	264490	Unreliable
+	"Madison County, IL"	"17119"	"2022"	"2022"	13	263864	Unreliable
+	"Madison County, IL"	"17119"	"2023 "	"2023"	21	262752	8.0
+	"Peoria County, IL"	"17143"	"2018"	"2018"	27	180621	14.9
+	"Peoria County, IL"	"17143"	"2019"	"2019"	26	179179	14.5
+	"Peoria County, IL"	"17143"	"2020"	"2020"	13	177652	Unreliable
+	"Peoria County, IL"	"17143"	"2021"	"2021"	34	179432	18.9
+	"Peoria County, IL"	"17143"	"2022"	"2022"	24	178383	13.5
+	"Peoria County, IL"	"17143"	"2023 "	"2023"	27	177513	15.2
+	"Rock Island County, IL"	"17161"	"2019"	"2019"	14	141879	Unreliable
+	"Rock Island County, IL"	"17161"	"2020"	"2020"	23	140907	16.3
+	"Rock Island County, IL"	"17161"	"2021"	"2021"	22	142909	15.4
+	"Rock Island County, IL"	"17161"	"2022"	"2022"	26	141527	18.4
+	"St. Clair County, IL"	"17163"	"2018"	"2018"	36	261059	13.8
+	"St. Clair County, IL"	"17163"	"2019"	"2019"	41	259686	15.8
+	"St. Clair County, IL"	"17163"	"2020"	"2020"	63	258046	24.4
+	"St. Clair County, IL"	"17163"	"2021"	"2021"	54	254796	21.2
+	"St. Clair County, IL"	"17163"	"2022"	"2022"	50	252671	19.8
+	"St. Clair County, IL"	"17163"	"2023 "	"2023"	61	251018	24.3
+	"Sangamon County, IL"	"17167"	"2018"	"2018"	13	195348	Unreliable
+	"Sangamon County, IL"	"17167"	"2019"	"2019"	12	194672	Unreliable
+	"Sangamon County, IL"	"17167"	"2020"	"2020"	15	193882	Unreliable
+	"Sangamon County, IL"	"17167"	"2021"	"2021"	13	194734	Unreliable
+	"Sangamon County, IL"	"17167"	"2022"	"2022"	16	194534	Unreliable
+	"Vermilion County, IL"	"17183"	"2018"	"2018"	16	76806	Unreliable
+	"Vermilion County, IL"	"17183"	"2021"	"2021"	12	73095	Unreliable
+	"Vermilion County, IL"	"17183"	"2022"	"2022"	11	72337	Unreliable
+	"Will County, IL"	"17197"	"2018"	"2018"	19	692310	Unreliable
+	"Will County, IL"	"17197"	"2019"	"2019"	33	690743	4.8
+	"Will County, IL"	"17197"	"2020"	"2020"	38	688726	5.5
+	"Will County, IL"	"17197"	"2021"	"2021"	26	697252	3.7
+	"Will County, IL"	"17197"	"2022"	"2022"	31	696757	4.4
+	"Will County, IL"	"17197"	"2023 "	"2023"	32	700728	4.6
+	"Winnebago County, IL"	"17201"	"2018"	"2018"	30	284081	10.6
+	"Winnebago County, IL"	"17201"	"2019"	"2019"	24	282572	8.5
+	"Winnebago County, IL"	"17201"	"2020"	"2020"	39	281295	13.9
+	"Winnebago County, IL"	"17201"	"2021"	"2021"	28	283119	9.9
+	"Winnebago County, IL"	"17201"	"2022"	"2022"	26	282188	9.2
+	"Winnebago County, IL"	"17201"	"2023 "	"2023"	23	280922	8.2
+	"Allen County, IN"	"18003"	"2018"	"2018"	42	375351	11.2
+	"Allen County, IN"	"18003"	"2019"	"2019"	28	379299	7.4
+	"Allen County, IN"	"18003"	"2020"	"2020"	46	382187	12.0
+	"Allen County, IN"	"18003"	"2021"	"2021"	45	388608	11.6
+	"Allen County, IN"	"18003"	"2022"	"2022"	23	391449	5.9
+	"Allen County, IN"	"18003"	"2023 "	"2023"	31	394545	7.9
+	"Delaware County, IN"	"18035"	"2021"	"2021"	10	111871	Unreliable
+	"Delaware County, IN"	"18035"	"2022"	"2022"	17	112031	Unreliable
+	"Elkhart County, IN"	"18039"	"2020"	"2020"	12	206161	Unreliable
+	"Elkhart County, IN"	"18039"	"2021"	"2021"	15	206921	Unreliable
+	"Elkhart County, IN"	"18039"	"2022"	"2022"	12	206890	Unreliable
+	"Elkhart County, IN"	"18039"	"2023 "	"2023"	12	206409	Unreliable
+	"Lake County, IN"	"18089"	"2018"	"2018"	77	484411	15.9
+	"Lake County, IN"	"18089"	"2019"	"2019"	87	485493	17.9
+	"Lake County, IN"	"18089"	"2020"	"2020"	87	487536	17.8
+	"Lake County, IN"	"18089"	"2021"	"2021"	85	498558	17.0
+	"Lake County, IN"	"18089"	"2022"	"2022"	92	499689	18.4
+	"Lake County, IN"	"18089"	"2023 "	"2023"	87	500598	17.4
+	"La Porte County, IN"	"18091"	"2019"	"2019"	12	109888	Unreliable
+	"La Porte County, IN"	"18091"	"2021"	"2021"	10	112390	Unreliable
+	"Madison County, IN"	"18095"	"2018"	"2018"	13	129641	Unreliable
+	"Madison County, IN"	"18095"	"2021"	"2021"	12	130782	Unreliable
+	"Marion County, IN"	"18097"	"2018"	"2018"	174	954670	18.2
+	"Marion County, IN"	"18097"	"2019"	"2019"	169	964582	17.5
+	"Marion County, IN"	"18097"	"2020"	"2020"	241	966183	24.9
+	"Marion County, IN"	"18097"	"2021"	"2021"	246	971102	25.3
+	"Marion County, IN"	"18097"	"2022"	"2022"	212	969466	21.9
+	"Marion County, IN"	"18097"	"2023 "	"2023"	209	968460	21.6
+	"Monroe County, IN"	"18105"	"2020"	"2020"	10	148219	Unreliable
+	"St. Joseph County, IN"	"18141"	"2018"	"2018"	22	270771	8.1
+	"St. Joseph County, IN"	"18141"	"2019"	"2019"	16	271826	Unreliable
+	"St. Joseph County, IN"	"18141"	"2020"	"2020"	31	271484	11.4
+	"St. Joseph County, IN"	"18141"	"2021"	"2021"	29	272212	10.7
+	"St. Joseph County, IN"	"18141"	"2022"	"2022"	31	272234	11.4
+	"St. Joseph County, IN"	"18141"	"2023 "	"2023"	28	272848	10.3
+	"Vanderburgh County, IN"	"18163"	"2018"	"2018"	16	180974	Unreliable
+	"Vanderburgh County, IN"	"18163"	"2019"	"2019"	15	181451	Unreliable
+	"Vanderburgh County, IN"	"18163"	"2020"	"2020"	21	182447	11.5
+	"Vanderburgh County, IN"	"18163"	"2021"	"2021"	21	179987	11.7
+	"Vanderburgh County, IN"	"18163"	"2022"	"2022"	14	179744	Unreliable
+	"Vanderburgh County, IN"	"18163"	"2023 "	"2023"	13	179810	Unreliable
+	"Vigo County, IN"	"18167"	"2020"	"2020"	11	106608	Unreliable
+	"Black Hawk County, IA"	"19013"	"2022"	"2022"	13	130274	Unreliable
+	"Linn County, IA"	"19113"	"2020"	"2020"	15	227854	Unreliable
+	"Linn County, IA"	"19113"	"2021"	"2021"	14	228939	Unreliable
+	"Linn County, IA"	"19113"	"2022"	"2022"	14	229033	Unreliable
+	"Linn County, IA"	"19113"	"2023 "	"2023"	12	228972	Unreliable
+	"Polk County, IA"	"19153"	"2018"	"2018"	18	487204	Unreliable
+	"Polk County, IA"	"19153"	"2019"	"2019"	15	490161	Unreliable
+	"Polk County, IA"	"19153"	"2020"	"2020"	28	494281	5.7
+	"Polk County, IA"	"19153"	"2022"	"2022"	21	501089	4.2
+	"Polk County, IA"	"19153"	"2023 "	"2023"	16	505255	Unreliable
+	"Scott County, IA"	"19163"	"2020"	"2020"	13	173216	Unreliable
+	"Scott County, IA"	"19163"	"2021"	"2021"	12	174170	Unreliable
+	"Scott County, IA"	"19163"	"2023 "	"2023"	10	174270	Unreliable
+	"Johnson County, KS"	"20091"	"2018"	"2018"	16	597555	Unreliable
+	"Johnson County, KS"	"20091"	"2019"	"2019"	13	602401	Unreliable
+	"Johnson County, KS"	"20091"	"2020"	"2020"	13	607220	Unreliable
+	"Johnson County, KS"	"20091"	"2021"	"2021"	11	613219	Unreliable
+	"Johnson County, KS"	"20091"	"2022"	"2022"	14	619195	Unreliable
+	"Johnson County, KS"	"20091"	"2023 "	"2023"	14	622237	Unreliable
+	"Sedgwick County, KS"	"20173"	"2018"	"2018"	48	513607	9.3
+	"Sedgwick County, KS"	"20173"	"2019"	"2019"	34	516042	6.6
+	"Sedgwick County, KS"	"20173"	"2020"	"2020"	60	519907	11.5
+	"Sedgwick County, KS"	"20173"	"2021"	"2021"	58	523828	11.1
+	"Sedgwick County, KS"	"20173"	"2022"	"2022"	31	525525	5.9
+	"Sedgwick County, KS"	"20173"	"2023 "	"2023"	47	528469	8.9
+	"Shawnee County, KS"	"20177"	"2018"	"2018"	15	177499	Unreliable
+	"Shawnee County, KS"	"20177"	"2019"	"2019"	15	176875	Unreliable
+	"Shawnee County, KS"	"20177"	"2020"	"2020"	21	175999	11.9
+	"Shawnee County, KS"	"20177"	"2021"	"2021"	14	178264	Unreliable
+	"Shawnee County, KS"	"20177"	"2022"	"2022"	21	177480	11.8
+	"Shawnee County, KS"	"20177"	"2023 "	"2023"	35	177746	19.7
+	"Wyandotte County, KS"	"20209"	"2018"	"2018"	28	165324	16.9
+	"Wyandotte County, KS"	"20209"	"2019"	"2019"	28	165429	16.9
+	"Wyandotte County, KS"	"20209"	"2020"	"2020"	56	165265	33.9
+	"Wyandotte County, KS"	"20209"	"2021"	"2021"	45	167046	26.9
+	"Wyandotte County, KS"	"20209"	"2022"	"2022"	38	165746	22.9
+	"Wyandotte County, KS"	"20209"	"2023 "	"2023"	40	165281	24.2
+	"Christian County, KY"	"21047"	"2018"	"2018"	10	71671	Unreliable
+	"Christian County, KY"	"21047"	"2021"	"2021"	14	72357	Unreliable
+	"Daviess County, KY"	"21059"	"2020"	"2020"	10	101978	Unreliable
+	"Fayette County, KY"	"21067"	"2018"	"2018"	20	323780	6.2
+	"Fayette County, KY"	"21067"	"2019"	"2019"	23	323152	7.1
+	"Fayette County, KY"	"21067"	"2020"	"2020"	36	324735	11.1
+	"Fayette County, KY"	"21067"	"2021"	"2021"	37	321793	11.5
+	"Fayette County, KY"	"21067"	"2022"	"2022"	44	320347	13.7
+	"Fayette County, KY"	"21067"	"2023 "	"2023"	21	320154	6.6
+	"Hardin County, KY"	"21093"	"2023 "	"2023"	13	112273	Unreliable
+	"Jefferson County, KY"	"21111"	"2018"	"2018"	86	770517	11.2
+	"Jefferson County, KY"	"21111"	"2019"	"2019"	97	766757	12.7
+	"Jefferson County, KY"	"21111"	"2020"	"2020"	176	767452	22.9
+	"Jefferson County, KY"	"21111"	"2021"	"2021"	199	777874	25.6
+	"Jefferson County, KY"	"21111"	"2022"	"2022"	156	773399	20.2
+	"Jefferson County, KY"	"21111"	"2023 "	"2023"	146	772144	18.9
+	"Warren County, KY"	"21227"	"2020"	"2020"	11	134510	Unreliable
+	"Warren County, KY"	"21227"	"2022"	"2022"	10	139843	Unreliable
+	"Acadia Parish, LA"	"22001"	"2021"	"2021"	10	57288	Unreliable
+	"Ascension Parish, LA"	"22005"	"2021"	"2021"	16	128369	Unreliable
+	"Ascension Parish, LA"	"22005"	"2022"	"2022"	14	130458	Unreliable
+	"Ascension Parish, LA"	"22005"	"2023 "	"2023"	11	131632	Unreliable
+	"Avoyelles Parish, LA"	"22009"	"2020"	"2020"	12	39966	Unreliable
+	"Bossier Parish, LA"	"22015"	"2020"	"2020"	11	127275	Unreliable
+	"Bossier Parish, LA"	"22015"	"2021"	"2021"	11	129144	Unreliable
+	"Bossier Parish, LA"	"22015"	"2023 "	"2023"	11	129795	Unreliable
+	"Caddo Parish, LA"	"22017"	"2018"	"2018"	59	242922	24.3
+	"Caddo Parish, LA"	"22017"	"2019"	"2019"	45	240204	18.7
+	"Caddo Parish, LA"	"22017"	"2020"	"2020"	81	237479	34.1
+	"Caddo Parish, LA"	"22017"	"2021"	"2021"	82	233092	35.2
+	"Caddo Parish, LA"	"22017"	"2022"	"2022"	53	229025	23.1
+	"Caddo Parish, LA"	"22017"	"2023 "	"2023"	81	226386	35.8
+	"Calcasieu Parish, LA"	"22019"	"2018"	"2018"	16	203112	Unreliable
+	"Calcasieu Parish, LA"	"22019"	"2019"	"2019"	20	203436	9.8
+	"Calcasieu Parish, LA"	"22019"	"2020"	"2020"	19	203310	Unreliable
+	"Calcasieu Parish, LA"	"22019"	"2021"	"2021"	13	205282	Unreliable
+	"Calcasieu Parish, LA"	"22019"	"2022"	"2022"	16	202418	Unreliable
+	"Calcasieu Parish, LA"	"22019"	"2023 "	"2023"	20	203761	9.8
+	"East Baton Rouge Parish, LA"	"22033"	"2018"	"2018"	93	440956	21.1
+	"East Baton Rouge Parish, LA"	"22033"	"2019"	"2019"	104	440059	23.6
+	"East Baton Rouge Parish, LA"	"22033"	"2020"	"2020"	126	439729	28.7
+	"East Baton Rouge Parish, LA"	"22033"	"2021"	"2021"	163	453301	36.0
+	"East Baton Rouge Parish, LA"	"22033"	"2022"	"2022"	116	450544	25.7
+	"East Baton Rouge Parish, LA"	"22033"	"2023 "	"2023"	102	448467	22.7
+	"Evangeline Parish, LA"	"22039"	"2023 "	"2023"	11	31754	Unreliable
+	"Iberia Parish, LA"	"22045"	"2018"	"2018"	11	70941	Unreliable
+	"Iberia Parish, LA"	"22045"	"2019"	"2019"	11	69830	Unreliable
+	"Iberia Parish, LA"	"22045"	"2020"	"2020"	12	68991	Unreliable
+	"Iberia Parish, LA"	"22045"	"2021"	"2021"	13	68975	Unreliable
+	"Iberia Parish, LA"	"22045"	"2022"	"2022"	19	68327	Unreliable
+	"Iberia Parish, LA"	"22045"	"2023 "	"2023"	17	67659	Unreliable
+	"Jefferson Parish, LA"	"22051"	"2018"	"2018"	47	434051	10.8
+	"Jefferson Parish, LA"	"22051"	"2019"	"2019"	70	432493	16.2
+	"Jefferson Parish, LA"	"22051"	"2020"	"2020"	79	432346	18.3
+	"Jefferson Parish, LA"	"22051"	"2021"	"2021"	73	433688	16.8
+	"Jefferson Parish, LA"	"22051"	"2022"	"2022"	70	425884	16.4
+	"Jefferson Parish, LA"	"22051"	"2023 "	"2023"	65	421777	15.4
+	"Lafayette Parish, LA"	"22055"	"2018"	"2018"	18	242782	Unreliable
+	"Lafayette Parish, LA"	"22055"	"2019"	"2019"	19	244390	Unreliable
+	"Lafayette Parish, LA"	"22055"	"2020"	"2020"	23	246518	9.3
+	"Lafayette Parish, LA"	"22055"	"2021"	"2021"	37	244205	15.2
+	"Lafayette Parish, LA"	"22055"	"2022"	"2022"	39	247866	15.7
+	"Lafayette Parish, LA"	"22055"	"2023 "	"2023"	34	249750	13.6
+	"Lafourche Parish, LA"	"22057"	"2021"	"2021"	13	97504	Unreliable
+	"Livingston Parish, LA"	"22063"	"2018"	"2018"	12	139567	Unreliable
+	"Livingston Parish, LA"	"22063"	"2019"	"2019"	13	140789	Unreliable
+	"Livingston Parish, LA"	"22063"	"2023 "	"2023"	10	150145	Unreliable
+	"Morehouse Parish, LA"	"22067"	"2021"	"2021"	12	25025	Unreliable
+	"Orleans Parish, LA"	"22071"	"2018"	"2018"	117	391006	29.9
+	"Orleans Parish, LA"	"22071"	"2019"	"2019"	111	390144	28.5
+	"Orleans Parish, LA"	"22071"	"2020"	"2020"	182	389476	46.7
+	"Orleans Parish, LA"	"22071"	"2021"	"2021"	195	376971	51.7
+	"Orleans Parish, LA"	"22071"	"2022"	"2022"	212	369749	57.3
+	"Orleans Parish, LA"	"22071"	"2023 "	"2023"	163	364136	44.8
+	"Ouachita Parish, LA"	"22073"	"2018"	"2018"	11	154475	Unreliable
+	"Ouachita Parish, LA"	"22073"	"2019"	"2019"	25	153279	16.3
+	"Ouachita Parish, LA"	"22073"	"2020"	"2020"	29	152439	19.0
+	"Ouachita Parish, LA"	"22073"	"2021"	"2021"	26	158768	16.4
+	"Ouachita Parish, LA"	"22073"	"2022"	"2022"	27	157702	17.1
+	"Ouachita Parish, LA"	"22073"	"2023 "	"2023"	36	157568	22.8
+	"Rapides Parish, LA"	"22079"	"2018"	"2018"	16	130562	Unreliable
+	"Rapides Parish, LA"	"22079"	"2019"	"2019"	19	129648	Unreliable
+	"Rapides Parish, LA"	"22079"	"2020"	"2020"	23	128567	17.9
+	"Rapides Parish, LA"	"22079"	"2021"	"2021"	34	128654	26.4
+	"Rapides Parish, LA"	"22079"	"2022"	"2022"	24	127189	18.9
+	"Rapides Parish, LA"	"22079"	"2023 "	"2023"	34	126260	26.9
+	"St. Bernard Parish, LA"	"22087"	"2020"	"2020"	11	47647	Unreliable
+	"St. John the Baptist Parish, LA"	"22095"	"2018"	"2018"	10	43184	Unreliable
+	"St. John the Baptist Parish, LA"	"22095"	"2019"	"2019"	11	42837	Unreliable
+	"St. John the Baptist Parish, LA"	"22095"	"2023 "	"2023"	11	39592	Unreliable
+	"St. Landry Parish, LA"	"22097"	"2019"	"2019"	13	82124	Unreliable
+	"St. Landry Parish, LA"	"22097"	"2020"	"2020"	24	81440	29.5
+	"St. Landry Parish, LA"	"22097"	"2021"	"2021"	10	82071	Unreliable
+	"St. Landry Parish, LA"	"22097"	"2022"	"2022"	18	81773	Unreliable
+	"St. Landry Parish, LA"	"22097"	"2023 "	"2023"	25	81464	30.7
+	"St. Tammany Parish, LA"	"22103"	"2018"	"2018"	19	258111	Unreliable
+	"St. Tammany Parish, LA"	"22103"	"2019"	"2019"	12	260419	Unreliable
+	"St. Tammany Parish, LA"	"22103"	"2020"	"2020"	15	263446	Unreliable
+	"St. Tammany Parish, LA"	"22103"	"2021"	"2021"	21	269388	7.8
+	"St. Tammany Parish, LA"	"22103"	"2022"	"2022"	24	273263	8.8
+	"St. Tammany Parish, LA"	"22103"	"2023 "	"2023"	18	275583	Unreliable
+	"Tangipahoa Parish, LA"	"22105"	"2018"	"2018"	12	133777	Unreliable
+	"Tangipahoa Parish, LA"	"22105"	"2019"	"2019"	15	134758	Unreliable
+	"Tangipahoa Parish, LA"	"22105"	"2020"	"2020"	20	136765	14.6
+	"Tangipahoa Parish, LA"	"22105"	"2021"	"2021"	20	135217	14.8
+	"Tangipahoa Parish, LA"	"22105"	"2022"	"2022"	21	137048	15.3
+	"Tangipahoa Parish, LA"	"22105"	"2023 "	"2023"	21	138064	15.2
+	"Terrebonne Parish, LA"	"22109"	"2019"	"2019"	18	110461	Unreliable
+	"Terrebonne Parish, LA"	"22109"	"2020"	"2020"	16	109859	Unreliable
+	"Terrebonne Parish, LA"	"22109"	"2021"	"2021"	16	108708	Unreliable
+	"Washington Parish, LA"	"22117"	"2020"	"2020"	12	45773	Unreliable
+	"Washington Parish, LA"	"22117"	"2021"	"2021"	14	45133	Unreliable
+	"Washington Parish, LA"	"22117"	"2022"	"2022"	15	45025	Unreliable
+	"Androscoggin County, ME"	"23001"	"2023 "	"2023"	16	113765	Unreliable
+	"Anne Arundel County, MD"	"24003"	"2018"	"2018"	31	576031	5.4
+	"Anne Arundel County, MD"	"24003"	"2019"	"2019"	27	579234	4.7
+	"Anne Arundel County, MD"	"24003"	"2020"	"2020"	27	582777	4.6
+	"Anne Arundel County, MD"	"24003"	"2021"	"2021"	26	590336	4.4
+	"Anne Arundel County, MD"	"24003"	"2022"	"2022"	29	593286	4.9
+	"Anne Arundel County, MD"	"24003"	"2023 "	"2023"	32	594582	5.4
+	"Baltimore County, MD"	"24005"	"2018"	"2018"	69	828431	8.3
+	"Baltimore County, MD"	"24005"	"2019"	"2019"	94	827370	11.4
+	"Baltimore County, MD"	"24005"	"2020"	"2020"	78	826017	9.4
+	"Baltimore County, MD"	"24005"	"2021"	"2021"	108	849316	12.7
+	"Baltimore County, MD"	"24005"	"2022"	"2022"	84	846161	9.9
+	"Baltimore County, MD"	"24005"	"2023 "	"2023"	64	844703	7.6
+	"Cecil County, MD"	"24015"	"2022"	"2022"	12	104942	Unreliable
+	"Charles County, MD"	"24017"	"2018"	"2018"	13	161503	Unreliable
+	"Charles County, MD"	"24017"	"2020"	"2020"	25	164436	15.2
+	"Charles County, MD"	"24017"	"2021"	"2021"	10	168698	Unreliable
+	"Charles County, MD"	"24017"	"2022"	"2022"	16	170102	Unreliable
+	"Charles County, MD"	"24017"	"2023 "	"2023"	21	171973	12.2
+	"Harford County, MD"	"24025"	"2019"	"2019"	12	255441	Unreliable
+	"Harford County, MD"	"24025"	"2020"	"2020"	12	256805	Unreliable
+	"Harford County, MD"	"24025"	"2021"	"2021"	10	262977	Unreliable
+	"Harford County, MD"	"24025"	"2022"	"2022"	17	263867	Unreliable
+	"Harford County, MD"	"24025"	"2023 "	"2023"	12	264644	Unreliable
+	"Howard County, MD"	"24027"	"2019"	"2019"	14	325690	Unreliable
+	"Howard County, MD"	"24027"	"2020"	"2020"	12	328200	Unreliable
+	"Howard County, MD"	"24027"	"2021"	"2021"	15	334529	Unreliable
+	"Howard County, MD"	"24027"	"2022"	"2022"	12	335411	Unreliable
+	"Montgomery County, MD"	"24031"	"2018"	"2018"	25	1052567	2.4
+	"Montgomery County, MD"	"24031"	"2019"	"2019"	22	1050688	2.1
+	"Montgomery County, MD"	"24031"	"2020"	"2020"	20	1051816	1.9
+	"Montgomery County, MD"	"24031"	"2021"	"2021"	55	1054827	5.2
+	"Montgomery County, MD"	"24031"	"2022"	"2022"	32	1052521	3.0
+	"Montgomery County, MD"	"24031"	"2023 "	"2023"	34	1058474	3.2
+	"Prince George's County, MD"	"24033"	"2018"	"2018"	90	909308	9.9
+	"Prince George's County, MD"	"24033"	"2019"	"2019"	90	909327	9.9
+	"Prince George's County, MD"	"24033"	"2020"	"2020"	137	909612	15.1
+	"Prince George's County, MD"	"24033"	"2021"	"2021"	156	955306	16.3
+	"Prince George's County, MD"	"24033"	"2022"	"2022"	141	946971	14.9
+	"Prince George's County, MD"	"24033"	"2023 "	"2023"	137	947430	14.5
+	"Washington County, MD"	"24043"	"2020"	"2020"	14	151146	Unreliable
+	"Washington County, MD"	"24043"	"2022"	"2022"	11	155590	Unreliable
+	"Baltimore city, MD"	"24510"	"2018"	"2018"	257	602495	42.7
+	"Baltimore city, MD"	"24510"	"2019"	"2019"	278	593490	46.8
+	"Baltimore city, MD"	"24510"	"2020"	"2020"	272	586131	46.4
+	"Baltimore city, MD"	"24510"	"2021"	"2021"	278	576498	48.2
+	"Baltimore city, MD"	"24510"	"2022"	"2022"	247	569931	43.3
+	"Baltimore city, MD"	"24510"	"2023 "	"2023"	199	565239	35.2
+	"Bristol County, MA"	"25005"	"2019"	"2019"	13	565217	Unreliable
+	"Bristol County, MA"	"25005"	"2020"	"2020"	14	566765	Unreliable
+	"Bristol County, MA"	"25005"	"2021"	"2021"	13	580164	Unreliable
+	"Bristol County, MA"	"25005"	"2022"	"2022"	17	580068	Unreliable
+	"Bristol County, MA"	"25005"	"2023 "	"2023"	16	581841	Unreliable
+	"Essex County, MA"	"25009"	"2018"	"2018"	12	790638	Unreliable
+	"Essex County, MA"	"25009"	"2020"	"2020"	17	791263	Unreliable
+	"Essex County, MA"	"25009"	"2021"	"2021"	12	807074	Unreliable
+	"Essex County, MA"	"25009"	"2022"	"2022"	17	806765	Unreliable
+	"Essex County, MA"	"25009"	"2023 "	"2023"	18	810089	Unreliable
+	"Hampden County, MA"	"25013"	"2018"	"2018"	27	470406	5.7
+	"Hampden County, MA"	"25013"	"2019"	"2019"	27	466372	5.8
+	"Hampden County, MA"	"25013"	"2020"	"2020"	27	463986	5.8
+	"Hampden County, MA"	"25013"	"2021"	"2021"	27	462718	5.8
+	"Hampden County, MA"	"25013"	"2022"	"2022"	27	461041	5.9
+	"Hampden County, MA"	"25013"	"2023 "	"2023"	39	460291	8.5
+	"Middlesex County, MA"	"25017"	"2018"	"2018"	12	1614714	Unreliable
+	"Middlesex County, MA"	"25017"	"2019"	"2019"	16	1611699	Unreliable
+	"Middlesex County, MA"	"25017"	"2020"	"2020"	21	1609379	1.3
+	"Middlesex County, MA"	"25017"	"2021"	"2021"	20	1614742	1.2
+	"Middlesex County, MA"	"25017"	"2022"	"2022"	11	1617105	Unreliable
+	"Middlesex County, MA"	"25017"	"2023 "	"2023"	22	1623952	1.4
+	"Norfolk County, MA"	"25021"	"2020"	"2020"	13	709409	Unreliable
+	"Norfolk County, MA"	"25021"	"2023 "	"2023"	12	727473	Unreliable
+	"Plymouth County, MA"	"25023"	"2018"	"2018"	14	518132	Unreliable
+	"Plymouth County, MA"	"25023"	"2019"	"2019"	11	521202	Unreliable
+	"Plymouth County, MA"	"25023"	"2021"	"2021"	12	533003	Unreliable
+	"Plymouth County, MA"	"25023"	"2022"	"2022"	17	533069	Unreliable
+	"Plymouth County, MA"	"25023"	"2023 "	"2023"	20	535308	3.7
+	"Suffolk County, MA"	"25025"	"2018"	"2018"	54	807252	6.7
+	"Suffolk County, MA"	"25025"	"2019"	"2019"	41	803907	5.1
+	"Suffolk County, MA"	"25025"	"2020"	"2020"	52	801582	6.5
+	"Suffolk County, MA"	"25025"	"2021"	"2021"	45	771245	5.8
+	"Suffolk County, MA"	"25025"	"2022"	"2022"	38	766381	5.0
+	"Suffolk County, MA"	"25025"	"2023 "	"2023"	30	768425	3.9
+	"Worcester County, MA"	"25027"	"2018"	"2018"	16	830839	Unreliable
+	"Worcester County, MA"	"25027"	"2019"	"2019"	18	830622	Unreliable
+	"Worcester County, MA"	"25027"	"2020"	"2020"	16	829212	Unreliable
+	"Worcester County, MA"	"25027"	"2021"	"2021"	11	862029	Unreliable
+	"Worcester County, MA"	"25027"	"2022"	"2022"	18	862927	Unreliable
+	"Worcester County, MA"	"25027"	"2023 "	"2023"	15	866866	Unreliable
+	"Berrien County, MI"	"26021"	"2020"	"2020"	13	153025	Unreliable
+	"Berrien County, MI"	"26021"	"2021"	"2021"	12	153101	Unreliable
+	"Berrien County, MI"	"26021"	"2022"	"2022"	20	152900	13.1
+	"Berrien County, MI"	"26021"	"2023 "	"2023"	14	152261	Unreliable
+	"Calhoun County, MI"	"26025"	"2020"	"2020"	17	133580	Unreliable
+	"Calhoun County, MI"	"26025"	"2021"	"2021"	11	133819	Unreliable
+	"Calhoun County, MI"	"26025"	"2022"	"2022"	11	133289	Unreliable
+	"Calhoun County, MI"	"26025"	"2023 "	"2023"	17	133366	Unreliable
+	"Genesee County, MI"	"26049"	"2018"	"2018"	48	406892	11.8
+	"Genesee County, MI"	"26049"	"2019"	"2019"	48	405813	11.8
+	"Genesee County, MI"	"26049"	"2020"	"2020"	74	404794	18.3
+	"Genesee County, MI"	"26049"	"2021"	"2021"	68	404208	16.8
+	"Genesee County, MI"	"26049"	"2022"	"2022"	58	401983	14.4
+	"Genesee County, MI"	"26049"	"2023 "	"2023"	47	401522	11.7
+	"Ingham County, MI"	"26065"	"2018"	"2018"	11	292735	Unreliable
+	"Ingham County, MI"	"26065"	"2019"	"2019"	19	292406	Unreliable
+	"Ingham County, MI"	"26065"	"2020"	"2020"	23	290609	7.9
+	"Ingham County, MI"	"26065"	"2021"	"2021"	32	284034	11.3
+	"Ingham County, MI"	"26065"	"2022"	"2022"	17	284108	Unreliable
+	"Ingham County, MI"	"26065"	"2023 "	"2023"	16	284637	Unreliable
+	"Jackson County, MI"	"26075"	"2018"	"2018"	11	158823	Unreliable
+	"Jackson County, MI"	"26075"	"2020"	"2020"	13	156920	Unreliable
+	"Jackson County, MI"	"26075"	"2021"	"2021"	13	160050	Unreliable
+	"Jackson County, MI"	"26075"	"2022"	"2022"	11	160066	Unreliable
+	"Jackson County, MI"	"26075"	"2023 "	"2023"	13	159424	Unreliable
+	"Kalamazoo County, MI"	"26077"	"2018"	"2018"	11	264870	Unreliable
+	"Kalamazoo County, MI"	"26077"	"2019"	"2019"	13	265066	Unreliable
+	"Kalamazoo County, MI"	"26077"	"2020"	"2020"	16	265988	Unreliable
+	"Kalamazoo County, MI"	"26077"	"2021"	"2021"	28	261108	10.7
+	"Kalamazoo County, MI"	"26077"	"2022"	"2022"	22	261173	8.4
+	"Kalamazoo County, MI"	"26077"	"2023 "	"2023"	23	262215	8.8
+	"Kent County, MI"	"26081"	"2018"	"2018"	23	653786	3.5
+	"Kent County, MI"	"26081"	"2019"	"2019"	27	656955	4.1
+	"Kent County, MI"	"26081"	"2020"	"2020"	53	658708	8.0
+	"Kent County, MI"	"26081"	"2021"	"2021"	28	658046	4.3
+	"Kent County, MI"	"26081"	"2022"	"2022"	35	659083	5.3
+	"Kent County, MI"	"26081"	"2023 "	"2023"	35	661354	5.3
+	"Macomb County, MI"	"26099"	"2018"	"2018"	43	874759	4.9
+	"Macomb County, MI"	"26099"	"2019"	"2019"	42	873972	4.8
+	"Macomb County, MI"	"26099"	"2020"	"2020"	46	870791	5.3
+	"Macomb County, MI"	"26099"	"2021"	"2021"	56	876792	6.4
+	"Macomb County, MI"	"26099"	"2022"	"2022"	52	874195	5.9
+	"Macomb County, MI"	"26099"	"2023 "	"2023"	36	875101	4.1
+	"Muskegon County, MI"	"26121"	"2018"	"2018"	16	173588	Unreliable
+	"Muskegon County, MI"	"26121"	"2019"	"2019"	16	173566	Unreliable
+	"Muskegon County, MI"	"26121"	"2020"	"2020"	15	173883	Unreliable
+	"Muskegon County, MI"	"26121"	"2021"	"2021"	11	176511	Unreliable
+	"Muskegon County, MI"	"26121"	"2022"	"2022"	19	176565	Unreliable
+	"Muskegon County, MI"	"26121"	"2023 "	"2023"	12	176564	Unreliable
+	"Oakland County, MI"	"26125"	"2018"	"2018"	59	1259201	4.7
+	"Oakland County, MI"	"26125"	"2019"	"2019"	35	1257584	2.8
+	"Oakland County, MI"	"26125"	"2020"	"2020"	52	1253459	4.1
+	"Oakland County, MI"	"26125"	"2021"	"2021"	51	1270017	4.0
+	"Oakland County, MI"	"26125"	"2022"	"2022"	52	1269431	4.1
+	"Oakland County, MI"	"26125"	"2023 "	"2023"	39	1270426	3.1
+	"Saginaw County, MI"	"26145"	"2018"	"2018"	20	190800	10.5
+	"Saginaw County, MI"	"26145"	"2019"	"2019"	19	190539	Unreliable
+	"Saginaw County, MI"	"26145"	"2020"	"2020"	26	189868	13.7
+	"Saginaw County, MI"	"26145"	"2021"	"2021"	32	189591	16.9
+	"Saginaw County, MI"	"26145"	"2022"	"2022"	22	188330	11.7
+	"Saginaw County, MI"	"26145"	"2023 "	"2023"	16	187782	Unreliable
+	"Washtenaw County, MI"	"26161"	"2018"	"2018"	12	370963	Unreliable
+	"Washtenaw County, MI"	"26161"	"2019"	"2019"	12	367601	Unreliable
+	"Washtenaw County, MI"	"26161"	"2020"	"2020"	12	366473	Unreliable
+	"Washtenaw County, MI"	"26161"	"2021"	"2021"	17	369390	Unreliable
+	"Washtenaw County, MI"	"26161"	"2022"	"2022"	15	366376	Unreliable
+	"Washtenaw County, MI"	"26161"	"2023 "	"2023"	10	365536	Unreliable
+	"Wayne County, MI"	"26163"	"2018"	"2018"	284	1753893	16.2
+	"Wayne County, MI"	"26163"	"2019"	"2019"	293	1749343	16.7
+	"Wayne County, MI"	"26163"	"2020"	"2020"	387	1740623	22.2
+	"Wayne County, MI"	"26163"	"2021"	"2021"	364	1774816	20.5
+	"Wayne County, MI"	"26163"	"2022"	"2022"	385	1757043	21.9
+	"Wayne County, MI"	"26163"	"2023 "	"2023"	298	1751169	17.0
+	"Anoka County, MN"	"27003"	"2022"	"2022"	10	368864	Unreliable
+	"Dakota County, MN"	"27037"	"2020"	"2020"	12	431807	Unreliable
+	"Dakota County, MN"	"27037"	"2021"	"2021"	14	442038	Unreliable
+	"Hennepin County, MN"	"27053"	"2018"	"2018"	35	1259428	2.8
+	"Hennepin County, MN"	"27053"	"2019"	"2019"	51	1265843	4.0
+	"Hennepin County, MN"	"27053"	"2020"	"2020"	83	1268408	6.5
+	"Hennepin County, MN"	"27053"	"2021"	"2021"	98	1267416	7.7
+	"Hennepin County, MN"	"27053"	"2022"	"2022"	73	1260121	5.8
+	"Hennepin County, MN"	"27053"	"2023 "	"2023"	85	1258713	6.8
+	"Ramsey County, MN"	"27123"	"2018"	"2018"	21	550210	3.8
+	"Ramsey County, MN"	"27123"	"2019"	"2019"	30	550321	5.5
+	"Ramsey County, MN"	"27123"	"2020"	"2020"	32	547903	5.8
+	"Ramsey County, MN"	"27123"	"2021"	"2021"	43	543257	7.9
+	"Ramsey County, MN"	"27123"	"2022"	"2022"	54	536413	10.1
+	"Ramsey County, MN"	"27123"	"2023 "	"2023"	31	536075	5.8
+	"Adams County, MS"	"28001"	"2018"	"2018"	13	31192	Unreliable
+	"Adams County, MS"	"28001"	"2020"	"2020"	11	30275	Unreliable
+	"Bolivar County, MS"	"28011"	"2019"	"2019"	12	30628	Unreliable
+	"Bolivar County, MS"	"28011"	"2021"	"2021"	18	30308	Unreliable
+	"Bolivar County, MS"	"28011"	"2022"	"2022"	13	29370	Unreliable
+	"Bolivar County, MS"	"28011"	"2023 "	"2023"	10	28968	Unreliable
+	"Coahoma County, MS"	"28027"	"2021"	"2021"	12	20810	Unreliable
+	"Coahoma County, MS"	"28027"	"2023 "	"2023"	14	20077	Unreliable
+	"Copiah County, MS"	"28029"	"2021"	"2021"	13	27995	Unreliable
+	"Copiah County, MS"	"28029"	"2022"	"2022"	11	27719	Unreliable
+	"DeSoto County, MS"	"28033"	"2018"	"2018"	10	182001	Unreliable
+	"DeSoto County, MS"	"28033"	"2019"	"2019"	25	184945	13.5
+	"DeSoto County, MS"	"28033"	"2020"	"2020"	20	188275	10.6
+	"DeSoto County, MS"	"28033"	"2021"	"2021"	29	188633	15.4
+	"DeSoto County, MS"	"28033"	"2022"	"2022"	23	191723	12.0
+	"DeSoto County, MS"	"28033"	"2023 "	"2023"	21	193247	10.9
+	"Forrest County, MS"	"28035"	"2018"	"2018"	15	75036	Unreliable
+	"Forrest County, MS"	"28035"	"2019"	"2019"	12	74897	Unreliable
+	"Forrest County, MS"	"28035"	"2020"	"2020"	14	75009	Unreliable
+	"Harrison County, MS"	"28047"	"2019"	"2019"	17	208080	Unreliable
+	"Harrison County, MS"	"28047"	"2020"	"2020"	29	208801	13.9
+	"Harrison County, MS"	"28047"	"2021"	"2021"	27	209396	12.9
+	"Harrison County, MS"	"28047"	"2022"	"2022"	31	211044	14.7
+	"Harrison County, MS"	"28047"	"2023 "	"2023"	22	210612	10.4
+	"Hinds County, MS"	"28049"	"2018"	"2018"	84	237085	35.4
+	"Hinds County, MS"	"28049"	"2019"	"2019"	72	231840	31.1
+	"Hinds County, MS"	"28049"	"2020"	"2020"	119	227966	52.2
+	"Hinds County, MS"	"28049"	"2021"	"2021"	138	222679	62.0
+	"Hinds County, MS"	"28049"	"2022"	"2022"	120	217730	55.1
+	"Hinds County, MS"	"28049"	"2023 "	"2023"	105	214870	48.9
+	"Holmes County, MS"	"28051"	"2022"	"2022"	15	16121	Unreliable
+	"Holmes County, MS"	"28051"	"2023 "	"2023"	15	15777	Unreliable
+	"Jackson County, MS"	"28059"	"2018"	"2018"	15	143277	Unreliable
+	"Jackson County, MS"	"28059"	"2019"	"2019"	12	143617	Unreliable
+	"Jackson County, MS"	"28059"	"2020"	"2020"	12	143802	Unreliable
+	"Jackson County, MS"	"28059"	"2021"	"2021"	22	143987	15.3
+	"Jackson County, MS"	"28059"	"2022"	"2022"	24	144975	16.6
+	"Jackson County, MS"	"28059"	"2023 "	"2023"	15	146389	Unreliable
+	"Jones County, MS"	"28067"	"2020"	"2020"	10	67993	Unreliable
+	"Jones County, MS"	"28067"	"2021"	"2021"	13	66744	Unreliable
+	"Lauderdale County, MS"	"28075"	"2019"	"2019"	16	74125	Unreliable
+	"Lauderdale County, MS"	"28075"	"2020"	"2020"	20	73751	27.1
+	"Lauderdale County, MS"	"28075"	"2021"	"2021"	24	72088	33.3
+	"Lauderdale County, MS"	"28075"	"2022"	"2022"	17	70904	Unreliable
+	"Lauderdale County, MS"	"28075"	"2023 "	"2023"	16	70527	Unreliable
+	"Lee County, MS"	"28081"	"2020"	"2020"	13	85466	Unreliable
+	"Lee County, MS"	"28081"	"2021"	"2021"	11	82883	Unreliable
+	"Leflore County, MS"	"28083"	"2018"	"2018"	11	28919	Unreliable
+	"Leflore County, MS"	"28083"	"2019"	"2019"	13	28183	Unreliable
+	"Leflore County, MS"	"28083"	"2020"	"2020"	21	27854	75.4
+	"Leflore County, MS"	"28083"	"2021"	"2021"	18	27557	Unreliable
+	"Leflore County, MS"	"28083"	"2022"	"2022"	19	26570	Unreliable
+	"Leflore County, MS"	"28083"	"2023 "	"2023"	23	26378	87.2
+	"Lowndes County, MS"	"28087"	"2021"	"2021"	12	58150	Unreliable
+	"Lowndes County, MS"	"28087"	"2022"	"2022"	11	57603	Unreliable
+	"Madison County, MS"	"28089"	"2018"	"2018"	11	105630	Unreliable
+	"Madison County, MS"	"28089"	"2020"	"2020"	21	106871	19.6
+	"Madison County, MS"	"28089"	"2021"	"2021"	19	109813	Unreliable
+	"Madison County, MS"	"28089"	"2023 "	"2023"	16	112511	Unreliable
+	"Marshall County, MS"	"28093"	"2022"	"2022"	10	34110	Unreliable
+	"Panola County, MS"	"28107"	"2021"	"2021"	10	32851	Unreliable
+	"Panola County, MS"	"28107"	"2023 "	"2023"	11	32669	Unreliable
+	"Pike County, MS"	"28113"	"2019"	"2019"	13	39288	Unreliable
+	"Pike County, MS"	"28113"	"2022"	"2022"	17	39644	Unreliable
+	"Rankin County, MS"	"28121"	"2020"	"2020"	19	155975	Unreliable
+	"Rankin County, MS"	"28121"	"2021"	"2021"	12	158096	Unreliable
+	"Rankin County, MS"	"28121"	"2022"	"2022"	11	158979	Unreliable
+	"Rankin County, MS"	"28121"	"2023 "	"2023"	11	160417	Unreliable
+	"Sunflower County, MS"	"28133"	"2020"	"2020"	13	24740	Unreliable
+	"Sunflower County, MS"	"28133"	"2021"	"2021"	11	25402	Unreliable
+	"Warren County, MS"	"28149"	"2020"	"2020"	15	44841	Unreliable
+	"Warren County, MS"	"28149"	"2023 "	"2023"	11	42298	Unreliable
+	"Washington County, MS"	"28151"	"2018"	"2018"	19	45063	Unreliable
+	"Washington County, MS"	"28151"	"2019"	"2019"	16	43909	Unreliable
+	"Washington County, MS"	"28151"	"2020"	"2020"	13	42837	Unreliable
+	"Washington County, MS"	"28151"	"2021"	"2021"	37	43687	84.7
+	"Washington County, MS"	"28151"	"2022"	"2022"	28	42514	65.9
+	"Washington County, MS"	"28151"	"2023 "	"2023"	29	41946	69.1
+	"Yazoo County, MS"	"28163"	"2021"	"2021"	10	26373	Unreliable
+	"Boone County, MO"	"29019"	"2018"	"2018"	14	180005	Unreliable
+	"Boone County, MO"	"29019"	"2019"	"2019"	17	180463	Unreliable
+	"Boone County, MO"	"29019"	"2020"	"2020"	15	182991	Unreliable
+	"Boone County, MO"	"29019"	"2021"	"2021"	15	185840	Unreliable
+	"Boone County, MO"	"29019"	"2022"	"2022"	12	187690	Unreliable
+	"Buchanan County, MO"	"29021"	"2021"	"2021"	10	83853	Unreliable
+	"Clay County, MO"	"29047"	"2018"	"2018"	14	246365	Unreliable
+	"Clay County, MO"	"29047"	"2019"	"2019"	15	249948	Unreliable
+	"Clay County, MO"	"29047"	"2020"	"2020"	16	253463	Unreliable
+	"Clay County, MO"	"29047"	"2021"	"2021"	12	255518	Unreliable
+	"Greene County, MO"	"29077"	"2018"	"2018"	22	291923	7.5
+	"Greene County, MO"	"29077"	"2019"	"2019"	11	293086	Unreliable
+	"Greene County, MO"	"29077"	"2020"	"2020"	31	294997	10.5
+	"Greene County, MO"	"29077"	"2021"	"2021"	28	300865	9.3
+	"Greene County, MO"	"29077"	"2022"	"2022"	17	303293	Unreliable
+	"Greene County, MO"	"29077"	"2023 "	"2023"	14	304611	Unreliable
+	"Jackson County, MO"	"29095"	"2018"	"2018"	152	700307	21.7
+	"Jackson County, MO"	"29095"	"2019"	"2019"	162	703011	23.0
+	"Jackson County, MO"	"29095"	"2020"	"2020"	176	705925	24.9
+	"Jackson County, MO"	"29095"	"2021"	"2021"	186	716862	25.9
+	"Jackson County, MO"	"29095"	"2022"	"2022"	195	716531	27.2
+	"Jackson County, MO"	"29095"	"2023 "	"2023"	178	718560	24.8
+	"Jasper County, MO"	"29097"	"2020"	"2020"	11	121648	Unreliable
+	"Jefferson County, MO"	"29099"	"2018"	"2018"	10	224347	Unreliable
+	"Jefferson County, MO"	"29099"	"2019"	"2019"	11	225081	Unreliable
+	"Jefferson County, MO"	"29099"	"2021"	"2021"	12	227771	Unreliable
+	"Jefferson County, MO"	"29099"	"2022"	"2022"	12	229336	Unreliable
+	"St. Charles County, MO"	"29183"	"2018"	"2018"	13	399182	Unreliable
+	"St. Charles County, MO"	"29183"	"2019"	"2019"	11	402022	Unreliable
+	"St. Charles County, MO"	"29183"	"2020"	"2020"	11	406204	Unreliable
+	"St. Charles County, MO"	"29183"	"2022"	"2022"	11	413803	Unreliable
+	"St. Charles County, MO"	"29183"	"2023 "	"2023"	18	416659	Unreliable
+	"St. Louis County, MO"	"29189"	"2018"	"2018"	161	996945	16.1
+	"St. Louis County, MO"	"29189"	"2019"	"2019"	164	994205	16.5
+	"St. Louis County, MO"	"29189"	"2020"	"2020"	192	994020	19.3
+	"St. Louis County, MO"	"29189"	"2021"	"2021"	176	997187	17.6
+	"St. Louis County, MO"	"29189"	"2022"	"2022"	174	990414	17.6
+	"St. Louis County, MO"	"29189"	"2023 "	"2023"	154	987059	15.6
+	"St. Louis city, MO"	"29510"	"2018"	"2018"	133	302838	43.9
+	"St. Louis city, MO"	"29510"	"2019"	"2019"	129	300576	42.9
+	"St. Louis city, MO"	"29510"	"2020"	"2020"	190	297645	63.8
+	"St. Louis city, MO"	"29510"	"2021"	"2021"	155	293310	52.8
+	"St. Louis city, MO"	"29510"	"2022"	"2022"	162	286578	56.5
+	"St. Louis city, MO"	"29510"	"2023 "	"2023"	104	281754	36.9
+	"Yellowstone County, MT"	"30111"	"2020"	"2020"	15	162990	Unreliable
+	"Yellowstone County, MT"	"30111"	"2021"	"2021"	12	167146	Unreliable
+	"Yellowstone County, MT"	"30111"	"2022"	"2022"	14	169852	Unreliable
+	"Douglas County, NE"	"31055"	"2018"	"2018"	21	566880	3.7
+	"Douglas County, NE"	"31055"	"2019"	"2019"	24	571327	4.2
+	"Douglas County, NE"	"31055"	"2020"	"2020"	45	574332	7.8
+	"Douglas County, NE"	"31055"	"2021"	"2021"	34	585008	5.8
+	"Douglas County, NE"	"31055"	"2022"	"2022"	37	586327	6.3
+	"Douglas County, NE"	"31055"	"2023 "	"2023"	30	589540	5.1
+	"Lancaster County, NE"	"31109"	"2020"	"2020"	11	320650	Unreliable
+	"Lancaster County, NE"	"31109"	"2022"	"2022"	11	324756	Unreliable
+	"Lancaster County, NE"	"31109"	"2023 "	"2023"	11	326716	Unreliable
+	"Clark County, NV"	"32003"	"2018"	"2018"	187	2231647	8.4
+	"Clark County, NV"	"32003"	"2019"	"2019"	128	2266715	5.6
+	"Clark County, NV"	"32003"	"2020"	"2020"	163	2315963	7.0
+	"Clark County, NV"	"32003"	"2021"	"2021"	214	2292476	9.3
+	"Clark County, NV"	"32003"	"2022"	"2022"	191	2322985	8.2
+	"Clark County, NV"	"32003"	"2023 "	"2023"	203	2336573	8.7
+	"Washoe County, NV"	"32031"	"2018"	"2018"	17	465735	Unreliable
+	"Washoe County, NV"	"32031"	"2019"	"2019"	24	471519	5.1
+	"Washoe County, NV"	"32031"	"2020"	"2020"	29	477082	6.1
+	"Washoe County, NV"	"32031"	"2021"	"2021"	38	493392	7.7
+	"Washoe County, NV"	"32031"	"2022"	"2022"	26	496745	5.2
+	"Washoe County, NV"	"32031"	"2023 "	"2023"	32	498022	6.4
+	"Hillsborough County, NH"	"33011"	"2023 "	"2023"	11	427354	Unreliable
+	"Atlantic County, NJ"	"34001"	"2018"	"2018"	18	265429	Unreliable
+	"Atlantic County, NJ"	"34001"	"2019"	"2019"	12	263670	Unreliable
+	"Atlantic County, NJ"	"34001"	"2020"	"2020"	15	262945	Unreliable
+	"Atlantic County, NJ"	"34001"	"2021"	"2021"	17	274966	Unreliable
+	"Atlantic County, NJ"	"34001"	"2022"	"2022"	14	275638	Unreliable
+	"Atlantic County, NJ"	"34001"	"2023 "	"2023"	10	275213	Unreliable
+	"Bergen County, NJ"	"34003"	"2019"	"2019"	11	932202	Unreliable
+	"Bergen County, NJ"	"34003"	"2020"	"2020"	11	930394	Unreliable
+	"Bergen County, NJ"	"34003"	"2021"	"2021"	15	953819	Unreliable
+	"Bergen County, NJ"	"34003"	"2022"	"2022"	18	952997	Unreliable
+	"Burlington County, NJ"	"34005"	"2019"	"2019"	14	445349	Unreliable
+	"Burlington County, NJ"	"34005"	"2020"	"2020"	19	446596	Unreliable
+	"Burlington County, NJ"	"34005"	"2021"	"2021"	17	464269	Unreliable
+	"Burlington County, NJ"	"34005"	"2022"	"2022"	18	466103	Unreliable
+	"Burlington County, NJ"	"34005"	"2023 "	"2023"	10	469167	Unreliable
+	"Camden County, NJ"	"34007"	"2018"	"2018"	35	507078	6.9
+	"Camden County, NJ"	"34007"	"2019"	"2019"	31	506471	6.1
+	"Camden County, NJ"	"34007"	"2020"	"2020"	36	506809	7.1
+	"Camden County, NJ"	"34007"	"2021"	"2021"	34	523771	6.5
+	"Camden County, NJ"	"34007"	"2022"	"2022"	34	524907	6.5
+	"Camden County, NJ"	"34007"	"2023 "	"2023"	38	527196	7.2
+	"Cumberland County, NJ"	"34011"	"2018"	"2018"	14	150972	Unreliable
+	"Cumberland County, NJ"	"34011"	"2020"	"2020"	10	147008	Unreliable
+	"Cumberland County, NJ"	"34011"	"2021"	"2021"	12	153627	Unreliable
+	"Cumberland County, NJ"	"34011"	"2022"	"2022"	11	151356	Unreliable
+	"Cumberland County, NJ"	"34011"	"2023 "	"2023"	18	152326	Unreliable
+	"Essex County, NJ"	"34013"	"2018"	"2018"	90	799767	11.3
+	"Essex County, NJ"	"34013"	"2019"	"2019"	70	798975	8.8
+	"Essex County, NJ"	"34013"	"2020"	"2020"	78	800501	9.7
+	"Essex County, NJ"	"34013"	"2021"	"2021"	88	854917	10.3
+	"Essex County, NJ"	"34013"	"2022"	"2022"	81	849477	9.5
+	"Essex County, NJ"	"34013"	"2023 "	"2023"	55	851117	6.5
+	"Gloucester County, NJ"	"34015"	"2022"	"2022"	10	306601	Unreliable
+	"Hudson County, NJ"	"34017"	"2018"	"2018"	26	676061	3.8
+	"Hudson County, NJ"	"34017"	"2019"	"2019"	17	672391	Unreliable
+	"Hudson County, NJ"	"34017"	"2020"	"2020"	22	671666	3.3
+	"Hudson County, NJ"	"34017"	"2021"	"2021"	34	702463	4.8
+	"Hudson County, NJ"	"34017"	"2022"	"2022"	19	703366	Unreliable
+	"Hudson County, NJ"	"34017"	"2023 "	"2023"	16	705472	Unreliable
+	"Mercer County, NJ"	"34021"	"2018"	"2018"	22	369811	5.9
+	"Mercer County, NJ"	"34021"	"2019"	"2019"	24	367430	6.5
+	"Mercer County, NJ"	"34021"	"2020"	"2020"	43	367239	11.7
+	"Mercer County, NJ"	"34021"	"2021"	"2021"	52	385898	13.5
+	"Mercer County, NJ"	"34021"	"2022"	"2022"	27	380688	7.1
+	"Mercer County, NJ"	"34021"	"2023 "	"2023"	28	381671	7.3
+	"Middlesex County, NJ"	"34023"	"2018"	"2018"	13	829685	Unreliable
+	"Middlesex County, NJ"	"34023"	"2019"	"2019"	17	825062	Unreliable
+	"Middlesex County, NJ"	"34023"	"2020"	"2020"	14	822736	Unreliable
+	"Middlesex County, NJ"	"34023"	"2021"	"2021"	26	860807	3.0
+	"Middlesex County, NJ"	"34023"	"2022"	"2022"	20	861418	2.3
+	"Middlesex County, NJ"	"34023"	"2023 "	"2023"	23	863623	2.7
+	"Monmouth County, NJ"	"34025"	"2018"	"2018"	16	621354	Unreliable
+	"Monmouth County, NJ"	"34025"	"2022"	"2022"	16	644098	Unreliable
+	"Ocean County, NJ"	"34029"	"2020"	"2020"	10	614237	Unreliable
+	"Ocean County, NJ"	"34029"	"2021"	"2021"	10	648998	Unreliable
+	"Passaic County, NJ"	"34031"	"2018"	"2018"	17	503310	Unreliable
+	"Passaic County, NJ"	"34031"	"2019"	"2019"	24	501826	4.8
+	"Passaic County, NJ"	"34031"	"2020"	"2020"	32	500382	6.4
+	"Passaic County, NJ"	"34031"	"2021"	"2021"	34	518117	6.6
+	"Passaic County, NJ"	"34031"	"2022"	"2022"	27	513936	5.3
+	"Passaic County, NJ"	"34031"	"2023 "	"2023"	22	513395	4.3
+	"Salem County, NJ"	"34033"	"2020"	"2020"	15	62451	Unreliable
+	"Union County, NJ"	"34039"	"2018"	"2018"	11	558067	Unreliable
+	"Union County, NJ"	"34039"	"2019"	"2019"	15	556341	Unreliable
+	"Union County, NJ"	"34039"	"2020"	"2020"	27	555394	4.9
+	"Union County, NJ"	"34039"	"2021"	"2021"	24	572114	4.2
+	"Union County, NJ"	"34039"	"2022"	"2022"	13	569815	Unreliable
+	"Union County, NJ"	"34039"	"2023 "	"2023"	20	572726	3.5
+	"Bernalillo County, NM"	"35001"	"2018"	"2018"	84	678701	12.4
+	"Bernalillo County, NM"	"35001"	"2019"	"2019"	83	679121	12.2
+	"Bernalillo County, NM"	"35001"	"2020"	"2020"	81	681666	11.9
+	"Bernalillo County, NM"	"35001"	"2021"	"2021"	125	674393	18.5
+	"Bernalillo County, NM"	"35001"	"2022"	"2022"	124	672508	18.4
+	"Bernalillo County, NM"	"35001"	"2023 "	"2023"	121	671586	18.0
+	"Chaves County, NM"	"35005"	"2018"	"2018"	10	64689	Unreliable
+	"Chaves County, NM"	"35005"	"2019"	"2019"	11	64615	Unreliable
+	"Chaves County, NM"	"35005"	"2021"	"2021"	16	64629	Unreliable
+	"Chaves County, NM"	"35005"	"2022"	"2022"	11	63894	Unreliable
+	"Dona Ana County, NM"	"35013"	"2018"	"2018"	11	217522	Unreliable
+	"Dona Ana County, NM"	"35013"	"2019"	"2019"	11	218195	Unreliable
+	"Dona Ana County, NM"	"35013"	"2020"	"2020"	17	221262	Unreliable
+	"Dona Ana County, NM"	"35013"	"2021"	"2021"	14	221508	Unreliable
+	"Dona Ana County, NM"	"35013"	"2022"	"2022"	17	223337	Unreliable
+	"Dona Ana County, NM"	"35013"	"2023 "	"2023"	19	225210	Unreliable
+	"Eddy County, NM"	"35015"	"2019"	"2019"	10	58460	Unreliable
+	"Lea County, NM"	"35025"	"2019"	"2019"	14	71070	Unreliable
+	"McKinley County, NM"	"35031"	"2018"	"2018"	14	72290	Unreliable
+	"McKinley County, NM"	"35031"	"2019"	"2019"	11	71367	Unreliable
+	"McKinley County, NM"	"35031"	"2020"	"2020"	11	70824	Unreliable
+	"McKinley County, NM"	"35031"	"2021"	"2021"	23	71780	32.0
+	"McKinley County, NM"	"35031"	"2022"	"2022"	21	69830	30.1
+	"Otero County, NM"	"35035"	"2023 "	"2023"	13	68835	Unreliable
+	"Rio Arriba County, NM"	"35039"	"2022"	"2022"	10	40048	Unreliable
+	"Sandoval County, NM"	"35043"	"2018"	"2018"	10	145179	Unreliable
+	"Sandoval County, NM"	"35043"	"2019"	"2019"	13	146748	Unreliable
+	"Sandoval County, NM"	"35043"	"2020"	"2020"	15	148904	Unreliable
+	"Sandoval County, NM"	"35043"	"2023 "	"2023"	14	155936	Unreliable
+	"San Juan County, NM"	"35045"	"2018"	"2018"	16	125043	Unreliable
+	"San Juan County, NM"	"35045"	"2019"	"2019"	12	123958	Unreliable
+	"San Juan County, NM"	"35045"	"2020"	"2020"	14	123312	Unreliable
+	"San Juan County, NM"	"35045"	"2021"	"2021"	15	120993	Unreliable
+	"San Juan County, NM"	"35045"	"2022"	"2022"	20	120418	16.6
+	"San Juan County, NM"	"35045"	"2023 "	"2023"	22	120675	18.2
+	"Santa Fe County, NM"	"35049"	"2021"	"2021"	17	155201	Unreliable
+	"Santa Fe County, NM"	"35049"	"2022"	"2022"	10	155664	Unreliable
+	"Santa Fe County, NM"	"35049"	"2023 "	"2023"	14	155956	Unreliable
+	"Valencia County, NM"	"35061"	"2020"	"2020"	11	77574	Unreliable
+	"Valencia County, NM"	"35061"	"2021"	"2021"	12	77190	Unreliable
+	"Albany County, NY"	"36001"	"2018"	"2018"	13	307117	Unreliable
+	"Albany County, NY"	"36001"	"2020"	"2020"	19	303654	Unreliable
+	"Albany County, NY"	"36001"	"2021"	"2021"	16	313743	Unreliable
+	"Albany County, NY"	"36001"	"2022"	"2022"	16	315811	Unreliable
+	"Albany County, NY"	"36001"	"2023 "	"2023"	17	316659	Unreliable
+	"Bronx County, NY"	"36005"	"2018"	"2018"	100	1432132	7.0
+	"Bronx County, NY"	"36005"	"2019"	"2019"	87	1418207	6.1
+	"Bronx County, NY"	"36005"	"2020"	"2020"	127	1401142	9.1
+	"Bronx County, NY"	"36005"	"2021"	"2021"	147	1424948	10.3
+	"Bronx County, NY"	"36005"	"2022"	"2022"	130	1379946	9.4
+	"Bronx County, NY"	"36005"	"2023 "	"2023"	122	1356476	9.0
+	"Broome County, NY"	"36007"	"2023 "	"2023"	10	196077	Unreliable
+	"Erie County, NY"	"36029"	"2018"	"2018"	68	919719	7.4
+	"Erie County, NY"	"36029"	"2019"	"2019"	55	918702	6.0
+	"Erie County, NY"	"36029"	"2020"	"2020"	72	917241	7.8
+	"Erie County, NY"	"36029"	"2021"	"2021"	77	950683	8.1
+	"Erie County, NY"	"36029"	"2022"	"2022"	89	950312	9.4
+	"Erie County, NY"	"36029"	"2023 "	"2023"	56	946147	5.9
+	"Kings County, NY"	"36047"	"2018"	"2018"	111	2582830	4.3
+	"Kings County, NY"	"36047"	"2019"	"2019"	96	2559903	3.8
+	"Kings County, NY"	"36047"	"2020"	"2020"	164	2538934	6.5
+	"Kings County, NY"	"36047"	"2021"	"2021"	157	2641052	5.9
+	"Kings County, NY"	"36047"	"2022"	"2022"	140	2590516	5.4
+	"Kings County, NY"	"36047"	"2023 "	"2023"	122	2561225	4.8
+	"Monroe County, NY"	"36055"	"2018"	"2018"	37	742474	5.0
+	"Monroe County, NY"	"36055"	"2019"	"2019"	40	741770	5.4
+	"Monroe County, NY"	"36055"	"2020"	"2020"	60	740900	8.1
+	"Monroe County, NY"	"36055"	"2021"	"2021"	77	755160	10.2
+	"Monroe County, NY"	"36055"	"2022"	"2022"	80	752035	10.6
+	"Monroe County, NY"	"36055"	"2023 "	"2023"	68	748482	9.1
+	"Nassau County, NY"	"36059"	"2018"	"2018"	18	1358343	Unreliable
+	"Nassau County, NY"	"36059"	"2019"	"2019"	17	1356924	Unreliable
+	"Nassau County, NY"	"36059"	"2020"	"2020"	26	1351334	1.9
+	"Nassau County, NY"	"36059"	"2021"	"2021"	28	1390907	2.0
+	"Nassau County, NY"	"36059"	"2022"	"2022"	17	1383726	Unreliable
+	"Nassau County, NY"	"36059"	"2023 "	"2023"	12	1381715	Unreliable
+	"New York County, NY"	"36061"	"2018"	"2018"	21	1628701	1.3
+	"New York County, NY"	"36061"	"2019"	"2019"	35	1628706	2.1
+	"New York County, NY"	"36061"	"2020"	"2020"	61	1611989	3.8
+	"New York County, NY"	"36061"	"2021"	"2021"	76	1576876	4.8
+	"New York County, NY"	"36061"	"2022"	"2022"	56	1596273	3.5
+	"New York County, NY"	"36061"	"2023 "	"2023"	64	1597451	4.0
+	"Niagara County, NY"	"36063"	"2020"	"2020"	19	208396	Unreliable
+	"Niagara County, NY"	"36063"	"2021"	"2021"	13	211653	Unreliable
+	"Niagara County, NY"	"36063"	"2022"	"2022"	16	210880	Unreliable
+	"Niagara County, NY"	"36063"	"2023 "	"2023"	17	209457	Unreliable
+	"Oneida County, NY"	"36065"	"2019"	"2019"	12	228671	Unreliable
+	"Oneida County, NY"	"36065"	"2020"	"2020"	14	227346	Unreliable
+	"Oneida County, NY"	"36065"	"2021"	"2021"	10	230274	Unreliable
+	"Onondaga County, NY"	"36067"	"2018"	"2018"	27	461809	5.8
+	"Onondaga County, NY"	"36067"	"2019"	"2019"	25	460528	5.4
+	"Onondaga County, NY"	"36067"	"2020"	"2020"	32	459214	7.0
+	"Onondaga County, NY"	"36067"	"2021"	"2021"	37	473236	7.8
+	"Onondaga County, NY"	"36067"	"2022"	"2022"	23	468249	4.9
+	"Onondaga County, NY"	"36067"	"2023 "	"2023"	28	467873	6.0
+	"Orange County, NY"	"36071"	"2019"	"2019"	10	384940	Unreliable
+	"Orange County, NY"	"36071"	"2022"	"2022"	10	405941	Unreliable
+	"Queens County, NY"	"36081"	"2018"	"2018"	63	2278906	2.8
+	"Queens County, NY"	"36081"	"2019"	"2019"	66	2253858	2.9
+	"Queens County, NY"	"36081"	"2020"	"2020"	77	2225821	3.5
+	"Queens County, NY"	"36081"	"2021"	"2021"	82	2331143	3.5
+	"Queens County, NY"	"36081"	"2022"	"2022"	81	2278029	3.6
+	"Queens County, NY"	"36081"	"2023 "	"2023"	61	2252196	2.7
+	"Rensselaer County, NY"	"36083"	"2021"	"2021"	12	160232	Unreliable
+	"Richmond County, NY"	"36085"	"2019"	"2019"	20	476143	4.2
+	"Richmond County, NY"	"36085"	"2020"	"2020"	18	475327	Unreliable
+	"Richmond County, NY"	"36085"	"2021"	"2021"	19	493494	Unreliable
+	"Richmond County, NY"	"36085"	"2022"	"2022"	15	491133	Unreliable
+	"Richmond County, NY"	"36085"	"2023 "	"2023"	18	490687	Unreliable
+	"Suffolk County, NY"	"36103"	"2018"	"2018"	23	1481093	1.6
+	"Suffolk County, NY"	"36103"	"2019"	"2019"	32	1476601	2.2
+	"Suffolk County, NY"	"36103"	"2020"	"2020"	40	1474273	2.7
+	"Suffolk County, NY"	"36103"	"2021"	"2021"	38	1526344	2.5
+	"Suffolk County, NY"	"36103"	"2022"	"2022"	41	1525465	2.7
+	"Suffolk County, NY"	"36103"	"2023 "	"2023"	32	1523170	2.1
+	"Westchester County, NY"	"36119"	"2018"	"2018"	14	967612	Unreliable
+	"Westchester County, NY"	"36119"	"2019"	"2019"	24	967506	2.5
+	"Westchester County, NY"	"36119"	"2020"	"2020"	31	965802	3.2
+	"Westchester County, NY"	"36119"	"2021"	"2021"	20	997895	2.0
+	"Westchester County, NY"	"36119"	"2022"	"2022"	27	990427	2.7
+	"Westchester County, NY"	"36119"	"2023 "	"2023"	13	990817	Unreliable
+	"Alamance County, NC"	"37001"	"2019"	"2019"	13	169509	Unreliable
+	"Alamance County, NC"	"37001"	"2020"	"2020"	13	171346	Unreliable
+	"Alamance County, NC"	"37001"	"2021"	"2021"	16	173877	Unreliable
+	"Alamance County, NC"	"37001"	"2022"	"2022"	11	176353	Unreliable
+	"Bladen County, NC"	"37017"	"2023 "	"2023"	10	29484	Unreliable
+	"Brunswick County, NC"	"37019"	"2019"	"2019"	10	142820	Unreliable
+	"Brunswick County, NC"	"37019"	"2022"	"2022"	10	153064	Unreliable
+	"Buncombe County, NC"	"37021"	"2018"	"2018"	13	259103	Unreliable
+	"Buncombe County, NC"	"37021"	"2020"	"2020"	14	263477	Unreliable
+	"Buncombe County, NC"	"37021"	"2021"	"2021"	15	271534	Unreliable
+	"Buncombe County, NC"	"37021"	"2022"	"2022"	11	273589	Unreliable
+	"Buncombe County, NC"	"37021"	"2023 "	"2023"	15	275901	Unreliable
+	"Cabarrus County, NC"	"37025"	"2019"	"2019"	10	216453	Unreliable
+	"Cabarrus County, NC"	"37025"	"2021"	"2021"	13	231278	Unreliable
+	"Cabarrus County, NC"	"37025"	"2022"	"2022"	15	235797	Unreliable
+	"Cabarrus County, NC"	"37025"	"2023 "	"2023"	10	240016	Unreliable
+	"Caldwell County, NC"	"37027"	"2021"	"2021"	10	80463	Unreliable
+	"Catawba County, NC"	"37035"	"2021"	"2021"	14	161723	Unreliable
+	"Catawba County, NC"	"37035"	"2022"	"2022"	13	163462	Unreliable
+	"Cleveland County, NC"	"37045"	"2018"	"2018"	10	97645	Unreliable
+	"Cleveland County, NC"	"37045"	"2023 "	"2023"	12	101378	Unreliable
+	"Columbus County, NC"	"37047"	"2019"	"2019"	12	55508	Unreliable
+	"Columbus County, NC"	"37047"	"2020"	"2020"	15	54754	Unreliable
+	"Columbus County, NC"	"37047"	"2021"	"2021"	13	50092	Unreliable
+	"Columbus County, NC"	"37047"	"2023 "	"2023"	14	50121	Unreliable
+	"Craven County, NC"	"37049"	"2020"	"2020"	15	101233	Unreliable
+	"Craven County, NC"	"37049"	"2023 "	"2023"	14	102391	Unreliable
+	"Cumberland County, NC"	"37051"	"2018"	"2018"	29	332330	8.7
+	"Cumberland County, NC"	"37051"	"2019"	"2019"	26	335509	7.7
+	"Cumberland County, NC"	"37051"	"2020"	"2020"	42	336364	12.5
+	"Cumberland County, NC"	"37051"	"2021"	"2021"	58	335508	17.3
+	"Cumberland County, NC"	"37051"	"2022"	"2022"	67	336699	19.9
+	"Cumberland County, NC"	"37051"	"2023 "	"2023"	57	337890	16.9
+	"Davidson County, NC"	"37057"	"2022"	"2022"	15	172586	Unreliable
+	"Durham County, NC"	"37063"	"2018"	"2018"	34	316739	10.7
+	"Durham County, NC"	"37063"	"2019"	"2019"	36	321488	11.2
+	"Durham County, NC"	"37063"	"2020"	"2020"	39	327306	11.9
+	"Durham County, NC"	"37063"	"2021"	"2021"	40	326126	12.3
+	"Durham County, NC"	"37063"	"2022"	"2022"	46	332680	13.8
+	"Durham County, NC"	"37063"	"2023 "	"2023"	39	336892	11.6
+	"Edgecombe County, NC"	"37065"	"2018"	"2018"	10	52005	Unreliable
+	"Edgecombe County, NC"	"37065"	"2019"	"2019"	12	51472	Unreliable
+	"Edgecombe County, NC"	"37065"	"2021"	"2021"	15	48359	Unreliable
+	"Forsyth County, NC"	"37067"	"2018"	"2018"	26	379099	6.9
+	"Forsyth County, NC"	"37067"	"2019"	"2019"	34	382295	8.9
+	"Forsyth County, NC"	"37067"	"2020"	"2020"	30	383843	7.8
+	"Forsyth County, NC"	"37067"	"2021"	"2021"	50	385523	13.0
+	"Forsyth County, NC"	"37067"	"2022"	"2022"	44	389157	11.3
+	"Forsyth County, NC"	"37067"	"2023 "	"2023"	49	392921	12.5
+	"Gaston County, NC"	"37071"	"2020"	"2020"	17	226568	Unreliable
+	"Gaston County, NC"	"37071"	"2021"	"2021"	29	230856	12.6
+	"Gaston County, NC"	"37071"	"2022"	"2022"	18	234215	Unreliable
+	"Gaston County, NC"	"37071"	"2023 "	"2023"	17	237242	Unreliable
+	"Guilford County, NC"	"37081"	"2018"	"2018"	49	533670	9.2
+	"Guilford County, NC"	"37081"	"2019"	"2019"	59	537174	11.0
+	"Guilford County, NC"	"37081"	"2020"	"2020"	72	540521	13.3
+	"Guilford County, NC"	"37081"	"2021"	"2021"	72	542410	13.3
+	"Guilford County, NC"	"37081"	"2022"	"2022"	47	546101	8.6
+	"Guilford County, NC"	"37081"	"2023 "	"2023"	79	549866	14.4
+	"Halifax County, NC"	"37083"	"2018"	"2018"	10	50574	Unreliable
+	"Halifax County, NC"	"37083"	"2021"	"2021"	10	48272	Unreliable
+	"Halifax County, NC"	"37083"	"2022"	"2022"	10	47848	Unreliable
+	"Harnett County, NC"	"37085"	"2018"	"2018"	10	134214	Unreliable
+	"Harnett County, NC"	"37085"	"2020"	"2020"	16	137058	Unreliable
+	"Harnett County, NC"	"37085"	"2021"	"2021"	11	135966	Unreliable
+	"Harnett County, NC"	"37085"	"2022"	"2022"	10	138832	Unreliable
+	"Harnett County, NC"	"37085"	"2023 "	"2023"	12	141477	Unreliable
+	"Hoke County, NC"	"37093"	"2019"	"2019"	10	55234	Unreliable
+	"Hoke County, NC"	"37093"	"2020"	"2020"	11	55830	Unreliable
+	"Hoke County, NC"	"37093"	"2021"	"2021"	10	53114	Unreliable
+	"Hoke County, NC"	"37093"	"2022"	"2022"	12	53787	Unreliable
+	"Iredell County, NC"	"37097"	"2021"	"2021"	12	191968	Unreliable
+	"Iredell County, NC"	"37097"	"2022"	"2022"	14	195897	Unreliable
+	"Johnston County, NC"	"37101"	"2019"	"2019"	10	209339	Unreliable
+	"Johnston County, NC"	"37101"	"2020"	"2020"	12	216246	Unreliable
+	"Johnston County, NC"	"37101"	"2021"	"2021"	12	226504	Unreliable
+	"Johnston County, NC"	"37101"	"2022"	"2022"	10	234778	Unreliable
+	"Lenoir County, NC"	"37107"	"2020"	"2020"	10	55720	Unreliable
+	"Lenoir County, NC"	"37107"	"2021"	"2021"	11	54706	Unreliable
+	"Lenoir County, NC"	"37107"	"2022"	"2022"	14	54633	Unreliable
+	"Mecklenburg County, NC"	"37119"	"2018"	"2018"	76	1093901	6.9
+	"Mecklenburg County, NC"	"37119"	"2019"	"2019"	101	1110356	9.1
+	"Mecklenburg County, NC"	"37119"	"2020"	"2020"	126	1128945	11.2
+	"Mecklenburg County, NC"	"37119"	"2021"	"2021"	113	1122276	10.1
+	"Mecklenburg County, NC"	"37119"	"2022"	"2022"	109	1145392	9.5
+	"Mecklenburg County, NC"	"37119"	"2023 "	"2023"	90	1163701	7.7
+	"Nash County, NC"	"37127"	"2018"	"2018"	10	94016	Unreliable
+	"Nash County, NC"	"37127"	"2019"	"2019"	13	94298	Unreliable
+	"Nash County, NC"	"37127"	"2020"	"2020"	13	94859	Unreliable
+	"Nash County, NC"	"37127"	"2022"	"2022"	19	95789	Unreliable
+	"Nash County, NC"	"37127"	"2023 "	"2023"	12	96551	Unreliable
+	"New Hanover County, NC"	"37129"	"2018"	"2018"	11	232274	Unreliable
+	"New Hanover County, NC"	"37129"	"2019"	"2019"	12	234473	Unreliable
+	"New Hanover County, NC"	"37129"	"2020"	"2020"	23	236613	9.7
+	"New Hanover County, NC"	"37129"	"2021"	"2021"	15	229018	Unreliable
+	"New Hanover County, NC"	"37129"	"2022"	"2022"	15	234921	Unreliable
+	"New Hanover County, NC"	"37129"	"2023 "	"2023"	14	238852	Unreliable
+	"Onslow County, NC"	"37133"	"2020"	"2020"	11	203943	Unreliable
+	"Onslow County, NC"	"37133"	"2021"	"2021"	10	206160	Unreliable
+	"Orange County, NC"	"37135"	"2022"	"2022"	13	150477	Unreliable
+	"Pitt County, NC"	"37147"	"2018"	"2018"	10	179914	Unreliable
+	"Pitt County, NC"	"37147"	"2019"	"2019"	15	180742	Unreliable
+	"Pitt County, NC"	"37147"	"2020"	"2020"	20	182924	10.9
+	"Pitt County, NC"	"37147"	"2022"	"2022"	19	173542	Unreliable
+	"Pitt County, NC"	"37147"	"2023 "	"2023"	15	175119	Unreliable
+	"Randolph County, NC"	"37151"	"2022"	"2022"	12	146043	Unreliable
+	"Richmond County, NC"	"37153"	"2021"	"2021"	10	42724	Unreliable
+	"Richmond County, NC"	"37153"	"2022"	"2022"	11	42778	Unreliable
+	"Richmond County, NC"	"37153"	"2023 "	"2023"	11	42324	Unreliable
+	"Robeson County, NC"	"37155"	"2018"	"2018"	32	131831	24.3
+	"Robeson County, NC"	"37155"	"2019"	"2019"	33	130625	25.3
+	"Robeson County, NC"	"37155"	"2020"	"2020"	39	129999	30.0
+	"Robeson County, NC"	"37155"	"2021"	"2021"	40	116328	34.4
+	"Robeson County, NC"	"37155"	"2022"	"2022"	39	116663	33.4
+	"Robeson County, NC"	"37155"	"2023 "	"2023"	48	117365	40.9
+	"Rockingham County, NC"	"37157"	"2018"	"2018"	11	90690	Unreliable
+	"Rockingham County, NC"	"37157"	"2020"	"2020"	10	91285	Unreliable
+	"Rockingham County, NC"	"37157"	"2023 "	"2023"	14	92518	Unreliable
+	"Rowan County, NC"	"37159"	"2018"	"2018"	15	141262	Unreliable
+	"Rowan County, NC"	"37159"	"2020"	"2020"	14	142495	Unreliable
+	"Rowan County, NC"	"37159"	"2021"	"2021"	17	148150	Unreliable
+	"Rowan County, NC"	"37159"	"2022"	"2022"	15	149645	Unreliable
+	"Sampson County, NC"	"37163"	"2023 "	"2023"	13	59601	Unreliable
+	"Scotland County, NC"	"37165"	"2021"	"2021"	12	34227	Unreliable
+	"Union County, NC"	"37179"	"2019"	"2019"	11	239859	Unreliable
+	"Union County, NC"	"37179"	"2020"	"2020"	11	244562	Unreliable
+	"Union County, NC"	"37179"	"2021"	"2021"	13	243648	Unreliable
+	"Union County, NC"	"37179"	"2022"	"2022"	11	249070	Unreliable
+	"Union County, NC"	"37179"	"2023 "	"2023"	12	256452	Unreliable
+	"Vance County, NC"	"37181"	"2018"	"2018"	12	44582	Unreliable
+	"Vance County, NC"	"37181"	"2019"	"2019"	10	44535	Unreliable
+	"Vance County, NC"	"37181"	"2020"	"2020"	12	44718	Unreliable
+	"Vance County, NC"	"37181"	"2022"	"2022"	12	42138	Unreliable
+	"Vance County, NC"	"37181"	"2023 "	"2023"	12	42301	Unreliable
+	"Wake County, NC"	"37183"	"2018"	"2018"	18	1092305	Unreliable
+	"Wake County, NC"	"37183"	"2019"	"2019"	36	1111761	3.2
+	"Wake County, NC"	"37183"	"2020"	"2020"	45	1132271	4.0
+	"Wake County, NC"	"37183"	"2021"	"2021"	50	1150204	4.3
+	"Wake County, NC"	"37183"	"2022"	"2022"	51	1175021	4.3
+	"Wake County, NC"	"37183"	"2023 "	"2023"	51	1190275	4.3
+	"Wayne County, NC"	"37191"	"2021"	"2021"	18	116835	Unreliable
+	"Wayne County, NC"	"37191"	"2022"	"2022"	16	117286	Unreliable
+	"Wayne County, NC"	"37191"	"2023 "	"2023"	17	118686	Unreliable
+	"Wilson County, NC"	"37195"	"2021"	"2021"	12	78369	Unreliable
+	"Wilson County, NC"	"37195"	"2022"	"2022"	10	78449	Unreliable
+	"Allen County, OH"	"39003"	"2020"	"2020"	17	101980	Unreliable
+	"Ashtabula County, OH"	"39007"	"2018"	"2018"	18	97493	Unreliable
+	"Butler County, OH"	"39017"	"2018"	"2018"	21	382378	5.5
+	"Butler County, OH"	"39017"	"2019"	"2019"	15	383134	Unreliable
+	"Butler County, OH"	"39017"	"2020"	"2020"	20	385648	5.2
+	"Butler County, OH"	"39017"	"2021"	"2021"	21	390234	5.4
+	"Butler County, OH"	"39017"	"2022"	"2022"	17	388420	Unreliable
+	"Butler County, OH"	"39017"	"2023 "	"2023"	11	393043	Unreliable
+	"Clark County, OH"	"39023"	"2018"	"2018"	10	134585	Unreliable
+	"Clark County, OH"	"39023"	"2020"	"2020"	12	133593	Unreliable
+	"Clark County, OH"	"39023"	"2021"	"2021"	13	135633	Unreliable
+	"Clark County, OH"	"39023"	"2022"	"2022"	10	134831	Unreliable
+	"Clark County, OH"	"39023"	"2023 "	"2023"	13	134610	Unreliable
+	"Clermont County, OH"	"39025"	"2023 "	"2023"	11	211972	Unreliable
+	"Cuyahoga County, OH"	"39035"	"2018"	"2018"	168	1243857	13.5
+	"Cuyahoga County, OH"	"39035"	"2019"	"2019"	160	1235072	13.0
+	"Cuyahoga County, OH"	"39035"	"2020"	"2020"	233	1227883	19.0
+	"Cuyahoga County, OH"	"39035"	"2021"	"2021"	241	1249387	19.3
+	"Cuyahoga County, OH"	"39035"	"2022"	"2022"	226	1236041	18.3
+	"Cuyahoga County, OH"	"39035"	"2023 "	"2023"	212	1233088	17.2
+	"Fairfield County, OH"	"39045"	"2021"	"2021"	11	161064	Unreliable
+	"Franklin County, OH"	"39049"	"2018"	"2018"	129	1310300	9.8
+	"Franklin County, OH"	"39049"	"2019"	"2019"	114	1316756	8.7
+	"Franklin County, OH"	"39049"	"2020"	"2020"	184	1324624	13.9
+	"Franklin County, OH"	"39049"	"2021"	"2021"	212	1321414	16.0
+	"Franklin County, OH"	"39049"	"2022"	"2022"	162	1321820	12.3
+	"Franklin County, OH"	"39049"	"2023 "	"2023"	156	1326063	11.8
+	"Hamilton County, OH"	"39061"	"2018"	"2018"	74	816684	9.1
+	"Hamilton County, OH"	"39061"	"2019"	"2019"	89	817473	10.9
+	"Hamilton County, OH"	"39061"	"2020"	"2020"	113	817985	13.8
+	"Hamilton County, OH"	"39061"	"2021"	"2021"	109	826139	13.2
+	"Hamilton County, OH"	"39061"	"2022"	"2022"	97	825037	11.8
+	"Hamilton County, OH"	"39061"	"2023 "	"2023"	82	827058	9.9
+	"Lorain County, OH"	"39093"	"2018"	"2018"	13	309461	Unreliable
+	"Lorain County, OH"	"39093"	"2020"	"2020"	18	312172	Unreliable
+	"Lorain County, OH"	"39093"	"2021"	"2021"	21	315595	6.7
+	"Lorain County, OH"	"39093"	"2022"	"2022"	18	316268	Unreliable
+	"Lorain County, OH"	"39093"	"2023 "	"2023"	19	317910	Unreliable
+	"Lucas County, OH"	"39095"	"2018"	"2018"	38	429899	8.8
+	"Lucas County, OH"	"39095"	"2019"	"2019"	38	428348	8.9
+	"Lucas County, OH"	"39095"	"2020"	"2020"	57	428294	13.3
+	"Lucas County, OH"	"39095"	"2021"	"2021"	72	429191	16.8
+	"Lucas County, OH"	"39095"	"2022"	"2022"	66	426643	15.5
+	"Lucas County, OH"	"39095"	"2023 "	"2023"	42	425484	9.9
+	"Mahoning County, OH"	"39099"	"2018"	"2018"	26	229642	11.3
+	"Mahoning County, OH"	"39099"	"2019"	"2019"	22	228683	9.6
+	"Mahoning County, OH"	"39099"	"2020"	"2020"	33	226075	14.6
+	"Mahoning County, OH"	"39099"	"2021"	"2021"	29	226762	12.8
+	"Mahoning County, OH"	"39099"	"2022"	"2022"	27	225636	12.0
+	"Mahoning County, OH"	"39099"	"2023 "	"2023"	31	225596	13.7
+	"Montgomery County, OH"	"39113"	"2018"	"2018"	60	532331	11.3
+	"Montgomery County, OH"	"39113"	"2019"	"2019"	57	531687	10.7
+	"Montgomery County, OH"	"39113"	"2020"	"2020"	76	531610	14.3
+	"Montgomery County, OH"	"39113"	"2021"	"2021"	49	535840	9.1
+	"Montgomery County, OH"	"39113"	"2022"	"2022"	51	533892	9.6
+	"Montgomery County, OH"	"39113"	"2023 "	"2023"	59	533796	11.1
+	"Richland County, OH"	"39139"	"2023 "	"2023"	13	125064	Unreliable
+	"Scioto County, OH"	"39145"	"2023 "	"2023"	10	71969	Unreliable
+	"Stark County, OH"	"39151"	"2018"	"2018"	18	371574	Unreliable
+	"Stark County, OH"	"39151"	"2019"	"2019"	18	370606	Unreliable
+	"Stark County, OH"	"39151"	"2020"	"2020"	22	369772	5.9
+	"Stark County, OH"	"39151"	"2021"	"2021"	24	373834	6.4
+	"Stark County, OH"	"39151"	"2022"	"2022"	23	372657	6.2
+	"Stark County, OH"	"39151"	"2023 "	"2023"	23	372716	6.2
+	"Summit County, OH"	"39153"	"2018"	"2018"	42	541918	7.8
+	"Summit County, OH"	"39153"	"2019"	"2019"	41	541013	7.6
+	"Summit County, OH"	"39153"	"2020"	"2020"	62	538866	11.5
+	"Summit County, OH"	"39153"	"2021"	"2021"	50	537633	9.3
+	"Summit County, OH"	"39153"	"2022"	"2022"	60	535882	11.2
+	"Summit County, OH"	"39153"	"2023 "	"2023"	35	535733	6.5
+	"Trumbull County, OH"	"39155"	"2018"	"2018"	10	198627	Unreliable
+	"Trumbull County, OH"	"39155"	"2019"	"2019"	12	197974	Unreliable
+	"Trumbull County, OH"	"39155"	"2020"	"2020"	18	196800	Unreliable
+	"Trumbull County, OH"	"39155"	"2021"	"2021"	11	201335	Unreliable
+	"Trumbull County, OH"	"39155"	"2022"	"2022"	10	200643	Unreliable
+	"Trumbull County, OH"	"39155"	"2023 "	"2023"	11	200373	Unreliable
+	"Cleveland County, OK"	"40027"	"2023 "	"2023"	10	301193	Unreliable
+	"Comanche County, OK"	"40031"	"2019"	"2019"	19	120749	Unreliable
+	"Comanche County, OK"	"40031"	"2020"	"2020"	16	121099	Unreliable
+	"Comanche County, OK"	"40031"	"2021"	"2021"	13	122063	Unreliable
+	"Comanche County, OK"	"40031"	"2022"	"2022"	18	123046	Unreliable
+	"Comanche County, OK"	"40031"	"2023 "	"2023"	10	121574	Unreliable
+	"Creek County, OK"	"40037"	"2020"	"2020"	10	71485	Unreliable
+	"Muskogee County, OK"	"40101"	"2020"	"2020"	10	67610	Unreliable
+	"Muskogee County, OK"	"40101"	"2021"	"2021"	14	66146	Unreliable
+	"Oklahoma County, OK"	"40109"	"2018"	"2018"	65	792582	8.2
+	"Oklahoma County, OK"	"40109"	"2019"	"2019"	99	797434	12.4
+	"Oklahoma County, OK"	"40109"	"2020"	"2020"	91	804041	11.3
+	"Oklahoma County, OK"	"40109"	"2021"	"2021"	103	798575	12.9
+	"Oklahoma County, OK"	"40109"	"2022"	"2022"	70	802559	8.7
+	"Oklahoma County, OK"	"40109"	"2023 "	"2023"	66	808866	8.2
+	"Okmulgee County, OK"	"40111"	"2023 "	"2023"	13	37035	Unreliable
+	"Tulsa County, OK"	"40143"	"2018"	"2018"	62	648360	9.6
+	"Tulsa County, OK"	"40143"	"2019"	"2019"	62	651552	9.5
+	"Tulsa County, OK"	"40143"	"2020"	"2020"	68	657589	10.3
+	"Tulsa County, OK"	"40143"	"2021"	"2021"	78	672858	11.6
+	"Tulsa County, OK"	"40143"	"2022"	"2022"	68	677358	10.0
+	"Tulsa County, OK"	"40143"	"2023 "	"2023"	58	682868	8.5
+	"Clackamas County, OR"	"41005"	"2021"	"2021"	15	422537	Unreliable
+	"Clackamas County, OR"	"41005"	"2022"	"2022"	10	423177	Unreliable
+	"Clackamas County, OR"	"41005"	"2023 "	"2023"	14	423173	Unreliable
+	"Deschutes County, OR"	"41017"	"2022"	"2022"	10	206549	Unreliable
+	"Jackson County, OR"	"41029"	"2021"	"2021"	13	223734	Unreliable
+	"Josephine County, OR"	"41033"	"2020"	"2020"	13	88053	Unreliable
+	"Josephine County, OR"	"41033"	"2022"	"2022"	11	87730	Unreliable
+	"Josephine County, OR"	"41033"	"2023 "	"2023"	13	87821	Unreliable
+	"Lane County, OR"	"41039"	"2019"	"2019"	11	382067	Unreliable
+	"Lane County, OR"	"41039"	"2021"	"2021"	11	383189	Unreliable
+	"Lane County, OR"	"41039"	"2022"	"2022"	14	382353	Unreliable
+	"Marion County, OR"	"41047"	"2020"	"2020"	11	349204	Unreliable
+	"Marion County, OR"	"41047"	"2021"	"2021"	12	347119	Unreliable
+	"Marion County, OR"	"41047"	"2022"	"2022"	15	346703	Unreliable
+	"Marion County, OR"	"41047"	"2023 "	"2023"	16	346741	Unreliable
+	"Multnomah County, OR"	"41051"	"2018"	"2018"	24	811880	3.0
+	"Multnomah County, OR"	"41051"	"2019"	"2019"	35	812855	4.3
+	"Multnomah County, OR"	"41051"	"2020"	"2020"	50	815637	6.1
+	"Multnomah County, OR"	"41051"	"2021"	"2021"	71	803377	8.8
+	"Multnomah County, OR"	"41051"	"2022"	"2022"	93	795083	11.7
+	"Multnomah County, OR"	"41051"	"2023 "	"2023"	69	789698	8.7
+	"Washington County, OR"	"41067"	"2021"	"2021"	21	600811	3.5
+	"Washington County, OR"	"41067"	"2022"	"2022"	20	600176	3.3
+	"Washington County, OR"	"41067"	"2023 "	"2023"	11	598865	Unreliable
+	"Allegheny County, PA"	"42003"	"2018"	"2018"	103	1218452	8.5
+	"Allegheny County, PA"	"42003"	"2019"	"2019"	87	1216045	7.2
+	"Allegheny County, PA"	"42003"	"2020"	"2020"	102	1211358	8.4
+	"Allegheny County, PA"	"42003"	"2021"	"2021"	117	1238090	9.5
+	"Allegheny County, PA"	"42003"	"2022"	"2022"	118	1233253	9.6
+	"Allegheny County, PA"	"42003"	"2023 "	"2023"	96	1224825	7.8
+	"Beaver County, PA"	"42007"	"2021"	"2021"	10	166624	Unreliable
+	"Berks County, PA"	"42011"	"2018"	"2018"	19	420152	Unreliable
+	"Berks County, PA"	"42011"	"2019"	"2019"	14	421164	Unreliable
+	"Berks County, PA"	"42011"	"2020"	"2020"	18	421017	Unreliable
+	"Berks County, PA"	"42011"	"2021"	"2021"	18	429342	Unreliable
+	"Berks County, PA"	"42011"	"2022"	"2022"	22	430449	5.1
+	"Berks County, PA"	"42011"	"2023 "	"2023"	20	432821	4.6
+	"Bucks County, PA"	"42017"	"2018"	"2018"	14	628195	Unreliable
+	"Bucks County, PA"	"42017"	"2020"	"2020"	15	627987	Unreliable
+	"Bucks County, PA"	"42017"	"2021"	"2021"	11	646098	Unreliable
+	"Bucks County, PA"	"42017"	"2022"	"2022"	13	645054	Unreliable
+	"Bucks County, PA"	"42017"	"2023 "	"2023"	12	645984	Unreliable
+	"Cambria County, PA"	"42021"	"2022"	"2022"	11	131441	Unreliable
+	"Chester County, PA"	"42029"	"2018"	"2018"	11	522046	Unreliable
+	"Chester County, PA"	"42029"	"2021"	"2021"	13	538649	Unreliable
+	"Chester County, PA"	"42029"	"2022"	"2022"	14	545823	Unreliable
+	"Chester County, PA"	"42029"	"2023 "	"2023"	11	549784	Unreliable
+	"Dauphin County, PA"	"42043"	"2018"	"2018"	12	277097	Unreliable
+	"Dauphin County, PA"	"42043"	"2019"	"2019"	20	278299	7.2
+	"Dauphin County, PA"	"42043"	"2020"	"2020"	22	279874	7.9
+	"Dauphin County, PA"	"42043"	"2021"	"2021"	25	287400	8.7
+	"Dauphin County, PA"	"42043"	"2022"	"2022"	23	288800	8.0
+	"Dauphin County, PA"	"42043"	"2023 "	"2023"	13	289234	Unreliable
+	"Delaware County, PA"	"42045"	"2018"	"2018"	37	564751	6.6
+	"Delaware County, PA"	"42045"	"2019"	"2019"	35	566747	6.2
+	"Delaware County, PA"	"42045"	"2020"	"2020"	60	566753	10.6
+	"Delaware County, PA"	"42045"	"2021"	"2021"	51	573849	8.9
+	"Delaware County, PA"	"42045"	"2022"	"2022"	57	575182	9.9
+	"Delaware County, PA"	"42045"	"2023 "	"2023"	50	576720	8.7
+	"Erie County, PA"	"42049"	"2018"	"2018"	14	272061	Unreliable
+	"Erie County, PA"	"42049"	"2020"	"2020"	19	268426	Unreliable
+	"Erie County, PA"	"42049"	"2021"	"2021"	11	269011	Unreliable
+	"Erie County, PA"	"42049"	"2023 "	"2023"	13	267571	Unreliable
+	"Fayette County, PA"	"42051"	"2018"	"2018"	10	130441	Unreliable
+	"Lancaster County, PA"	"42071"	"2018"	"2018"	14	543557	Unreliable
+	"Lancaster County, PA"	"42071"	"2019"	"2019"	10	545724	Unreliable
+	"Lancaster County, PA"	"42071"	"2020"	"2020"	12	546192	Unreliable
+	"Lancaster County, PA"	"42071"	"2021"	"2021"	18	553652	Unreliable
+	"Lancaster County, PA"	"42071"	"2022"	"2022"	10	556629	Unreliable
+	"Lancaster County, PA"	"42071"	"2023 "	"2023"	16	558589	Unreliable
+	"Lehigh County, PA"	"42077"	"2018"	"2018"	13	368100	Unreliable
+	"Lehigh County, PA"	"42077"	"2020"	"2020"	13	370802	Unreliable
+	"Lehigh County, PA"	"42077"	"2021"	"2021"	18	375539	Unreliable
+	"Lehigh County, PA"	"42077"	"2022"	"2022"	17	376317	Unreliable
+	"Lehigh County, PA"	"42077"	"2023 "	"2023"	20	377754	5.3
+	"Luzerne County, PA"	"42079"	"2018"	"2018"	16	317646	Unreliable
+	"Luzerne County, PA"	"42079"	"2019"	"2019"	12	317417	Unreliable
+	"Luzerne County, PA"	"42079"	"2020"	"2020"	11	316982	Unreliable
+	"Luzerne County, PA"	"42079"	"2021"	"2021"	17	326053	Unreliable
+	"Luzerne County, PA"	"42079"	"2022"	"2022"	15	326369	Unreliable
+	"Luzerne County, PA"	"42079"	"2023 "	"2023"	18	327388	Unreliable
+	"Lycoming County, PA"	"42081"	"2018"	"2018"	12	113664	Unreliable
+	"Lycoming County, PA"	"42081"	"2019"	"2019"	16	113299	Unreliable
+	"Lycoming County, PA"	"42081"	"2020"	"2020"	10	113209	Unreliable
+	"Lycoming County, PA"	"42081"	"2022"	"2022"	11	113104	Unreliable
+	"Lycoming County, PA"	"42081"	"2023 "	"2023"	11	112724	Unreliable
+	"Monroe County, PA"	"42089"	"2020"	"2020"	11	170154	Unreliable
+	"Monroe County, PA"	"42089"	"2021"	"2021"	13	169273	Unreliable
+	"Montgomery County, PA"	"42091"	"2018"	"2018"	15	828604	Unreliable
+	"Montgomery County, PA"	"42091"	"2019"	"2019"	20	830915	2.4
+	"Montgomery County, PA"	"42091"	"2020"	"2020"	21	833869	2.5
+	"Montgomery County, PA"	"42091"	"2021"	"2021"	24	860578	2.8
+	"Montgomery County, PA"	"42091"	"2022"	"2022"	26	864683	3.0
+	"Montgomery County, PA"	"42091"	"2023 "	"2023"	25	868742	2.9
+	"Northampton County, PA"	"42095"	"2021"	"2021"	10	313628	Unreliable
+	"Philadelphia County, PA"	"42101"	"2018"	"2018"	361	1584138	22.8
+	"Philadelphia County, PA"	"42101"	"2019"	"2019"	348	1584064	22.0
+	"Philadelphia County, PA"	"42101"	"2020"	"2020"	495	1578487	31.4
+	"Philadelphia County, PA"	"42101"	"2021"	"2021"	550	1576251	34.9
+	"Philadelphia County, PA"	"42101"	"2022"	"2022"	519	1567258	33.1
+	"Philadelphia County, PA"	"42101"	"2023 "	"2023"	395	1550542	25.5
+	"Schuylkill County, PA"	"42107"	"2020"	"2020"	39	140709	27.7
+	"Schuylkill County, PA"	"42107"	"2021"	"2021"	51	143264	35.6
+	"Schuylkill County, PA"	"42107"	"2022"	"2022"	45	143104	31.4
+	"Schuylkill County, PA"	"42107"	"2023 "	"2023"	58	143786	40.3
+	"Washington County, PA"	"42125"	"2021"	"2021"	11	209470	Unreliable
+	"Westmoreland County, PA"	"42129"	"2020"	"2020"	10	347087	Unreliable
+	"York County, PA"	"42133"	"2018"	"2018"	19	448273	Unreliable
+	"York County, PA"	"42133"	"2019"	"2019"	23	449058	5.1
+	"York County, PA"	"42133"	"2020"	"2020"	21	450448	4.7
+	"York County, PA"	"42133"	"2021"	"2021"	25	458696	5.5
+	"York County, PA"	"42133"	"2022"	"2022"	28	461058	6.1
+	"York County, PA"	"42133"	"2023 "	"2023"	25	464640	5.4
+	"Providence County, RI"	"44007"	"2018"	"2018"	13	636084	Unreliable
+	"Providence County, RI"	"44007"	"2019"	"2019"	18	638931	Unreliable
+	"Providence County, RI"	"44007"	"2020"	"2020"	27	636547	4.2
+	"Providence County, RI"	"44007"	"2021"	"2021"	32	658221	4.9
+	"Providence County, RI"	"44007"	"2022"	"2022"	15	657288	Unreliable
+	"Providence County, RI"	"44007"	"2023 "	"2023"	22	660615	3.3
+	"Aiken County, SC"	"45003"	"2018"	"2018"	18	169401	Unreliable
+	"Aiken County, SC"	"45003"	"2019"	"2019"	19	170872	Unreliable
+	"Aiken County, SC"	"45003"	"2020"	"2020"	29	172895	16.8
+	"Aiken County, SC"	"45003"	"2021"	"2021"	25	170776	14.6
+	"Aiken County, SC"	"45003"	"2022"	"2022"	20	174150	11.5
+	"Aiken County, SC"	"45003"	"2023 "	"2023"	22	177130	12.4
+	"Anderson County, SC"	"45007"	"2018"	"2018"	17	200482	Unreliable
+	"Anderson County, SC"	"45007"	"2019"	"2019"	22	202558	10.9
+	"Anderson County, SC"	"45007"	"2020"	"2020"	23	204353	11.3
+	"Anderson County, SC"	"45007"	"2021"	"2021"	23	206908	11.1
+	"Anderson County, SC"	"45007"	"2022"	"2022"	15	209581	Unreliable
+	"Anderson County, SC"	"45007"	"2023 "	"2023"	17	213076	Unreliable
+	"Barnwell County, SC"	"45011"	"2020"	"2020"	11	20805	Unreliable
+	"Beaufort County, SC"	"45013"	"2018"	"2018"	11	188715	Unreliable
+	"Beaufort County, SC"	"45013"	"2019"	"2019"	15	192122	Unreliable
+	"Beaufort County, SC"	"45013"	"2020"	"2020"	13	195656	Unreliable
+	"Beaufort County, SC"	"45013"	"2021"	"2021"	13	191748	Unreliable
+	"Beaufort County, SC"	"45013"	"2022"	"2022"	14	196371	Unreliable
+	"Beaufort County, SC"	"45013"	"2023 "	"2023"	25	198979	12.6
+	"Berkeley County, SC"	"45015"	"2018"	"2018"	12	221091	Unreliable
+	"Berkeley County, SC"	"45015"	"2019"	"2019"	24	227907	10.5
+	"Berkeley County, SC"	"45015"	"2020"	"2020"	23	235987	9.7
+	"Berkeley County, SC"	"45015"	"2021"	"2021"	22	236701	9.3
+	"Berkeley County, SC"	"45015"	"2022"	"2022"	28	245117	11.4
+	"Berkeley County, SC"	"45015"	"2023 "	"2023"	20	255217	7.8
+	"Charleston County, SC"	"45019"	"2018"	"2018"	48	405905	11.8
+	"Charleston County, SC"	"45019"	"2019"	"2019"	51	411406	12.4
+	"Charleston County, SC"	"45019"	"2020"	"2020"	65	417981	15.6
+	"Charleston County, SC"	"45019"	"2021"	"2021"	62	413024	15.0
+	"Charleston County, SC"	"45019"	"2022"	"2022"	48	419279	11.4
+	"Charleston County, SC"	"45019"	"2023 "	"2023"	44	424367	10.4
+	"Cherokee County, SC"	"45021"	"2022"	"2022"	12	56121	Unreliable
+	"Chester County, SC"	"45023"	"2020"	"2020"	11	32232	Unreliable
+	"Chester County, SC"	"45023"	"2023 "	"2023"	10	32226	Unreliable
+	"Chesterfield County, SC"	"45025"	"2019"	"2019"	10	45650	Unreliable
+	"Colleton County, SC"	"45029"	"2018"	"2018"	11	37660	Unreliable
+	"Colleton County, SC"	"45029"	"2021"	"2021"	15	38462	Unreliable
+	"Colleton County, SC"	"45029"	"2022"	"2022"	11	38599	Unreliable
+	"Colleton County, SC"	"45029"	"2023 "	"2023"	12	38874	Unreliable
+	"Darlington County, SC"	"45031"	"2018"	"2018"	10	66802	Unreliable
+	"Darlington County, SC"	"45031"	"2019"	"2019"	12	66618	Unreliable
+	"Darlington County, SC"	"45031"	"2020"	"2020"	16	66509	Unreliable
+	"Darlington County, SC"	"45031"	"2021"	"2021"	22	62755	35.1
+	"Darlington County, SC"	"45031"	"2022"	"2022"	13	62398	Unreliable
+	"Darlington County, SC"	"45031"	"2023 "	"2023"	13	62416	Unreliable
+	"Dillon County, SC"	"45033"	"2018"	"2018"	10	30599	Unreliable
+	"Dillon County, SC"	"45033"	"2020"	"2020"	23	30367	75.7
+	"Dillon County, SC"	"45033"	"2021"	"2021"	11	28087	Unreliable
+	"Dillon County, SC"	"45033"	"2022"	"2022"	12	27738	Unreliable
+	"Dillon County, SC"	"45033"	"2023 "	"2023"	11	27698	Unreliable
+	"Dorchester County, SC"	"45035"	"2020"	"2020"	17	165737	Unreliable
+	"Dorchester County, SC"	"45035"	"2021"	"2021"	14	163327	Unreliable
+	"Dorchester County, SC"	"45035"	"2022"	"2022"	15	166133	Unreliable
+	"Dorchester County, SC"	"45035"	"2023 "	"2023"	18	169833	Unreliable
+	"Florence County, SC"	"45041"	"2018"	"2018"	27	138159	19.5
+	"Florence County, SC"	"45041"	"2019"	"2019"	21	138293	15.2
+	"Florence County, SC"	"45041"	"2020"	"2020"	25	137588	18.2
+	"Florence County, SC"	"45041"	"2021"	"2021"	23	136504	16.8
+	"Florence County, SC"	"45041"	"2022"	"2022"	37	136721	27.1
+	"Florence County, SC"	"45041"	"2023 "	"2023"	11	137214	Unreliable
+	"Georgetown County, SC"	"45043"	"2019"	"2019"	10	62680	Unreliable
+	"Georgetown County, SC"	"45043"	"2021"	"2021"	10	63921	Unreliable
+	"Georgetown County, SC"	"45043"	"2023 "	"2023"	10	65731	Unreliable
+	"Greenville County, SC"	"45045"	"2018"	"2018"	22	514213	4.3
+	"Greenville County, SC"	"45045"	"2019"	"2019"	33	523542	6.3
+	"Greenville County, SC"	"45045"	"2020"	"2020"	46	532486	8.6
+	"Greenville County, SC"	"45045"	"2021"	"2021"	47	533834	8.8
+	"Greenville County, SC"	"45045"	"2022"	"2022"	39	547950	7.1
+	"Greenville County, SC"	"45045"	"2023 "	"2023"	40	558036	7.2
+	"Horry County, SC"	"45051"	"2018"	"2018"	21	344147	6.1
+	"Horry County, SC"	"45051"	"2019"	"2019"	14	354081	Unreliable
+	"Horry County, SC"	"45051"	"2020"	"2020"	35	365449	9.6
+	"Horry County, SC"	"45051"	"2021"	"2021"	26	365579	7.1
+	"Horry County, SC"	"45051"	"2022"	"2022"	25	383101	6.5
+	"Horry County, SC"	"45051"	"2023 "	"2023"	21	397478	5.3
+	"Kershaw County, SC"	"45055"	"2021"	"2021"	10	66130	Unreliable
+	"Lancaster County, SC"	"45057"	"2019"	"2019"	13	98012	Unreliable
+	"Lancaster County, SC"	"45057"	"2021"	"2021"	14	100336	Unreliable
+	"Lancaster County, SC"	"45057"	"2022"	"2022"	10	104577	Unreliable
+	"Lexington County, SC"	"45063"	"2018"	"2018"	27	295032	9.2
+	"Lexington County, SC"	"45063"	"2019"	"2019"	18	298750	Unreliable
+	"Lexington County, SC"	"45063"	"2020"	"2020"	19	303946	Unreliable
+	"Lexington County, SC"	"45063"	"2021"	"2021"	21	300137	7.0
+	"Lexington County, SC"	"45063"	"2022"	"2022"	20	304797	6.6
+	"Lexington County, SC"	"45063"	"2023 "	"2023"	21	309528	6.8
+	"Oconee County, SC"	"45073"	"2018"	"2018"	10	78374	Unreliable
+	"Orangeburg County, SC"	"45075"	"2018"	"2018"	17	86934	Unreliable
+	"Orangeburg County, SC"	"45075"	"2019"	"2019"	18	86175	Unreliable
+	"Orangeburg County, SC"	"45075"	"2020"	"2020"	17	85343	Unreliable
+	"Orangeburg County, SC"	"45075"	"2021"	"2021"	20	82962	24.1
+	"Orangeburg County, SC"	"45075"	"2022"	"2022"	29	83094	34.9
+	"Orangeburg County, SC"	"45075"	"2023 "	"2023"	17	82820	Unreliable
+	"Richland County, SC"	"45079"	"2018"	"2018"	53	414576	12.8
+	"Richland County, SC"	"45079"	"2019"	"2019"	58	415759	14.0
+	"Richland County, SC"	"45079"	"2020"	"2020"	49	419051	11.7
+	"Richland County, SC"	"45079"	"2021"	"2021"	71	418307	17.0
+	"Richland County, SC"	"45079"	"2022"	"2022"	65	421566	15.4
+	"Richland County, SC"	"45079"	"2023 "	"2023"	63	425138	14.8
+	"Spartanburg County, SC"	"45083"	"2018"	"2018"	30	313888	9.6
+	"Spartanburg County, SC"	"45083"	"2019"	"2019"	35	319785	10.9
+	"Spartanburg County, SC"	"45083"	"2020"	"2020"	24	326205	7.4
+	"Spartanburg County, SC"	"45083"	"2021"	"2021"	37	335864	11.0
+	"Spartanburg County, SC"	"45083"	"2022"	"2022"	31	345831	9.0
+	"Spartanburg County, SC"	"45083"	"2023 "	"2023"	25	356698	7.0
+	"Sumter County, SC"	"45085"	"2018"	"2018"	10	106512	Unreliable
+	"Sumter County, SC"	"45085"	"2019"	"2019"	15	106721	Unreliable
+	"Sumter County, SC"	"45085"	"2020"	"2020"	20	106360	18.8
+	"Sumter County, SC"	"45085"	"2021"	"2021"	17	104758	Unreliable
+	"Sumter County, SC"	"45085"	"2022"	"2022"	13	104012	Unreliable
+	"Sumter County, SC"	"45085"	"2023 "	"2023"	22	104165	21.1
+	"Williamsburg County, SC"	"45089"	"2019"	"2019"	12	30368	Unreliable
+	"York County, SC"	"45091"	"2018"	"2018"	12	274118	Unreliable
+	"York County, SC"	"45091"	"2019"	"2019"	13	280979	Unreliable
+	"York County, SC"	"45091"	"2020"	"2020"	16	289105	Unreliable
+	"York County, SC"	"45091"	"2021"	"2021"	26	288595	9.0
+	"York County, SC"	"45091"	"2022"	"2022"	20	294248	6.8
+	"York County, SC"	"45091"	"2023 "	"2023"	14	298320	Unreliable
+	"Minnehaha County, SD"	"46099"	"2020"	"2020"	11	196659	Unreliable
+	"Minnehaha County, SD"	"46099"	"2022"	"2022"	10	203971	Unreliable
+	"Pennington County, SD"	"46103"	"2020"	"2020"	15	115926	Unreliable
+	"Pennington County, SD"	"46103"	"2021"	"2021"	12	111806	Unreliable
+	"Pennington County, SD"	"46103"	"2022"	"2022"	12	114461	Unreliable
+	"Shannon County, SD"	"46113"	"2022"	"2022"	15	13519	Unreliable
+	"Shannon County, SD"	"46113"	"2023 "	"2023"	11	13434	Unreliable
+	"Bradley County, TN"	"47011"	"2021"	"2021"	10	110162	Unreliable
+	"Davidson County, TN"	"47037"	"2018"	"2018"	91	692587	13.1
+	"Davidson County, TN"	"47037"	"2019"	"2019"	75	694144	10.8
+	"Davidson County, TN"	"47037"	"2020"	"2020"	108	694176	15.6
+	"Davidson County, TN"	"47037"	"2021"	"2021"	98	703953	13.9
+	"Davidson County, TN"	"47037"	"2022"	"2022"	109	708144	15.4
+	"Davidson County, TN"	"47037"	"2023 "	"2023"	102	712334	14.3
+	"Hamilton County, TN"	"47065"	"2018"	"2018"	34	364286	9.3
+	"Hamilton County, TN"	"47065"	"2019"	"2019"	36	367804	9.8
+	"Hamilton County, TN"	"47065"	"2020"	"2020"	38	371662	10.2
+	"Hamilton County, TN"	"47065"	"2021"	"2021"	39	369135	10.6
+	"Hamilton County, TN"	"47065"	"2022"	"2022"	27	374682	7.2
+	"Hamilton County, TN"	"47065"	"2023 "	"2023"	35	379864	9.2
+	"Knox County, TN"	"47093"	"2018"	"2018"	28	465289	6.0
+	"Knox County, TN"	"47093"	"2019"	"2019"	27	470313	5.7
+	"Knox County, TN"	"47093"	"2020"	"2020"	37	475609	7.8
+	"Knox County, TN"	"47093"	"2021"	"2021"	50	486677	10.3
+	"Knox County, TN"	"47093"	"2022"	"2022"	37	494574	7.5
+	"Knox County, TN"	"47093"	"2023 "	"2023"	30	500669	6.0
+	"Madison County, TN"	"47113"	"2018"	"2018"	13	97605	Unreliable
+	"Madison County, TN"	"47113"	"2019"	"2019"	17	97984	Unreliable
+	"Madison County, TN"	"47113"	"2020"	"2020"	15	98360	Unreliable
+	"Madison County, TN"	"47113"	"2021"	"2021"	16	98775	Unreliable
+	"Madison County, TN"	"47113"	"2022"	"2022"	12	99245	Unreliable
+	"Madison County, TN"	"47113"	"2023 "	"2023"	15	99193	Unreliable
+	"Maury County, TN"	"47119"	"2018"	"2018"	11	94340	Unreliable
+	"Montgomery County, TN"	"47125"	"2018"	"2018"	20	205950	9.7
+	"Montgomery County, TN"	"47125"	"2019"	"2019"	20	208993	9.6
+	"Montgomery County, TN"	"47125"	"2020"	"2020"	23	214251	10.7
+	"Montgomery County, TN"	"47125"	"2021"	"2021"	20	227900	8.8
+	"Montgomery County, TN"	"47125"	"2022"	"2022"	16	235201	Unreliable
+	"Montgomery County, TN"	"47125"	"2023 "	"2023"	16	239872	Unreliable
+	"Rutherford County, TN"	"47149"	"2018"	"2018"	23	324890	7.1
+	"Rutherford County, TN"	"47149"	"2019"	"2019"	20	332285	6.0
+	"Rutherford County, TN"	"47149"	"2020"	"2020"	21	339261	6.2
+	"Rutherford County, TN"	"47149"	"2021"	"2021"	22	352182	6.2
+	"Rutherford County, TN"	"47149"	"2022"	"2022"	20	360619	5.5
+	"Rutherford County, TN"	"47149"	"2023 "	"2023"	17	367101	Unreliable
+	"Shelby County, TN"	"47157"	"2018"	"2018"	227	935764	24.3
+	"Shelby County, TN"	"47157"	"2019"	"2019"	226	937166	24.1
+	"Shelby County, TN"	"47157"	"2020"	"2020"	328	936017	35.0
+	"Shelby County, TN"	"47157"	"2021"	"2021"	342	924454	37.0
+	"Shelby County, TN"	"47157"	"2022"	"2022"	297	916371	32.4
+	"Shelby County, TN"	"47157"	"2023 "	"2023"	368	910042	40.4
+	"Sullivan County, TN"	"47163"	"2019"	"2019"	11	158348	Unreliable
+	"Sullivan County, TN"	"47163"	"2020"	"2020"	10	158755	Unreliable
+	"Sullivan County, TN"	"47163"	"2021"	"2021"	10	159265	Unreliable
+	"Sullivan County, TN"	"47163"	"2022"	"2022"	10	160820	Unreliable
+	"Sumner County, TN"	"47165"	"2019"	"2019"	12	191283	Unreliable
+	"Sumner County, TN"	"47165"	"2021"	"2021"	11	200557	Unreliable
+	"Angelina County, TX"	"48005"	"2021"	"2021"	13	86506	Unreliable
+	"Bell County, TX"	"48027"	"2018"	"2018"	28	355642	7.9
+	"Bell County, TX"	"48027"	"2019"	"2019"	27	362924	7.4
+	"Bell County, TX"	"48027"	"2020"	"2020"	45	369927	12.2
+	"Bell County, TX"	"48027"	"2021"	"2021"	26	379617	6.8
+	"Bell County, TX"	"48027"	"2022"	"2022"	36	388386	9.3
+	"Bell County, TX"	"48027"	"2023 "	"2023"	26	393193	6.6
+	"Bexar County, TX"	"48029"	"2018"	"2018"	147	1986049	7.4
+	"Bexar County, TX"	"48029"	"2019"	"2019"	140	2003554	7.0
+	"Bexar County, TX"	"48029"	"2020"	"2020"	186	2026823	9.2
+	"Bexar County, TX"	"48029"	"2021"	"2021"	212	2028236	10.5
+	"Bexar County, TX"	"48029"	"2022"	"2022"	191	2059530	9.3
+	"Bexar County, TX"	"48029"	"2023 "	"2023"	216	2087679	10.3
+	"Bowie County, TX"	"48037"	"2020"	"2020"	11	93481	Unreliable
+	"Bowie County, TX"	"48037"	"2021"	"2021"	18	92581	Unreliable
+	"Bowie County, TX"	"48037"	"2023 "	"2023"	12	91687	Unreliable
+	"Brazoria County, TX"	"48039"	"2018"	"2018"	14	370200	Unreliable
+	"Brazoria County, TX"	"48039"	"2019"	"2019"	20	374264	5.3
+	"Brazoria County, TX"	"48039"	"2020"	"2020"	23	380518	6.0
+	"Brazoria County, TX"	"48039"	"2021"	"2021"	17	379689	Unreliable
+	"Brazoria County, TX"	"48039"	"2022"	"2022"	17	388181	Unreliable
+	"Brazoria County, TX"	"48039"	"2023 "	"2023"	18	398938	Unreliable
+	"Brazos County, TX"	"48041"	"2020"	"2020"	15	232555	Unreliable
+	"Brazos County, TX"	"48041"	"2021"	"2021"	14	237032	Unreliable
+	"Cameron County, TX"	"48061"	"2020"	"2020"	15	424180	Unreliable
+	"Cameron County, TX"	"48061"	"2021"	"2021"	16	423029	Unreliable
+	"Cameron County, TX"	"48061"	"2022"	"2022"	15	425208	Unreliable
+	"Cameron County, TX"	"48061"	"2023 "	"2023"	25	426710	5.9
+	"Collin County, TX"	"48085"	"2018"	"2018"	18	1005146	Unreliable
+	"Collin County, TX"	"48085"	"2019"	"2019"	10	1034730	Unreliable
+	"Collin County, TX"	"48085"	"2020"	"2020"	24	1072069	2.2
+	"Collin County, TX"	"48085"	"2021"	"2021"	41	1109462	3.7
+	"Collin County, TX"	"48085"	"2022"	"2022"	19	1158696	Unreliable
+	"Collin County, TX"	"48085"	"2023 "	"2023"	32	1195359	2.7
+	"Dallas County, TX"	"48113"	"2018"	"2018"	211	2637772	8.0
+	"Dallas County, TX"	"48113"	"2019"	"2019"	242	2635516	9.2
+	"Dallas County, TX"	"48113"	"2020"	"2020"	291	2635888	11.0
+	"Dallas County, TX"	"48113"	"2021"	"2021"	296	2586050	11.4
+	"Dallas County, TX"	"48113"	"2022"	"2022"	279	2600840	10.7
+	"Dallas County, TX"	"48113"	"2023 "	"2023"	313	2606358	12.0
+	"Denton County, TX"	"48121"	"2018"	"2018"	19	859064	Unreliable
+	"Denton County, TX"	"48121"	"2019"	"2019"	18	887207	Unreliable
+	"Denton County, TX"	"48121"	"2020"	"2020"	28	919324	3.0
+	"Denton County, TX"	"48121"	"2021"	"2021"	27	941647	2.9
+	"Denton County, TX"	"48121"	"2022"	"2022"	24	977281	2.5
+	"Denton County, TX"	"48121"	"2023 "	"2023"	25	1007703	2.5
+	"Ector County, TX"	"48135"	"2019"	"2019"	17	166223	Unreliable
+	"Ector County, TX"	"48135"	"2020"	"2020"	15	167701	Unreliable
+	"Ector County, TX"	"48135"	"2021"	"2021"	14	161091	Unreliable
+	"Ector County, TX"	"48135"	"2022"	"2022"	12	160869	Unreliable
+	"Ector County, TX"	"48135"	"2023 "	"2023"	12	164494	Unreliable
+	"Ellis County, TX"	"48139"	"2021"	"2021"	14	202678	Unreliable
+	"Ellis County, TX"	"48139"	"2023 "	"2023"	10	222829	Unreliable
+	"El Paso County, TX"	"48141"	"2018"	"2018"	39	840758	4.6
+	"El Paso County, TX"	"48141"	"2019"	"2019"	27	839238	3.2
+	"El Paso County, TX"	"48141"	"2020"	"2020"	30	841286	3.6
+	"El Paso County, TX"	"48141"	"2021"	"2021"	45	867947	5.2
+	"El Paso County, TX"	"48141"	"2022"	"2022"	35	868763	4.0
+	"El Paso County, TX"	"48141"	"2023 "	"2023"	43	869880	4.9
+	"Fort Bend County, TX"	"48157"	"2018"	"2018"	28	787858	3.6
+	"Fort Bend County, TX"	"48157"	"2019"	"2019"	29	811688	3.6
+	"Fort Bend County, TX"	"48157"	"2020"	"2020"	53	839706	6.3
+	"Fort Bend County, TX"	"48157"	"2021"	"2021"	61	858527	7.1
+	"Fort Bend County, TX"	"48157"	"2022"	"2022"	45	889146	5.1
+	"Fort Bend County, TX"	"48157"	"2023 "	"2023"	41	916778	4.5
+	"Galveston County, TX"	"48167"	"2018"	"2018"	32	337890	9.5
+	"Galveston County, TX"	"48167"	"2019"	"2019"	19	342139	Unreliable
+	"Galveston County, TX"	"48167"	"2020"	"2020"	42	345089	12.2
+	"Galveston County, TX"	"48167"	"2021"	"2021"	31	355062	8.7
+	"Galveston County, TX"	"48167"	"2022"	"2022"	29	357117	8.1
+	"Galveston County, TX"	"48167"	"2023 "	"2023"	24	361744	6.6
+	"Grayson County, TX"	"48181"	"2020"	"2020"	11	138318	Unreliable
+	"Grayson County, TX"	"48181"	"2023 "	"2023"	10	146907	Unreliable
+	"Gregg County, TX"	"48183"	"2018"	"2018"	12	123707	Unreliable
+	"Gregg County, TX"	"48183"	"2019"	"2019"	11	123945	Unreliable
+	"Gregg County, TX"	"48183"	"2020"	"2020"	16	124229	Unreliable
+	"Gregg County, TX"	"48183"	"2021"	"2021"	12	124201	Unreliable
+	"Gregg County, TX"	"48183"	"2022"	"2022"	16	125443	Unreliable
+	"Gregg County, TX"	"48183"	"2023 "	"2023"	10	126243	Unreliable
+	"Guadalupe County, TX"	"48187"	"2021"	"2021"	10	177036	Unreliable
+	"Harris County, TX"	"48201"	"2018"	"2018"	385	4698619	8.2
+	"Harris County, TX"	"48201"	"2019"	"2019"	421	4713325	8.9
+	"Harris County, TX"	"48201"	"2020"	"2020"	563	4738253	11.9
+	"Harris County, TX"	"48201"	"2021"	"2021"	601	4728030	12.7
+	"Harris County, TX"	"48201"	"2022"	"2022"	612	4780913	12.8
+	"Harris County, TX"	"48201"	"2023 "	"2023"	528	4835125	10.9
+	"Harrison County, TX"	"48203"	"2023 "	"2023"	12	70895	Unreliable
+	"Hays County, TX"	"48209"	"2018"	"2018"	13	222631	Unreliable
+	"Hays County, TX"	"48209"	"2019"	"2019"	10	230191	Unreliable
+	"Hays County, TX"	"48209"	"2020"	"2020"	10	241365	Unreliable
+	"Hidalgo County, TX"	"48215"	"2018"	"2018"	21	865939	2.4
+	"Hidalgo County, TX"	"48215"	"2019"	"2019"	27	868707	3.1
+	"Hidalgo County, TX"	"48215"	"2020"	"2020"	36	875200	4.1
+	"Hidalgo County, TX"	"48215"	"2021"	"2021"	39	880356	4.4
+	"Hidalgo County, TX"	"48215"	"2022"	"2022"	36	888367	4.1
+	"Hidalgo County, TX"	"48215"	"2023 "	"2023"	34	898471	3.8
+	"Hunt County, TX"	"48231"	"2023 "	"2023"	11	113347	Unreliable
+	"Jefferson County, TX"	"48245"	"2018"	"2018"	31	255001	12.2
+	"Jefferson County, TX"	"48245"	"2019"	"2019"	33	251565	13.1
+	"Jefferson County, TX"	"48245"	"2020"	"2020"	34	250127	13.6
+	"Jefferson County, TX"	"48245"	"2021"	"2021"	34	253704	13.4
+	"Jefferson County, TX"	"48245"	"2022"	"2022"	39	250830	15.5
+	"Jefferson County, TX"	"48245"	"2023 "	"2023"	29	251496	11.5
+	"Kaufman County, TX"	"48257"	"2019"	"2019"	10	136154	Unreliable
+	"Kaufman County, TX"	"48257"	"2020"	"2020"	11	143198	Unreliable
+	"Kaufman County, TX"	"48257"	"2021"	"2021"	15	157768	Unreliable
+	"Liberty County, TX"	"48291"	"2020"	"2020"	16	91547	Unreliable
+	"Liberty County, TX"	"48291"	"2023 "	"2023"	13	108272	Unreliable
+	"Lubbock County, TX"	"48303"	"2018"	"2018"	19	307412	Unreliable
+	"Lubbock County, TX"	"48303"	"2019"	"2019"	21	310569	6.8
+	"Lubbock County, TX"	"48303"	"2020"	"2020"	30	314772	9.5
+	"Lubbock County, TX"	"48303"	"2021"	"2021"	29	314451	9.2
+	"Lubbock County, TX"	"48303"	"2022"	"2022"	31	317561	9.8
+	"Lubbock County, TX"	"48303"	"2023 "	"2023"	27	320940	8.4
+	"McLennan County, TX"	"48309"	"2019"	"2019"	15	256623	Unreliable
+	"McLennan County, TX"	"48309"	"2020"	"2020"	24	259730	9.2
+	"McLennan County, TX"	"48309"	"2021"	"2021"	22	263115	8.4
+	"McLennan County, TX"	"48309"	"2022"	"2022"	21	266836	7.9
+	"McLennan County, TX"	"48309"	"2023 "	"2023"	20	268583	7.4
+	"Midland County, TX"	"48329"	"2019"	"2019"	11	176832	Unreliable
+	"Midland County, TX"	"48329"	"2020"	"2020"	13	177863	Unreliable
+	"Midland County, TX"	"48329"	"2021"	"2021"	14	167969	Unreliable
+	"Midland County, TX"	"48329"	"2022"	"2022"	14	171999	Unreliable
+	"Midland County, TX"	"48329"	"2023 "	"2023"	12	177108	Unreliable
+	"Montgomery County, TX"	"48339"	"2018"	"2018"	18	590925	Unreliable
+	"Montgomery County, TX"	"48339"	"2019"	"2019"	29	607391	4.8
+	"Montgomery County, TX"	"48339"	"2020"	"2020"	28	626351	4.5
+	"Montgomery County, TX"	"48339"	"2021"	"2021"	28	648886	4.3
+	"Montgomery County, TX"	"48339"	"2022"	"2022"	26	678490	3.8
+	"Montgomery County, TX"	"48339"	"2023 "	"2023"	23	711354	3.2
+	"Navarro County, TX"	"48349"	"2022"	"2022"	11	54636	Unreliable
+	"Nueces County, TX"	"48355"	"2018"	"2018"	30	362265	8.3
+	"Nueces County, TX"	"48355"	"2019"	"2019"	33	362294	9.1
+	"Nueces County, TX"	"48355"	"2020"	"2020"	39	363148	10.7
+	"Nueces County, TX"	"48355"	"2021"	"2021"	24	353079	6.8
+	"Nueces County, TX"	"48355"	"2022"	"2022"	42	351674	11.9
+	"Nueces County, TX"	"48355"	"2023 "	"2023"	29	352289	8.2
+	"Polk County, TX"	"48373"	"2021"	"2021"	10	51899	Unreliable
+	"Potter County, TX"	"48375"	"2018"	"2018"	11	119648	Unreliable
+	"Potter County, TX"	"48375"	"2019"	"2019"	14	117415	Unreliable
+	"Potter County, TX"	"48375"	"2021"	"2021"	21	116547	18.0
+	"Potter County, TX"	"48375"	"2022"	"2022"	17	115645	Unreliable
+	"Potter County, TX"	"48375"	"2023 "	"2023"	12	114647	Unreliable
+	"Randall County, TX"	"48381"	"2022"	"2022"	10	146140	Unreliable
+	"Smith County, TX"	"48423"	"2018"	"2018"	12	230221	Unreliable
+	"Smith County, TX"	"48423"	"2019"	"2019"	10	232751	Unreliable
+	"Smith County, TX"	"48423"	"2020"	"2020"	17	235806	Unreliable
+	"Smith County, TX"	"48423"	"2021"	"2021"	12	237186	Unreliable
+	"Smith County, TX"	"48423"	"2022"	"2022"	13	241922	Unreliable
+	"Smith County, TX"	"48423"	"2023 "	"2023"	10	245209	Unreliable
+	"Tarrant County, TX"	"48439"	"2018"	"2018"	86	2084931	4.1
+	"Tarrant County, TX"	"48439"	"2019"	"2019"	115	2102515	5.5
+	"Tarrant County, TX"	"48439"	"2020"	"2020"	172	2123347	8.1
+	"Tarrant County, TX"	"48439"	"2021"	"2021"	194	2126477	9.1
+	"Tarrant County, TX"	"48439"	"2022"	"2022"	163	2154595	7.6
+	"Tarrant County, TX"	"48439"	"2023 "	"2023"	130	2182947	6.0
+	"Taylor County, TX"	"48441"	"2018"	"2018"	13	137640	Unreliable
+	"Taylor County, TX"	"48441"	"2022"	"2022"	11	145163	Unreliable
+	"Taylor County, TX"	"48441"	"2023 "	"2023"	10	146836	Unreliable
+	"Travis County, TX"	"48453"	"2018"	"2018"	40	1248743	3.2
+	"Travis County, TX"	"48453"	"2019"	"2019"	41	1273954	3.2
+	"Travis County, TX"	"48453"	"2020"	"2020"	45	1300503	3.5
+	"Travis County, TX"	"48453"	"2021"	"2021"	92	1305154	7.0
+	"Travis County, TX"	"48453"	"2022"	"2022"	77	1326436	5.8
+	"Travis County, TX"	"48453"	"2023 "	"2023"	70	1334961	5.2
+	"Uvalde County, TX"	"48463"	"2022"	"2022"	23	24940	92.2
+	"Waller County, TX"	"48473"	"2023 "	"2023"	12	63553	Unreliable
+	"Webb County, TX"	"48479"	"2018"	"2018"	16	275910	Unreliable
+	"Webb County, TX"	"48479"	"2020"	"2020"	13	277681	Unreliable
+	"Webb County, TX"	"48479"	"2021"	"2021"	13	267945	Unreliable
+	"Webb County, TX"	"48479"	"2022"	"2022"	17	267780	Unreliable
+	"Webb County, TX"	"48479"	"2023 "	"2023"	10	269148	Unreliable
+	"Wichita County, TX"	"48485"	"2021"	"2021"	14	130069	Unreliable
+	"Wichita County, TX"	"48485"	"2022"	"2022"	13	129978	Unreliable
+	"Williamson County, TX"	"48491"	"2020"	"2020"	19	617855	Unreliable
+	"Williamson County, TX"	"48491"	"2021"	"2021"	16	643026	Unreliable
+	"Williamson County, TX"	"48491"	"2022"	"2022"	13	671418	Unreliable
+	"Williamson County, TX"	"48491"	"2023 "	"2023"	20	697191	2.9
+	"Salt Lake County, UT"	"49035"	"2018"	"2018"	30	1152633	2.6
+	"Salt Lake County, UT"	"49035"	"2019"	"2019"	41	1160437	3.5
+	"Salt Lake County, UT"	"49035"	"2020"	"2020"	51	1165517	4.4
+	"Salt Lake County, UT"	"49035"	"2021"	"2021"	58	1186421	4.9
+	"Salt Lake County, UT"	"49035"	"2022"	"2022"	35	1186257	3.0
+	"Salt Lake County, UT"	"49035"	"2023 "	"2023"	35	1185813	3.0
+	"Utah County, UT"	"49049"	"2019"	"2019"	11	636235	Unreliable
+	"Utah County, UT"	"49049"	"2022"	"2022"	10	702434	Unreliable
+	"Weber County, UT"	"49057"	"2018"	"2018"	10	256359	Unreliable
+	"Weber County, UT"	"49057"	"2023 "	"2023"	12	271926	Unreliable
+	"Accomack County, VA"	"51001"	"2021"	"2021"	10	33246	Unreliable
+	"Chesterfield County, VA"	"51041"	"2018"	"2018"	11	348556	Unreliable
+	"Chesterfield County, VA"	"51041"	"2019"	"2019"	29	352802	8.2
+	"Chesterfield County, VA"	"51041"	"2020"	"2020"	18	358245	Unreliable
+	"Chesterfield County, VA"	"51041"	"2021"	"2021"	33	370688	8.9
+	"Chesterfield County, VA"	"51041"	"2022"	"2022"	25	378408	6.6
+	"Chesterfield County, VA"	"51041"	"2023 "	"2023"	22	383876	5.7
+	"Fairfax County, VA"	"51059"	"2018"	"2018"	17	1150795	Unreliable
+	"Fairfax County, VA"	"51059"	"2019"	"2019"	17	1147532	Unreliable
+	"Fairfax County, VA"	"51059"	"2020"	"2020"	22	1150847	1.9
+	"Fairfax County, VA"	"51059"	"2021"	"2021"	28	1139720	2.5
+	"Fairfax County, VA"	"51059"	"2022"	"2022"	31	1138331	2.7
+	"Fairfax County, VA"	"51059"	"2023 "	"2023"	20	1141878	1.8
+	"Henrico County, VA"	"51087"	"2018"	"2018"	20	329261	6.1
+	"Henrico County, VA"	"51087"	"2019"	"2019"	16	330818	Unreliable
+	"Henrico County, VA"	"51087"	"2020"	"2020"	24	333766	7.2
+	"Henrico County, VA"	"51087"	"2021"	"2021"	26	333554	7.8
+	"Henrico County, VA"	"51087"	"2022"	"2022"	37	333962	11.1
+	"Henrico County, VA"	"51087"	"2023 "	"2023"	28	334760	8.4
+	"Prince William County, VA"	"51153"	"2019"	"2019"	12	470335	Unreliable
+	"Prince William County, VA"	"51153"	"2021"	"2021"	19	484472	Unreliable
+	"Prince William County, VA"	"51153"	"2022"	"2022"	23	486943	4.7
+	"Prince William County, VA"	"51153"	"2023 "	"2023"	27	489640	5.5
+	"Alexandria city, VA"	"51510"	"2022"	"2022"	12	155525	Unreliable
+	"Chesapeake city, VA"	"51550"	"2018"	"2018"	13	242634	Unreliable
+	"Chesapeake city, VA"	"51550"	"2019"	"2019"	12	244835	Unreliable
+	"Chesapeake city, VA"	"51550"	"2020"	"2020"	20	247011	8.1
+	"Chesapeake city, VA"	"51550"	"2021"	"2021"	24	251269	9.6
+	"Chesapeake city, VA"	"51550"	"2022"	"2022"	29	252488	11.5
+	"Chesapeake city, VA"	"51550"	"2023 "	"2023"	16	253886	Unreliable
+	"Danville city, VA"	"51590"	"2018"	"2018"	13	40693	Unreliable
+	"Danville city, VA"	"51590"	"2022"	"2022"	14	42229	Unreliable
+	"Hampton city, VA"	"51650"	"2018"	"2018"	19	134313	Unreliable
+	"Hampton city, VA"	"51650"	"2019"	"2019"	14	134510	Unreliable
+	"Hampton city, VA"	"51650"	"2020"	"2020"	16	135464	Unreliable
+	"Hampton city, VA"	"51650"	"2021"	"2021"	31	137746	22.5
+	"Hampton city, VA"	"51650"	"2022"	"2022"	22	138037	15.9
+	"Hampton city, VA"	"51650"	"2023 "	"2023"	25	137098	18.2
+	"Lynchburg city, VA"	"51680"	"2021"	"2021"	10	79009	Unreliable
+	"Newport News city, VA"	"51700"	"2018"	"2018"	21	178626	11.8
+	"Newport News city, VA"	"51700"	"2019"	"2019"	26	179225	14.5
+	"Newport News city, VA"	"51700"	"2020"	"2020"	33	179062	18.4
+	"Newport News city, VA"	"51700"	"2021"	"2021"	32	184587	17.3
+	"Newport News city, VA"	"51700"	"2022"	"2022"	34	184306	18.4
+	"Newport News city, VA"	"51700"	"2023 "	"2023"	39	183118	21.3
+	"Norfolk city, VA"	"51710"	"2018"	"2018"	36	244076	14.7
+	"Norfolk city, VA"	"51710"	"2019"	"2019"	29	242742	11.9
+	"Norfolk city, VA"	"51710"	"2020"	"2020"	45	242803	18.5
+	"Norfolk city, VA"	"51710"	"2021"	"2021"	50	235089	21.3
+	"Norfolk city, VA"	"51710"	"2022"	"2022"	52	232995	22.3
+	"Norfolk city, VA"	"51710"	"2023 "	"2023"	40	230930	17.3
+	"Petersburg city, VA"	"51730"	"2018"	"2018"	14	31567	Unreliable
+	"Petersburg city, VA"	"51730"	"2019"	"2019"	18	31346	Unreliable
+	"Petersburg city, VA"	"51730"	"2020"	"2020"	16	30446	Unreliable
+	"Petersburg city, VA"	"51730"	"2021"	"2021"	15	33429	Unreliable
+	"Petersburg city, VA"	"51730"	"2022"	"2022"	16	33394	Unreliable
+	"Petersburg city, VA"	"51730"	"2023 "	"2023"	11	33309	Unreliable
+	"Portsmouth city, VA"	"51740"	"2018"	"2018"	18	94632	Unreliable
+	"Portsmouth city, VA"	"51740"	"2019"	"2019"	17	94398	Unreliable
+	"Portsmouth city, VA"	"51740"	"2020"	"2020"	24	95094	25.2
+	"Portsmouth city, VA"	"51740"	"2021"	"2021"	28	97840	28.6
+	"Portsmouth city, VA"	"51740"	"2022"	"2022"	39	97029	40.2
+	"Portsmouth city, VA"	"51740"	"2023 "	"2023"	26	96793	26.9
+	"Richmond city, VA"	"51760"	"2018"	"2018"	40	228783	17.5
+	"Richmond city, VA"	"51760"	"2019"	"2019"	41	230436	17.8
+	"Richmond city, VA"	"51760"	"2020"	"2020"	56	232226	24.1
+	"Richmond city, VA"	"51760"	"2021"	"2021"	78	226604	34.4
+	"Richmond city, VA"	"51760"	"2022"	"2022"	52	229395	22.7
+	"Richmond city, VA"	"51760"	"2023 "	"2023"	52	229247	22.7
+	"Roanoke city, VA"	"51770"	"2018"	"2018"	10	99920	Unreliable
+	"Roanoke city, VA"	"51770"	"2019"	"2019"	10	99143	Unreliable
+	"Roanoke city, VA"	"51770"	"2020"	"2020"	17	99058	Unreliable
+	"Roanoke city, VA"	"51770"	"2021"	"2021"	17	98865	Unreliable
+	"Roanoke city, VA"	"51770"	"2022"	"2022"	16	97847	Unreliable
+	"Roanoke city, VA"	"51770"	"2023 "	"2023"	31	97171	31.9
+	"Suffolk city, VA"	"51800"	"2021"	"2021"	11	96194	Unreliable
+	"Suffolk city, VA"	"51800"	"2022"	"2022"	14	98537	Unreliable
+	"Suffolk city, VA"	"51800"	"2023 "	"2023"	10	100659	Unreliable
+	"Virginia Beach city, VA"	"51810"	"2018"	"2018"	19	450189	Unreliable
+	"Virginia Beach city, VA"	"51810"	"2019"	"2019"	33	449974	7.3
+	"Virginia Beach city, VA"	"51810"	"2020"	"2020"	20	451231	4.4
+	"Virginia Beach city, VA"	"51810"	"2021"	"2021"	25	457672	5.5
+	"Virginia Beach city, VA"	"51810"	"2022"	"2022"	30	455618	6.6
+	"Virginia Beach city, VA"	"51810"	"2023 "	"2023"	29	453649	6.4
+	"Benton County, WA"	"53005"	"2021"	"2021"	11	210025	Unreliable
+	"Benton County, WA"	"53005"	"2022"	"2022"	22	212791	10.3
+	"Benton County, WA"	"53005"	"2023 "	"2023"	11	215219	Unreliable
+	"Clark County, WA"	"53011"	"2018"	"2018"	14	481857	Unreliable
+	"Clark County, WA"	"53011"	"2019"	"2019"	13	488241	Unreliable
+	"Clark County, WA"	"53011"	"2020"	"2020"	14	496865	Unreliable
+	"Clark County, WA"	"53011"	"2021"	"2021"	27	511404	5.3
+	"Clark County, WA"	"53011"	"2022"	"2022"	16	516779	Unreliable
+	"Clark County, WA"	"53011"	"2023 "	"2023"	23	521150	4.4
+	"King County, WA"	"53033"	"2018"	"2018"	84	2233163	3.8
+	"King County, WA"	"53033"	"2019"	"2019"	64	2252782	2.8
+	"King County, WA"	"53033"	"2020"	"2020"	104	2274315	4.6
+	"King County, WA"	"53033"	"2021"	"2021"	107	2252305	4.8
+	"King County, WA"	"53033"	"2022"	"2022"	118	2266789	5.2
+	"King County, WA"	"53033"	"2023 "	"2023"	138	2271380	6.1
+	"Kitsap County, WA"	"53035"	"2023 "	"2023"	11	277658	Unreliable
+	"Pierce County, WA"	"53053"	"2018"	"2018"	42	891299	4.7
+	"Pierce County, WA"	"53053"	"2019"	"2019"	38	904980	4.2
+	"Pierce County, WA"	"53053"	"2020"	"2020"	48	913890	5.3
+	"Pierce County, WA"	"53053"	"2021"	"2021"	64	925708	6.9
+	"Pierce County, WA"	"53053"	"2022"	"2022"	76	927380	8.2
+	"Pierce County, WA"	"53053"	"2023 "	"2023"	61	928696	6.6
+	"Snohomish County, WA"	"53061"	"2018"	"2018"	23	814901	2.8
+	"Snohomish County, WA"	"53061"	"2019"	"2019"	21	822083	2.6
+	"Snohomish County, WA"	"53061"	"2020"	"2020"	21	830393	2.5
+	"Snohomish County, WA"	"53061"	"2021"	"2021"	21	833540	2.5
+	"Snohomish County, WA"	"53061"	"2022"	"2022"	35	840079	4.2
+	"Snohomish County, WA"	"53061"	"2023 "	"2023"	33	844761	3.9
+	"Spokane County, WA"	"53063"	"2018"	"2018"	17	514631	Unreliable
+	"Spokane County, WA"	"53063"	"2019"	"2019"	11	522798	Unreliable
+	"Spokane County, WA"	"53063"	"2020"	"2020"	19	528225	Unreliable
+	"Spokane County, WA"	"53063"	"2021"	"2021"	24	546040	4.4
+	"Spokane County, WA"	"53063"	"2022"	"2022"	31	549690	5.6
+	"Spokane County, WA"	"53063"	"2023 "	"2023"	32	551455	5.8
+	"Thurston County, WA"	"53067"	"2023 "	"2023"	11	299003	Unreliable
+	"Yakima County, WA"	"53077"	"2018"	"2018"	32	251446	12.7
+	"Yakima County, WA"	"53077"	"2019"	"2019"	26	250873	10.4
+	"Yakima County, WA"	"53077"	"2020"	"2020"	37	251879	14.7
+	"Yakima County, WA"	"53077"	"2021"	"2021"	22	256035	8.6
+	"Yakima County, WA"	"53077"	"2022"	"2022"	34	257001	13.2
+	"Yakima County, WA"	"53077"	"2023 "	"2023"	39	256643	15.2
+	"Cabell County, WV"	"54011"	"2020"	"2020"	12	91589	Unreliable
+	"Cabell County, WV"	"54011"	"2021"	"2021"	10	93418	Unreliable
+	"Kanawha County, WV"	"54039"	"2018"	"2018"	20	180454	11.1
+	"Kanawha County, WV"	"54039"	"2019"	"2019"	16	178124	Unreliable
+	"Kanawha County, WV"	"54039"	"2020"	"2020"	22	176253	12.5
+	"Kanawha County, WV"	"54039"	"2021"	"2021"	15	177952	Unreliable
+	"Kanawha County, WV"	"54039"	"2022"	"2022"	21	175515	12.0
+	"Kanawha County, WV"	"54039"	"2023 "	"2023"	13	174805	Unreliable
+	"Raleigh County, WV"	"54081"	"2023 "	"2023"	12	72356	Unreliable
+	"Dane County, WI"	"55025"	"2020"	"2020"	14	552536	Unreliable
+	"Dane County, WI"	"55025"	"2021"	"2021"	16	563951	Unreliable
+	"Dane County, WI"	"55025"	"2022"	"2022"	13	568203	Unreliable
+	"Dane County, WI"	"55025"	"2023 "	"2023"	16	575347	Unreliable
+	"Kenosha County, WI"	"55059"	"2019"	"2019"	10	169561	Unreliable
+	"Kenosha County, WI"	"55059"	"2021"	"2021"	17	168732	Unreliable
+	"Milwaukee County, WI"	"55079"	"2018"	"2018"	121	948201	12.8
+	"Milwaukee County, WI"	"55079"	"2019"	"2019"	122	945726	12.9
+	"Milwaukee County, WI"	"55079"	"2020"	"2020"	210	945016	22.2
+	"Milwaukee County, WI"	"55079"	"2021"	"2021"	215	928059	23.2
+	"Milwaukee County, WI"	"55079"	"2022"	"2022"	228	918661	24.8
+	"Milwaukee County, WI"	"55079"	"2023 "	"2023"	185	916205	20.2
+	"Racine County, WI"	"55101"	"2021"	"2021"	12	196896	Unreliable
+	"Racine County, WI"	"55101"	"2022"	"2022"	13	195846	Unreliable
+	"Racine County, WI"	"55101"	"2023 "	"2023"	12	196613	Unreliable
+	"Waukesha County, WI"	"55133"	"2020"	"2020"	13	406172	Unreliable
+	"Winnebago County, WI"	"55139"	"2020"	"2020"	10	171631	Unreliable
+"---"
+"Dataset: Underlying Cause of Death, 2018-2023, Single Race"
+"Query Parameters:"
+"ICD-10 Codes: X85-Y09 (Assault)"
+"Group By: County; Year"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd-expanded.html for more information."
+"---"
+"Query Date: Jan 29, 2026 9:44:57 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 2018-2023 on CDC WONDER Online Database, released in 2024. Data are from the Multiple Cause of Death Files,"
+"2018-2023, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/ucd-icd10-expanded.html on Jan 29, 2026 9:44:57 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Deaths are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Deaths and population estimates are shown separately from the adjacent counties for Carson City, Nevada (FIPS code 32510)."
+"2. Deaths and population estimates are reported separately for Baltimore City (FIPS code 24510) and Baltimore county (FIPS code"
+"24005)."
+"3. Deaths and population estimates are reported separately for St. Louis City (FIPS code 29510) and county (FIPS code 29189)."
+"4. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Assurance of Confidentiality."
+"5. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Unreliable."
+"6. The population figures for years 2023 are single-race estimates of the July 1 resident population, from the Vintage 2023"
+"postcensal series released by the Census Bureau on June 27, 2024. The 2023 series is based on the Modified Blended Base produced"
+"by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The Modified Blended Base consists of the blend"
+"of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic Analysis Estimates, and 2020 Census data"
+"from the internal Census Edited File (CEF). The population figures for years 2022 are single-race estimates of the July 1"
+"resident population, from the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023. The 2022 series is"
+"based on the Modified Blended Base produced by the US Census Bureau in lieu of the April 1, 2020 decennial population count. The"
+"Modified Blended Base consists of the blend of Vintage 2020 postcensal population estimates for April 1, 2020, 2020 Demographic"
+"Analysis Estimates, and 2020 Census data from the internal Census Edited File (CEF). The population figures for years 2021 are"
+"single-race estimates of the July 1 resident population, based on the Blended Base produced by the US Census Bureau in lieu of"
+"the April 1, 2020 decennial population count, from the Vintage 2021 postcensal series released by the Census Bureau on June 30,"
+"2022. The population figures for year 2020 are single-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series based on April 2010 Census, released by the Census Bureau on July 27, 2021. The population figures for year"
+"2019 are single-race estimates of the July 1 resident population, from the Vintage 2019 postcensal series based on April 2010"
+"Census, released by the Census Bureau on June 25, 2020. The population figures for year 2018 are single-race estimates of the"
+"July 1 resident population, from the Vintage 2018 postcensal series based on April 2010 Census, released by the Census Bureau on"
+"June 20, 2019. More information: http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Population Data."
+"7. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Age"
+"Group."
+"8. On March 11, 2021, the 2019 mortality data on CDC WONDER was updated with the 2019 mortality data updated by NCHS on March 4,"
+"2021 to include corrected information for residents of Texas affecting 5 records previously coded to cause code *U01.4,"
+"Terrorism involving firearms (homicide). The underlying and multiple cause of death codes for 5 records were corrected in the"
+"2019 data. Underlying and multiple cause of death codes for those 5 records were recoded to Assault (homicide) by other and"
+"unspecified firearm discharge, ICD-10 code X95. The corrected final death records replaces the data released on December 22,"
+"2020."
+"9. Connecticut population estimates for 2022 and later years are reported for 9 planning regions as county equivalent areas,"
+"instead of the former 8 legacy counties in the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023,"
+"and in the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. Populations estimates for the former"
+"counties are not available for 2022 and later years. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd-expanded.html#Connecticut-2022."
+"10. After the creation of the final 2023 dataset, North Carolina updated the cause of death information for over 900 death"
+"certificates to include a cause of death code indicating drug overdose (ICD-10 underlying cause-of-death codes: X40-X44,"
+"X60-X64, X85, and Y10-Y14). Jurisdictions can continue to update death certificates after the closing of the mortality file. As"
+"a result, users should consider that the actual death count for drug overdose deaths for North Carolina in 2023 is over 4,400"
+"deaths, with a crude rate of approximately 41.0 per 100,000 population, and an age-adjusted rate of approximately 42.1 per"
+"100,000 population. These deaths will not be updated on the final mortality datasets."
