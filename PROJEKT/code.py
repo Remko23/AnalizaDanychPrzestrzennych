@@ -233,6 +233,8 @@ folium.plugins.GroupedLayerControl(
     collapsed=True
 ).add_to(m)
 
+plugins.Search(layer=cp_qol.geojson, geom_type='Polygon', placeholder='Szukaj hrabstwa', collapsed=True, search_label='NAME', weight=3, position='topright').add_to(m)
+
 floating_panel_html = f'''
 <div id="info-panel" style="
     position: fixed; bottom: 50px; left: 50px; width: 300px; height: auto; max-height: 400px;
@@ -301,7 +303,21 @@ floating_panel_html = f'''
 
 m.get_root().html.add_child(folium.Element(floating_panel_html))
 
-plugins.Search(layer=cp_qol.geojson, geom_type='Polygon', placeholder='Szukaj hrabstwa', collapsed=True, search_label='NAME', weight=3, position='bottomleft').add_to(m)
+# Wymuszenie pozycji wyszukiwarki za pomocą CSS (hack na uparte biblioteki)
+css_hack = """
+<style>
+.leaflet-control-search {
+    position: fixed !important;
+    top: 70px !important;
+    right: 10px !important;
+    left: auto !important;
+    bottom: auto !important;
+    z-index: 10000;
+}
+</style>
+"""
+m.get_root().html.add_child(folium.Element(css_hack))
+
 plugins.MiniMap(toggle_display=True).add_to(m)
 
 m.save('output_maps/final_map_usa.html')
